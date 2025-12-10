@@ -1,13 +1,18 @@
 settings:
   enable_llm: false
-  llm_top_n: 5 # 每个榜单只分析前5个，省钱
+  llm_top_n: 5        # 只对前 5 个进行 AI 总结 (省流)
+  # 新增：控制列表显示数量
+  top_list_limit: 10  
+  # 新增：指定 AI 模型 (Groq 使用 Llama3, OpenAI 使用 gpt-4o)
+  ai_model: "llama-3.3-70b-versatile" 
+  
   history_file: "data/history.json"
   archive_dir: "archives"
   readme_file: "README.md"
   readme_header: |
-    # 📈 OSSInsight 每日开源热点
-
-    探索 GitHub 上最热门的开源项目，由 AI 辅助分析。
+    # 📈 OSSInsight 每日精选 (Top 10)
+    
+    每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
 
 # 这里定义你需要抓取的列表
 # language: 编程语言 (All, Python, Go, Java, Rust, JavaScript, TypeScript, C++, etc.)
