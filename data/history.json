@@ -1,1 +1,74 @@
-{}
+{
+  "microsoft/VibeVoice": {
+    "summary": "微软的VibeVoice项目是一个开源的前沿语音AI技术。",
+    "updated_at": "2025-12-10"
+  },
+  "assetnote/react2shell-scanner": {
+    "summary": "检测React和Next.js远程代码执行（RCE）漏洞。",
+    "updated_at": "2025-12-10"
+  },
+  "DayuanJiang/next-ai-draw-io": {
+    "summary": "该项目是一个集成AI能力的在线绘图应用，支持自然语言命令和AI辅助可视化。",
+    "updated_at": "2025-12-10"
+  },
+  "lfnovo/open-notebook": {
+    "summary": "开源笔记本项目，实现灵活的笔记本功能。",
+    "updated_at": "2025-12-10"
+  },
+  "datawhalechina/hello-agents": {
+    "summary": "该项目提供智能体原理与实践教程，从零开始构建智能体。",
+    "updated_at": "2025-12-10"
+  },
+  "sansan0/TrendRadar": {
+    "summary": "该项目是一个基于AI的舆情监控分析工具，聚合多平台热点新闻并进行智能分析。",
+    "updated_at": "2025-12-10"
+  },
+  "Tongyi-MAI/Z-Image": {
+    "summary": "Tongyi-MAI/Z-Image 是一个开源的图像处理和分析项目。",
+    "updated_at": "2025-12-10"
+  },
+  "666ghj/BettaFish": {
+    "summary": "微舆：多Agent舆情分析助手，打破信息茧房，预测未来走向，辅助决策。",
+    "updated_at": "2025-12-10"
+  },
+  "KaijuEngine/kaiju": {
+    "summary": "KaijuEngine是一个使用Go语言和Vulkan开发的通用3D和2D游戏引擎，内置编辑器。",
+    "updated_at": "2025-12-10"
+  },
+  "ziggy42/epsilon": {
+    "summary": "该项目是一个用Go语言编写的WASM虚拟机，实现了无依赖的运行。",
+    "updated_at": "2025-12-10"
+  },
+  "steveyegge/beads": {
+    "summary": "Beads是一个为编码助手提供的内存升级工具。",
+    "updated_at": "2025-12-10"
+  },
+  "router-for-me/CLIProxyAPI": {
+    "summary": "该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。",
+    "updated_at": "2025-12-10"
+  },
+  "ZerkerEOD/krakenhashes": {
+    "summary": "该项目是一个开源工具，用于破解Kraken加密的哈希值。",
+    "updated_at": "2025-12-10"
+  },
+  "block/goose": {
+    "summary": "block/goose 是一个开源的 AI 代理，能够自动安装、执行、编辑和测试代码，支持多种大型语言模型。",
+    "updated_at": "2025-12-10"
+  },
+  "rustfs/rustfs": {
+    "summary": "RustFS 是一个开源的、兼容 S3 的高性能对象存储系统。",
+    "updated_at": "2025-12-10"
+  },
+  "sinelaw/fresh": {
+    "summary": "这是一个终端下的文本编辑器，易用、强大且快速。",
+    "updated_at": "2025-12-10"
+  },
+  "tempoxyz/tempo": {
+    "summary": "Tempo 是一个区块链项目，主要用于支付系统。",
+    "updated_at": "2025-12-10"
+  },
+  "mayocream/koharu": {
+    "summary": "mayocream/koharu 是一个使用 Rust 编写的 AI 漫画翻译器。",
+    "updated_at": "2025-12-10"
+  }
+}
