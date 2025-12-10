@@ -49,7 +49,7 @@ def save_history(filepath, history):
         json.dump(history, f, ensure_ascii=False, indent=2)
 
 # === 3. 数据获取 ===
-def fetch_trending(language, period):
+def fetch_trending(language, period, limit=10):
     url = "https://api.ossinsight.io/q/trending-repos"
     params = {"language": language, "period": period, "format": "json"}
     try:
@@ -57,38 +57,37 @@ def fetch_trending(language, period):
         resp = requests.get(url, params=params, timeout=30)
         resp.raise_for_status()
         data = resp.json().get("data", [])
-        return data
+        
+        # --- 关键修改：在这里强制截取前 N 条 ---
+        return data[:limit] 
+        
     except Exception as e:
         print(f"❌ 抓取失败: {e}")
         return []
 
 # === 4. AI 摘要生成 ===
-def generate_ai_summary(client, repo_info):
-    """
-    生成单个项目的精简评价
-    """
+def generate_ai_summary(client, repo_info, model_name):
     if not client: return ""
     
     name = repo_info.get('repo_name')
     desc = repo_info.get('description', '')
-    stars = repo_info.get('stars', 0)
-
+    
+    # 构建 Prompt
     prompt = (
-        f"项目: {name}\n"
-        f"描述: {desc}\n"
-        f"Stars: {stars}\n"
-        "请用中文一句话概括这个项目的核心价值或用途，不要超过50个字。"
+        f"项目名称: {name}\n"
+        f"项目描述: {desc}\n"
+        "请用中文一句话概括这个项目的核心功能，通俗易懂，不要超过 50 个字。"
     )
 
     try:
-        # print(f"🤖 AI 分析中: {name}...") 
         response = client.chat.completions.create(
-            model="gpt-4o-mini", # 或 gpt-3.5-turbo
+            model=model_name, # 使用配置的模型名称 (如 llama-3.3-70b)
             messages=[
-                {"role": "system", "content": "你是一个开源技术专家。"},
+                {"role": "system", "content": "你是一个精通开源技术的分析师。"},
                 {"role": "user", "content": prompt}
             ],
-            max_tokens=100
+            max_tokens=100,
+            temperature=0.3
         )
         return response.choices[0].message.content.strip()
     except Exception as e:
@@ -107,19 +106,18 @@ def build_markdown_section(title, repos, settings, history, llm_client):
         stars = repo.get('stars', 0)
         raw_desc = repo.get('description', '').replace('|', '\|').replace('\n', ' ')
         
-        # --- AI 逻辑 ---
         final_desc = raw_desc
-        # 仅对前 N 个项目启用 AI，且检查缓存
+        # 使用配置中的 ai_model
+        model_name = settings.get('ai_model', 'gpt-3.5-turbo')
+
         if idx <= settings.get('llm_top_n', 5) and settings['enable_llm']:
-            # 检查缓存
             if name in history:
                 final_desc = f"🤖 {history[name]['summary']}"
             else:
-                # 调用 AI
-                ai_summary = generate_ai_summary(llm_client, repo)
+                # 传入 model_name
+                ai_summary = generate_ai_summary(llm_client, repo, model_name)
                 if ai_summary:
                     final_desc = f"🤖 {ai_summary}"
-                    # 更新缓存
                     history[name] = {
                         "summary": ai_summary,
                         "updated_at": datetime.datetime.now().strftime("%Y-%m-%d")
@@ -132,6 +130,7 @@ def build_markdown_section(title, repos, settings, history, llm_client):
         section += f"| {idx} | [{name}]({url}) | 🔥 {stars} | {final_desc} |\n"
     
     return section
+
 
 # === 6. 归档索引更新 ===
 def get_archives_list(archive_dir):
@@ -152,12 +151,11 @@ def get_archives_list(archive_dir):
 
 # === 主程序 ===
 def main():
-    # 1. 准备环境
     config = load_config()
     settings = config['settings']
     history = load_history(settings['history_file'])
     
-    # 初始化 LLM
+    # 初始化 LLM (Groq 也是使用 OpenAI Client)
     llm_client = None
     if settings['enable_llm']:
         api_key = os.environ.get("OPENAI_API_KEY")
@@ -175,11 +173,14 @@ def main():
 
     # 遍历集合抓取数据
     for col in config['collections']:
-        repos = fetch_trending(col['language'], col['period'])
+        # 传入 limit 参数
+        limit = settings.get('top_list_limit', 10)
+        repos = fetch_trending(col['language'], col['period'], limit=limit)
+        
         if repos:
             section_md = build_markdown_section(col['title'], repos, settings, history, llm_client)
             report_content += section_md + "\n"
-        time.sleep(1) # 礼貌请求，防止限流
+        time.sleep(1)
 
     # 3. 保存每日归档 (archives/202X-XX-XX.md)
     archive_dir = settings['archive_dir']
