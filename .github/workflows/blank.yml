@@ -1,0 +1,46 @@
+name: Daily OSSInsight Report
+
+on:
+  schedule:
+    - cron: '0 1 * * *' # 每天 UTC 01:00 运行
+  workflow_dispatch:
+
+jobs:
+  run-tracker:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Script
+        env:
+          # 从 GitHub Secrets 读取
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
+          # 从 GitHub Variables 读取 (或者直接写 true/false)
+          ENABLE_LLM: ${{ vars.ENABLE_LLM || 'false' }}
+        run: python main.py
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "gh-actions-bot"
+          git config --global user.email "bot@noreply.github.com"
+          git add .
+          
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "update: daily report $(date +'%Y-%m-%d')"
+            git push
+          fi
