@@ -1,0 +1,25 @@
+settings:
+  enable_llm: false  # 是否开启 AI 总结 (需要配置 OPENAI_API_KEY)
+  history_file: "data/history.json"
+  archive_dir: "archives"
+  readme_file: "README.md"
+
+# 这里定义你需要抓取的列表
+# language: 编程语言 (All, Python, Go, Java, Rust, JavaScript, TypeScript, C++, etc.)
+# period: 时间范围 (past_24_hours, past_week, past_month, past_year)
+collections:
+  - title: "🔥 全球热榜 (24h)"
+    language: "All"
+    period: "past_24_hours"
+
+  - title: "🐍 Python 热门 (周榜)"
+    language: "Python"
+    period: "past_week"
+
+  - title: "🐹 Go 语言精选 (24h)"
+    language: "Go"
+    period: "past_24_hours"
+    
+  - title: "🦀 Rust 新秀 (24h)"
+    language: "Rust"
+    period: "past_24_hours"
