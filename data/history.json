@@ -70,5 +70,25 @@
   "mayocream/koharu": {
     "summary": "mayocream/koharu 是一个使用 Rust 编写的 AI 漫画翻译器。",
     "updated_at": "2025-12-10"
+  },
+  "MattParkerDev/SharpIDE": {
+    "summary": "SharpIDE 是一个跨平台的 .NET 集成开发环境。",
+    "updated_at": "2025-12-11"
+  },
+  "donlon/cloudflare-error-page": {
+    "summary": "该项目是一个Cloudflare错误页面生成工具，帮助用户创建自定义错误页面。",
+    "updated_at": "2025-12-11"
+  },
+  "RostislavDugin/postgresus": {
+    "summary": "PostgreSQL 备份工具，帮助用户轻松备份和恢复数据库。",
+    "updated_at": "2025-12-11"
+  },
+  "getarcaneapp/arcane": {
+    "summary": "该项目是一个现代化的Docker管理工具，旨在让所有人都能轻松使用。",
+    "updated_at": "2025-12-11"
+  },
+  "iagooar/qqqa": {
+    "summary": "该项目是一个快速的、无状态的LLM（大语言模型），可以在shell中回答问题和运行命令。",
+    "updated_at": "2025-12-11"
   }
 }
