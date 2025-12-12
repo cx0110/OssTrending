@@ -90,5 +90,25 @@
   "iagooar/qqqa": {
     "summary": "该项目是一个快速的、无状态的LLM（大语言模型），可以在shell中回答问题和运行命令。",
     "updated_at": "2025-12-11"
+  },
+  "thedotmack/claude-mem": {
+    "summary": "Claude Mem 插件自动记录和压缩代码编辑过程，并在未来会话中提供相关上下文。",
+    "updated_at": "2025-12-12"
+  },
+  "Tencent/WeKnora": {
+    "summary": "腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。",
+    "updated_at": "2025-12-12"
+  },
+  "MadAppGang/dingo": {
+    "summary": "Dingo 是 Go 语言的元语言，增加了结果类型、错误传播和模式匹配功能。",
+    "updated_at": "2025-12-12"
+  },
+  "dhanji/g3": {
+    "summary": "该项目是关于实验性的Goose项目，进行相关功能尝试。",
+    "updated_at": "2025-12-12"
+  },
+  "nubskr/walrus": {
+    "summary": "一个用Rust编写的高性能Kafka替代品。",
+    "updated_at": "2025-12-12"
   }
 }
