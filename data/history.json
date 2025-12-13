@@ -110,5 +110,29 @@
   "nubskr/walrus": {
     "summary": "一个用Rust编写的高性能Kafka替代品。",
     "updated_at": "2025-12-12"
+  },
+  "agentsmd/agents.md": {
+    "summary": "AGENTS.md 是一个开源项目，提供一种简单的格式来指导编码代理的行为。",
+    "updated_at": "2025-12-13"
+  },
+  "tw93/Mole": {
+    "summary": "这个项目是一个 Mac 优化工具，帮助用户深入优化 Mac 的性能和配置。",
+    "updated_at": "2025-12-13"
+  },
+  "CodeOne45/vex-tui": {
+    "summary": "这是一个终端下的Excel和CSV文件查看器。",
+    "updated_at": "2025-12-13"
+  },
+  "charmbracelet/crush": {
+    "summary": "Charmbracelet/crush 是一个人工智能编码助手，帮助用户在终端中编写代码。",
+    "updated_at": "2025-12-13"
+  },
+  "reacherhq/check-if-email-exists": {
+    "summary": "该项目是一个 Rust 编写的工具，用于检查电子邮件地址是否存在，不需要发送邮件。",
+    "updated_at": "2025-12-13"
+  },
+  "tursodatabase/turso": {
+    "summary": "Turso 是一个嵌入式 SQL 数据库，兼容 SQLite。",
+    "updated_at": "2025-12-13"
   }
 }
