@@ -134,5 +134,21 @@
   "tursodatabase/turso": {
     "summary": "Turso 是一个嵌入式 SQL 数据库，兼容 SQLite。",
     "updated_at": "2025-12-13"
+  },
+  "Anionex/banana-slides": {
+    "summary": "基于nano banana pro的AI PPT生成应用，支持上传模板和素材，智能解析和自动生成PPT。",
+    "updated_at": "2025-12-14"
+  },
+  "VictoriaMetrics/VictoriaLogs": {
+    "summary": "VictoriaMetrics/VictoriaLogs 是一个快速、易用的日志数据库，能高效处理大量日志数据。",
+    "updated_at": "2025-12-14"
+  },
+  "unkn0wn-root/resterm": {
+    "summary": "一个终端客户端，支持HTTP、GraphQL、gRPC等协议，具有隧道、WebSockets等功能。",
+    "updated_at": "2025-12-14"
+  },
+  "trailbaseio/trailbase": {
+    "summary": "Trailbase 是一个快速的开源应用服务器，支持实时功能、身份验证和管理界面。",
+    "updated_at": "2025-12-14"
   }
 }
