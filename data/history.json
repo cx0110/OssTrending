@@ -150,5 +150,29 @@
   "trailbaseio/trailbase": {
     "summary": "Trailbase 是一个快速的开源应用服务器，支持实时功能、身份验证和管理界面。",
     "updated_at": "2025-12-14"
+  },
+  "zai-org/Open-AutoGLM": {
+    "summary": "该项目是一个开源的手机智能助手模型和框架，旨在让人工智能手机技术惠及所有人。",
+    "updated_at": "2025-12-15"
+  },
+  "CopilotKit/CopilotKit": {
+    "summary": "CopilotKit 是一个 React UI 框架，用于构建 AI 聊天机器人和应用内 AI 代理。",
+    "updated_at": "2025-12-15"
+  },
+  "daytonaio/daytona": {
+    "summary": "Daytona 是一个安全且可扩展的平台，用于运行人工智能生成的代码。",
+    "updated_at": "2025-12-15"
+  },
+  "looplj/axonhub": {
+    "summary": "AxonHub 是一个现代 AI 网关系统，提供统一的 AI 接口。",
+    "updated_at": "2025-12-15"
+  },
+  "memodb-io/Acontext": {
+    "summary": "Acontext 是一个上下文数据平台，为智能代理提供数据支持。",
+    "updated_at": "2025-12-15"
+  },
+  "eudoxia0/hashcards": {
+    "summary": "这是一个基于文本的间隔重复系统，帮助用户高效记忆知识。",
+    "updated_at": "2025-12-15"
   }
 }
