@@ -174,5 +174,25 @@
   "eudoxia0/hashcards": {
     "summary": "这是一个基于文本的间隔重复系统，帮助用户高效记忆知识。",
     "updated_at": "2025-12-15"
+  },
+  "simstudioai/sim": {
+    "summary": "开源平台，用于构建和部署人工智能代理工作流。",
+    "updated_at": "2025-12-16"
+  },
+  "MotiaDev/motia": {
+    "summary": "Motia 是一个多语言后端框架，统一了 API、任务、队列、工作流等功能。",
+    "updated_at": "2025-12-16"
+  },
+  "raghavyuva/nixopus": {
+    "summary": "开源平台，简化部署和管理工作流程。",
+    "updated_at": "2025-12-16"
+  },
+  "OpenListTeam/OpenList": {
+    "summary": "OpenListTeam/OpenList 是一个新的 AList 分支，旨在应对反垄断危机。",
+    "updated_at": "2025-12-16"
+  },
+  "tursodatabase/agentfs": {
+    "summary": "该项目是一个为智能代理系统提供的文件系统。",
+    "updated_at": "2025-12-16"
   }
 }
