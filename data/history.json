@@ -194,5 +194,21 @@
   "tursodatabase/agentfs": {
     "summary": "该项目是一个为智能代理系统提供的文件系统。",
     "updated_at": "2025-12-16"
+  },
+  "IAmTomShaw/f1-race-replay": {
+    "summary": "该项目提供了一种 Formula 1 赛车比赛回放的可视化工具。",
+    "updated_at": "2025-12-17"
+  },
+  "KeygraphHQ/shannon": {
+    "summary": "Shannon 是一个全自主的 AI 黑客工具，用于发现 Web 应用的实际漏洞。",
+    "updated_at": "2025-12-17"
+  },
+  "Ingenimax/agent-sdk-go": {
+    "summary": "Ingenimax/agent-sdk-go 是一个 Go 框架，用于构建生产级别的 AI 代理。",
+    "updated_at": "2025-12-17"
+  },
+  "Barre/ZeroFS": {
+    "summary": "ZeroFS 将 S3 作为主存储，支持 9P/NFS/NBD 协议。",
+    "updated_at": "2025-12-17"
   }
 }
