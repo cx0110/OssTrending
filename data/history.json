@@ -210,5 +210,25 @@
   "Barre/ZeroFS": {
     "summary": "ZeroFS 将 S3 作为主存储，支持 9P/NFS/NBD 协议。",
     "updated_at": "2025-12-17"
+  },
+  "apple/ml-sharp": {
+    "summary": "该项目实现了快速单目视图合成，仅需不到一秒。",
+    "updated_at": "2025-12-18"
+  },
+  "NoFxAiOS/nofx": {
+    "summary": "一个开源的交易操作系统，集成了人工智能和多交易所支持。",
+    "updated_at": "2025-12-18"
+  },
+  "ostafen/digler": {
+    "summary": "Digler 是一个用于磁盘取证分析和文件恢复的工具。",
+    "updated_at": "2025-12-18"
+  },
+  "taetaehoho/poly-kalshi-arb": {
+    "summary": "该项目是一个开源的套利交易系统，用于自动化套利交易。",
+    "updated_at": "2025-12-18"
+  },
+  "cocoindex-io/cocoindex": {
+    "summary": "该项目是一个用于人工智能的数据转换框架，具有超高性能和增量处理能力。",
+    "updated_at": "2025-12-18"
   }
 }
