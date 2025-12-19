@@ -230,5 +230,37 @@
   "cocoindex-io/cocoindex": {
     "summary": "该项目是一个用于人工智能的数据转换框架，具有超高性能和增量处理能力。",
     "updated_at": "2025-12-18"
+  },
+  "openai/openai-fm": {
+    "summary": "OpenAI 语音API演示项目。",
+    "updated_at": "2025-12-19"
+  },
+  "code-yeongyu/oh-my-opencode": {
+    "summary": "该项目为OpenCode提供了丰富的插件和工具，包括异步子代理、语言服务和语法树等。",
+    "updated_at": "2025-12-19"
+  },
+  "C4illin/ConvertX": {
+    "summary": "这是一个自托管的在线文件转换工具，支持1000多种文件格式的转换。",
+    "updated_at": "2025-12-19"
+  },
+  "schollz/croc": {
+    "summary": "该项目是一个安全的文件传输工具，允许用户在不同电脑之间轻松传输文件。",
+    "updated_at": "2025-12-19"
+  },
+  "Polymarket/rs-clob-client": {
+    "summary": "Polymarket 的 Rust 语言 CLOB 客户端，用于连接中心限价订单簿。",
+    "updated_at": "2025-12-19"
+  },
+  "orhun/tuitar": {
+    "summary": "一个便携的吉他训练工具，帮助用户提高吉他演奏技巧。",
+    "updated_at": "2025-12-19"
+  },
+  "scanopy/scanopy": {
+    "summary": "scanopy 是一个网络图表工具，帮助用户创建和维护干净的网络图表，实现一次性设置和零维护。",
+    "updated_at": "2025-12-19"
+  },
+  "zensical/zensical": {
+    "summary": "zensical 是一个现代静态网站生成器。",
+    "updated_at": "2025-12-19"
   }
 }
