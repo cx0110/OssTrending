@@ -262,5 +262,25 @@
   "zensical/zensical": {
     "summary": "zensical 是一个现代静态网站生成器。",
     "updated_at": "2025-12-19"
+  },
+  "google/A2UI": {
+    "summary": "Google A2UI 是一个开源的 Android UI 组件库。",
+    "updated_at": "2025-12-20"
+  },
+  "anthropics/skills": {
+    "summary": "Anthropics/skills 是一个开源技能仓库项目。",
+    "updated_at": "2025-12-20"
+  },
+  "hezhizheng/go-wxpush": {
+    "summary": "微信消息推送服务，基于Golang，免费且极简。",
+    "updated_at": "2025-12-20"
+  },
+  "NexaAI/nexa-sdk": {
+    "summary": "NexaAI/nexa-sdk：支持多平台运行最新语言模型。",
+    "updated_at": "2025-12-20"
+  },
+  "BloopAI/vibe-kanban": {
+    "summary": "该项目是一个看板系统，用于管理人工智能编码代理。",
+    "updated_at": "2025-12-20"
   }
 }
