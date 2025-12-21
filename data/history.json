@@ -282,5 +282,25 @@
   "BloopAI/vibe-kanban": {
     "summary": "该项目是一个看板系统，用于管理人工智能编码代理。",
     "updated_at": "2025-12-20"
+  },
+  "timescale/pg_textsearch": {
+    "summary": "该项目是一个PostgreSQL的全文搜索扩展，支持BM25相关性排名。",
+    "updated_at": "2025-12-21"
+  },
+  "exo-explore/exo": {
+    "summary": "使用日常设备在家搭建人工智能集群。",
+    "updated_at": "2025-12-21"
+  },
+  "Dyneteq/reconya": {
+    "summary": "网络侦察和资产发现工具，用于扫描和识别网络中的设备和服务。",
+    "updated_at": "2025-12-21"
+  },
+  "terauss/Polymarket-Kalshi-Arbitrage-bot": {
+    "summary": "该项目是一个预测市场的套利机器人，实现跨平台自动交易。",
+    "updated_at": "2025-12-21"
+  },
+  "carthage-software/mago": {
+    "summary": "Mago 是一个 PHP 工具链，帮助开发者写出更好的代码。",
+    "updated_at": "2025-12-21"
   }
 }
