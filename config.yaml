@@ -22,13 +22,14 @@ collections:
     language: "All"
     period: "past_24_hours"
 
-  - title: "🐍 Python 热门 (周榜)"
-    language: "Python"
-    period: "past_week"
-
   - title: "🐹 Go 语言精选 (24h)"
     language: "Go"
     period: "past_24_hours"
+
+  - title: "🐍 Python 热门 (周榜)"
+    language: "Python"
+    period: "past_24_hours"
+   # period: "past_week"
     
   - title: "🦀 Rust 新秀 (24h)"
     language: "Rust"
