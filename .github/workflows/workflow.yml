@@ -44,3 +44,31 @@ jobs:
             git commit -m "update: daily report $(date +'%Y-%m-%d')"
             git push
           fi
+          
+      # === 新增步骤：推送到 Obsidian 仓库 (Repo B) ===
+      - name: Push to Obsidian Vault
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          # 记得在 Repo A 的 Secrets 里配置 API_TOKEN_GITHUB
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          # 来源：你的 Python 脚本生成的文件夹名 (config中 settings['archive_dir'] 的值)
+          # 默认为 archives/，如果你没改 config.yaml 就是这个
+          source-directory: 'archives/'
+          
+          # 目标：你的 GitHub 用户名
+          destination-github-username: 'cx0110'
+          
+          # 目标：你的 Obsidian 仓库名
+          destination-repository-name: 'ob-note'
+          
+          # 你的邮箱
+          user-email: 'github.cx0110@gmail.com'
+          
+          # 目标分支 (通常是 main 或 master)
+          target-branch: main
+          
+          # 【关键】目标路径：符合你的 PARA 结构
+          # 警告：这个文件夹内的旧内容会被 source-directory 的内容完全覆盖/同步
+          # 所以必须指定一个专属的子文件夹，不要直接填 00_Inbox，否则 Inbox 其他文件会被删！
+          target-directory: '90_Archives/Tech_News/OSSInsight'
