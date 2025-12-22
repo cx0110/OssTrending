@@ -1,7 +1,7 @@
 # 📈 OSSInsight 每日精选 (Top 10)
 
 每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
-> 更新时间: 2025-12-22 02:56 UTC
+> 更新时间: 2025-12-22 06:17 UTC
 
 ## 🔥 全球热榜 (24h)
 
@@ -18,21 +18,6 @@
 | 9 | [apple/ml-sharp](https://github.com/apple/ml-sharp) | 🔥 173 | Sharp Monocular View Synthesis in Less Than a Second |
 | 10 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 145 | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks,... |
 
-## 🐍 Python 热门 (周榜)
-
-| 排名 | 项目 | Stars | 简介 |
-| :--- | :--- | :--- | :--- |
-| 1 | [apple/ml-sharp](https://github.com/apple/ml-sharp) | 🔥 1667 | 🤖 该项目实现了快速单目视图合成，仅需不到一秒。 |
-| 2 | [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) | 🔥 1640 | 🤖 该项目是一个开源的手机智能助手模型和框架，旨在让人工智能手机技术惠及所有人。 |
-| 3 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 1203 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
-| 4 | [exo-explore/exo](https://github.com/exo-explore/exo) | 🔥 963 | 🤖 使用日常设备在家搭建人工智能集群。 |
-| 5 | [agentskills/agentskills](https://github.com/agentskills/agentskills) | 🔥 935 | 🤖 该项目提供智能代理技能的规范和文档。 |
-| 6 | [Anionex/banana-slides](https://github.com/Anionex/banana-slides) | 🔥 1061 | 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出 - An AI-native PPT generator based on na... |
-| 7 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 🔥 982 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
-| 8 | [IAmTomShaw/f1-race-replay](https://github.com/IAmTomShaw/f1-race-replay) | 🔥 874 |  |
-| 9 | [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2) | 🔥 700 | Native and Compact Structured Latents for 3D Generation |
-| 10 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 🔥 429 | 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人... |
-
 ## 🐹 Go 语言精选 (24h)
 
 | 排名 | 项目 | Stars | 简介 |
@@ -47,6 +32,21 @@
 | 8 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 32 | Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to... |
 | 9 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | 🔥 26 | Modern Docker Management, Designed for Everyone |
 | 10 | [53AI/53AIHub](https://github.com/53AI/53AIHub) | 🔥 27 | 53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, an... |
+
+## 🐍 Python 热门 (周榜)
+
+| 排名 | 项目 | Stars | 简介 |
+| :--- | :--- | :--- | :--- |
+| 1 | [agentskills/agentskills](https://github.com/agentskills/agentskills) | 🔥 525 | 🤖 该项目提供智能代理技能的规范和文档。 |
+| 2 | [exo-explore/exo](https://github.com/exo-explore/exo) | 🔥 548 | 🤖 使用日常设备在家搭建人工智能集群。 |
+| 3 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 467 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 4 | [Anionex/banana-slides](https://github.com/Anionex/banana-slides) | 🔥 170 | 🤖 基于nano banana pro的AI PPT生成应用，支持上传模板和素材，智能解析和自动生成PPT。 |
+| 5 | [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 🔥 182 | 🤖 这个项目提供了一个编码社区的平台，方便开发者交流和分享代码。 |
+| 6 | [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) | 🔥 136 | DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。​让安全不再昂贵，让审计不再复杂。 |
+| 7 | [apple/ml-sharp](https://github.com/apple/ml-sharp) | 🔥 167 | Sharp Monocular View Synthesis in Less Than a Second |
+| 8 | [astral-sh/ty](https://github.com/astral-sh/ty) | 🔥 121 | An extremely fast Python type checker and language server, written in Rust. |
+| 9 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 🔥 103 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| 10 | [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) | 🔥 93 | An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone |
 
 ## 🦀 Rust 新秀 (24h)
 

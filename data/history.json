@@ -322,5 +322,9 @@
   "hanebox/ekphos": {
     "summary": "一个轻量级的终端markdown研究工具，用于快速记录和组织笔记。",
     "updated_at": "2025-12-22"
+  },
+  "2025Emma/vibe-coding-cn": {
+    "summary": "这个项目提供了一个编码社区的平台，方便开发者交流和分享代码。",
+    "updated_at": "2025-12-22"
   }
 }
