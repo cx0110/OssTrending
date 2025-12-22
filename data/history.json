@@ -302,5 +302,25 @@
   "carthage-software/mago": {
     "summary": "Mago 是一个 PHP 工具链，帮助开发者写出更好的代码。",
     "updated_at": "2025-12-21"
+  },
+  "agentskills/agentskills": {
+    "summary": "该项目提供智能代理技能的规范和文档。",
+    "updated_at": "2025-12-22"
+  },
+  "danielmiessler/Fabric": {
+    "summary": "Fabric 是一个开源框架，利用人工智能来增强人类能力。",
+    "updated_at": "2025-12-22"
+  },
+  "m0n0x41d/quint-code": {
+    "summary": "该项目是一个结构化推理框架，用于支持假设驱动的决策和可审计的证据跟踪。",
+    "updated_at": "2025-12-22"
+  },
+  "jj-vcs/jj": {
+    "summary": "jj-vcs/jj 是一个兼容 Git 的版本控制系统，既简单又强大。",
+    "updated_at": "2025-12-22"
+  },
+  "hanebox/ekphos": {
+    "summary": "一个轻量级的终端markdown研究工具，用于快速记录和组织笔记。",
+    "updated_at": "2025-12-22"
   }
 }
