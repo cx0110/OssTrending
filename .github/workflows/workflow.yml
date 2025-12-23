@@ -72,3 +72,59 @@ jobs:
           # 警告：这个文件夹内的旧内容会被 source-directory 的内容完全覆盖/同步
           # 所以必须指定一个专属的子文件夹，不要直接填 00_Inbox，否则 Inbox 其他文件会被删！
           target-directory: '90_Archives/Tech_News/OSSInsight'
+
+      # 推送到博客 (追加模式)
+      - name: Append to Hugo Blog
+        env:
+          BLOG_REPO_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
+          BLOG_REPO: ${{ vars.BLOG_REPO }}
+        run: |
+          TODAY=$(date +'%Y-%m-%d')
+          # 必须和 Repo A 保持完全一致的目录名
+          POST_DIR="content/post/${TODAY}-daily-news"
+          
+          # 1. Clone 博客仓库
+          git clone --depth 1 https://x-access-token:${BLOG_REPO_TOKEN}@github.com/${BLOG_REPO}.git blog
+          
+          TARGET_FILE="blog/${POST_DIR}/index.md"
+          mkdir -p "blog/${POST_DIR}"
+          
+          # 2. 检查文件是否存在 (防止 Repo A 运行失败)
+          if [ ! -f "$TARGET_FILE" ]; then
+            echo "⚠️ Repo A 尚未创建文件，正在执行补救创建..."
+            cat > "$TARGET_FILE" << EOF
+          ---
+          title: "🔥 每日技术热点 ${TODAY}"
+          date: ${TODAY}T09:00:00+08:00
+          draft: false
+          ---
+          EOF
+          fi
+          
+          # 3. 追加 Repo B 的内容
+          # 先写入一个分割线和标题
+          echo "" >> "$TARGET_FILE"
+          echo "---" >> "$TARGET_FILE"
+          echo "" >> "$TARGET_FILE"
+          echo "## 🔥 OSSInsight 技术热点" >> "$TARGET_FILE"
+          echo "" >> "$TARGET_FILE"
+          
+          # 追加内容 (假设你的输出在 archives/${TODAY}.md)
+          if [ -f "archives/${TODAY}.md" ]; then
+            sed '1{/^#/d;}' "archives/${TODAY}.md" >> "$TARGET_FILE"
+          elif [ -f "README.md" ]; then
+             sed '1{/^#/d;}' README.md >> "$TARGET_FILE"
+          fi
+          
+          # 4. 推送
+          cd blog
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "🔥 Append OSSInsight: ${TODAY}"
+            git push
+          fi
