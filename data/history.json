@@ -326,5 +326,25 @@
   "2025Emma/vibe-coding-cn": {
     "summary": "这个项目提供了一个编码社区的平台，方便开发者交流和分享代码。",
     "updated_at": "2025-12-22"
+  },
+  "AndyMik90/Auto-Claude": {
+    "summary": "自动化多会话AI编码。",
+    "updated_at": "2025-12-23"
+  },
+  "mudler/LocalAI": {
+    "summary": "LocalAI 是一个开源、自托管的人工智能项目，能够在普通硬件上运行，实现文本、音频、图像等多种功能。",
+    "updated_at": "2025-12-23"
+  },
+  "steveklabnik/rue": {
+    "summary": "该项目是一个简化版的Rust编程语言。",
+    "updated_at": "2025-12-23"
+  },
+  "raine/workmux": {
+    "summary": "该项目实现了Git工作树和Tmux窗口的集成，实现零延迟的并行开发。",
+    "updated_at": "2025-12-23"
+  },
+  "BeaconBay/ck": {
+    "summary": "BeaconBay/ck 是一个本地搜索工具，支持语义搜索和混合搜索。",
+    "updated_at": "2025-12-23"
   }
 }
