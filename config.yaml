@@ -26,7 +26,7 @@ collections:
     language: "Go"
     period: "past_24_hours"
 
-  - title: "🐍 Python 热门 (周榜)"
+  - title: "🐍 Python 热门 (24h)"
     language: "Python"
     period: "past_24_hours"
    # period: "past_week"
