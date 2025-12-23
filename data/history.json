@@ -346,5 +346,13 @@
   "BeaconBay/ck": {
     "summary": "BeaconBay/ck 是一个本地搜索工具，支持语义搜索和混合搜索。",
     "updated_at": "2025-12-23"
+  },
+  "rendercv/rendercv": {
+    "summary": "RenderCV 是一个基于 Typst 的简历生成工具，帮助学术和工程领域的人士快速创建专业的简历。",
+    "updated_at": "2025-12-23"
+  },
+  "google/langextract": {
+    "summary": "谷歌的langextract项目是一个Python库，用于从无结构文本中提取结构化信息。",
+    "updated_at": "2025-12-23"
   }
 }

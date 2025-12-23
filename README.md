@@ -1,22 +1,22 @@
 # 📈 OSSInsight 每日精选 (Top 10)
 
 每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
-> 更新时间: 2025-12-23 02:50 UTC
+> 更新时间: 2025-12-23 10:10 UTC
 
 ## 🔥 全球热榜 (24h)
 
 | 排名 | 项目 | Stars | 简介 |
 | :--- | :--- | :--- | :--- |
-| 1 | [exo-explore/exo](https://github.com/exo-explore/exo) | 🔥 618 | 🤖 使用日常设备在家搭建人工智能集群。 |
-| 2 | [agentskills/agentskills](https://github.com/agentskills/agentskills) | 🔥 558 | 🤖 该项目提供智能代理技能的规范和文档。 |
-| 3 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 473 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
-| 4 | [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) | 🔥 317 | 🤖 自动化多会话AI编码。 |
-| 5 | [openai/openai-fm](https://github.com/openai/openai-fm) | 🔥 76 | 🤖 OpenAI 语音API演示项目。 |
-| 6 | [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) | 🔥 160 | An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone |
-| 7 | [google/A2UI](https://github.com/google/A2UI) | 🔥 183 |  |
-| 8 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 🔥 180 | Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! |
-| 9 | [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 🔥 158 | A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams throug... |
-| 10 | [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 🔥 158 |  |
+| 1 | [exo-explore/exo](https://github.com/exo-explore/exo) | 🔥 632 | 🤖 使用日常设备在家搭建人工智能集群。 |
+| 2 | [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) | 🔥 438 | 🤖 自动化多会话AI编码。 |
+| 3 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 428 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 4 | [rendercv/rendercv](https://github.com/rendercv/rendercv) | 🔥 436 | 🤖 RenderCV 是一个基于 Typst 的简历生成工具，帮助学术和工程领域的人士快速创建专业的简历。 |
+| 5 | [google/A2UI](https://github.com/google/A2UI) | 🔥 196 | 🤖 Google A2UI 是一个开源的 Android UI 组件库。 |
+| 6 | [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 🔥 166 |  |
+| 7 | [google/langextract](https://github.com/google/langextract) | 🔥 169 | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
+| 8 | [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) | 🔥 136 | DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。​让安全不再昂贵，让审计不再复杂。 |
+| 9 | [sst/opencode](https://github.com/sst/opencode) | 🔥 148 | The open source coding agent. |
+| 10 | [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) | 🔥 139 | An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone |
 
 ## 🐹 Go 语言精选 (24h)
 
@@ -33,20 +33,20 @@
 | 9 | [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) | 🔥 16 | Weighs the soul of incoming HTTP requests to stop AI crawlers |
 | 10 | [JakeNesler/Claude_Prophet](https://github.com/JakeNesler/Claude_Prophet) | 🔥 20 |  |
 
-## 🐍 Python 热门 (周榜)
+## 🐍 Python 热门 (24h)
 
 | 排名 | 项目 | Stars | 简介 |
 | :--- | :--- | :--- | :--- |
 | 1 | [exo-explore/exo](https://github.com/exo-explore/exo) | 🔥 606 | 🤖 使用日常设备在家搭建人工智能集群。 |
-| 2 | [agentskills/agentskills](https://github.com/agentskills/agentskills) | 🔥 511 | 🤖 该项目提供智能代理技能的规范和文档。 |
-| 3 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 446 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
-| 4 | [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) | 🔥 155 | 🤖 该项目是一个开源的手机智能助手模型和框架，旨在让人工智能手机技术惠及所有人。 |
-| 5 | [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 🔥 149 | 🤖 这个项目提供了一个编码社区的平台，方便开发者交流和分享代码。 |
-| 6 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 🔥 136 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
-| 7 | [apple/ml-sharp](https://github.com/apple/ml-sharp) | 🔥 127 | Sharp Monocular View Synthesis in Less Than a Second |
-| 8 | [google/langextract](https://github.com/google/langextract) | 🔥 124 | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
-| 9 | [rendercv/rendercv](https://github.com/rendercv/rendercv) | 🔥 159 | Typst-based CV/resume generator for academics and engineers |
-| 10 | [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) | 🔥 141 | A GPT-empowered penetration testing tool |
+| 2 | [anthropics/skills](https://github.com/anthropics/skills) | 🔥 411 | 🤖 Anthropics/skills 是一个开源技能仓库项目。 |
+| 3 | [rendercv/rendercv](https://github.com/rendercv/rendercv) | 🔥 422 | 🤖 RenderCV 是一个基于 Typst 的简历生成工具，帮助学术和工程领域的人士快速创建专业的简历。 |
+| 4 | [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) | 🔥 161 | 🤖 这个项目提供了一个编码社区的平台，方便开发者交流和分享代码。 |
+| 5 | [google/langextract](https://github.com/google/langextract) | 🔥 165 | 🤖 谷歌的langextract项目是一个Python库，用于从无结构文本中提取结构化信息。 |
+| 6 | [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) | 🔥 136 | DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。​让安全不再昂贵，让审计不再复杂。 |
+| 7 | [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) | 🔥 131 | An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone |
+| 8 | [agentskills/agentskills](https://github.com/agentskills/agentskills) | 🔥 144 | Specification and documentation for Agent Skills |
+| 9 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 🔥 112 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| 10 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 🔥 121 | An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms |
 
 ## 🦀 Rust 新秀 (24h)
 
