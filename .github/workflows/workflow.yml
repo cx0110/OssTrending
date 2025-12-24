@@ -2,7 +2,7 @@ name: Daily OSSInsight Report
 
 on:
   schedule:
-    - cron: '0 2 * * *' # 每天 UTC 01:00 运行
+    - cron: '0 18 * * *'
   workflow_dispatch:
 
 jobs:
