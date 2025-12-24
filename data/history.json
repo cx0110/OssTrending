@@ -354,5 +354,17 @@
   "google/langextract": {
     "summary": "谷歌的langextract项目是一个Python库，用于从无结构文本中提取结构化信息。",
     "updated_at": "2025-12-23"
+  },
+  "ComposioHQ/awesome-claude-skills": {
+    "summary": "该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。",
+    "updated_at": "2025-12-24"
+  },
+  "TecharoHQ/anubis": {
+    "summary": "该项目通过检测HTTP请求，阻止AI爬虫的访问。",
+    "updated_at": "2025-12-24"
+  },
+  "rex-rs/rex": {
+    "summary": "Rex 是一个 Rust 内核扩展框架，允许加载和执行 Rust 程序。",
+    "updated_at": "2025-12-24"
   }
 }
