@@ -366,5 +366,37 @@
   "rex-rs/rex": {
     "summary": "Rex 是一个 Rust 内核扩展框架，允许加载和执行 Rust 程序。",
     "updated_at": "2025-12-24"
+  },
+  "VibiumDev/vibium": {
+    "summary": "VibiumDev/vibium 是一个浏览器自动化工具，帮助人工智能和人类用户自动完成浏览器操作。",
+    "updated_at": "2025-12-25"
+  },
+  "WCY-dt/MrRSS": {
+    "summary": "WCY-dt/MrRSS 是一个跨平台的 RSS 阅读器，帮助用户订阅和阅读网络资讯。",
+    "updated_at": "2025-12-25"
+  },
+  "goforj/godump": {
+    "summary": "一个漂亮的Go语言调试工具，帮助开发者打印和排查Go结构体。",
+    "updated_at": "2025-12-25"
+  },
+  "resemble-ai/chatterbox": {
+    "summary": "开源的最先进文本转语音（TTS）项目。",
+    "updated_at": "2025-12-25"
+  },
+  "thu-ml/TurboDiffusion": {
+    "summary": "TurboDiffusion 项目旨在加速视频扩散模型的运行速度。",
+    "updated_at": "2025-12-25"
+  },
+  "flowsurface-rs/flowsurface": {
+    "summary": "一个用于加密货币市场的原生桌面图表平台。",
+    "updated_at": "2025-12-25"
+  },
+  "tonbo-io/tonbo": {
+    "summary": "Tonbo 是一个用于服务器无服务和边缘运行环境的嵌入式数据库。",
+    "updated_at": "2025-12-25"
+  },
+  "Firstp1ck/Pacsea": {
+    "summary": "快速搜索、检查和管理 Arch Linux 包。",
+    "updated_at": "2025-12-25"
   }
 }
