@@ -25,6 +25,7 @@ jobs:
 
       - name: Run Script
         env:
+          TZ: 'Asia/Shanghai'
           # 从 GitHub Secrets 读取
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
