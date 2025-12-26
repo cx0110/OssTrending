@@ -398,5 +398,25 @@
   "Firstp1ck/Pacsea": {
     "summary": "快速搜索、检查和管理 Arch Linux 包。",
     "updated_at": "2025-12-25"
+  },
+  "lbjlaq/Antigravity-Manager": {
+    "summary": "该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。",
+    "updated_at": "2025-12-26"
+  },
+  "bellard/mquickjs": {
+    "summary": "Micro QuickJS 是一个轻量级的 JavaScript 引擎。",
+    "updated_at": "2025-12-26"
+  },
+  "NdoleStudio/httpsms": {
+    "summary": "该项目允许通过简单的HTTP API使用安卓手机发送和接收短信。",
+    "updated_at": "2025-12-26"
+  },
+  "dennisyang1986/opensqt_market_maker": {
+    "summary": "OpenSQT 是一个加密货币做市商系统，专注于永续合约市场的做多网格交易策略。",
+    "updated_at": "2025-12-26"
+  },
+  "farion1231/cc-switch": {
+    "summary": "这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。",
+    "updated_at": "2025-12-26"
   }
 }
