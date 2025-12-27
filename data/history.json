@@ -418,5 +418,21 @@
   "farion1231/cc-switch": {
     "summary": "这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。",
     "updated_at": "2025-12-26"
+  },
+  "youhunwl/TVAPP": {
+    "summary": "该项目收集和整理Android TV应用，提供下载、更新和安全验证等功能。",
+    "updated_at": "2025-12-28"
+  },
+  "zakirullin/gpt-go": {
+    "summary": "这是一个用Go语言实现的微型GPT模型，训练数据来自儒勒·凡尔纳的书籍。",
+    "updated_at": "2025-12-28"
+  },
+  "apurvsinghgautam/robin": {
+    "summary": "该项目是一个使用人工智能技术的暗网情报工具，用于收集和分析暗网信息。",
+    "updated_at": "2025-12-28"
+  },
+  "muratcankoylan/Agent-Skills-for-Context-Engineering": {
+    "summary": "该项目提供多代理系统的上下文管理技能集合，用于优化和调试代理系统。",
+    "updated_at": "2025-12-28"
   }
 }
