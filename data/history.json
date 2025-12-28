@@ -434,5 +434,21 @@
   "muratcankoylan/Agent-Skills-for-Context-Engineering": {
     "summary": "该项目提供多代理系统的上下文管理技能集合，用于优化和调试代理系统。",
     "updated_at": "2025-12-28"
+  },
+  "pranshuparmar/witr": {
+    "summary": "该项目是一个帮助用户分析和优化系统资源占用的工具。",
+    "updated_at": "2025-12-29"
+  },
+  "eooce/node-ws": {
+    "summary": "该项目是一个基于 Node.js 的多协议代理服务器，支持 vless、trojan、shadowsocks 和 vmess 四种协议。",
+    "updated_at": "2025-12-29"
+  },
+  "blinkospace/blinko": {
+    "summary": "Blinko 是一个开源的个人 AI 笔记工具，优先考虑隐私和自托管。",
+    "updated_at": "2025-12-29"
+  },
+  "databasus/databasus": {
+    "summary": "Databasus 是一个数据库备份工具，支持 PostgreSQL、MySQL 和 MongoDB。",
+    "updated_at": "2025-12-29"
   }
 }
