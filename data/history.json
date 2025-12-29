@@ -450,5 +450,13 @@
   "databasus/databasus": {
     "summary": "Databasus 是一个数据库备份工具，支持 PostgreSQL、MySQL 和 MongoDB。",
     "updated_at": "2025-12-29"
+  },
+  "keploy/keploy": {
+    "summary": "Keploy 是一个 API 测试工具，帮助开发者生成测试用例和模拟数据。",
+    "updated_at": "2025-12-30"
+  },
+  "kubeden/clopus-watcher": {
+    "summary": "自动化24/7值班工程师，使用Cron作业监控系统。",
+    "updated_at": "2025-12-30"
   }
 }
