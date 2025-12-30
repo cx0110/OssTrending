@@ -458,5 +458,17 @@
   "kubeden/clopus-watcher": {
     "summary": "自动化24/7值班工程师，使用Cron作业监控系统。",
     "updated_at": "2025-12-30"
+  },
+  "gommzystudio/device-activity-tracker": {
+    "summary": "该项目通过电话号码追踪设备的活动状态，如在线、离线或待机等。",
+    "updated_at": "2025-12-31"
+  },
+  "HarryR/z80ai": {
+    "summary": "该项目实现了一个小型语言模型，可以在8位Z80处理器上运行，实现与复古电脑聊天。",
+    "updated_at": "2025-12-31"
+  },
+  "RustPython/RustPython": {
+    "summary": "RustPython 是一个用 Rust 编写的 Python 解释器。",
+    "updated_at": "2025-12-31"
   }
 }
