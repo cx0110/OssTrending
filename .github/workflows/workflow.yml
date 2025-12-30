@@ -77,6 +77,7 @@ jobs:
       # 推送到博客 (追加模式)
       - name: Append to Hugo Blog
         env:
+          TZ: 'Asia/Shanghai'
           BLOG_REPO_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
           BLOG_REPO: ${{ vars.BLOG_REPO }}
         run: |
