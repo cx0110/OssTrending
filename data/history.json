@@ -470,5 +470,21 @@
   "RustPython/RustPython": {
     "summary": "RustPython 是一个用 Rust 编写的 Python 解释器。",
     "updated_at": "2025-12-31"
+  },
+  "harvard-edge/cs249r_book": {
+    "summary": "该项目介绍机器学习系统的基础知识。",
+    "updated_at": "2026-01-01"
+  },
+  "sst/opencode": {
+    "summary": "sst/opencode 是一个开源编码代理，帮助开发者提高编码效率。",
+    "updated_at": "2026-01-01"
+  },
+  "ulab-uiuc/LLMRouter": {
+    "summary": "LLMRouter：一个开源库，用于路由大语言模型。",
+    "updated_at": "2026-01-01"
+  },
+  "medusalix/FreeMDU": {
+    "summary": "该项目提供开源硬件和软件工具，用于通过光学诊断接口与美的（Miele）家电进行通信。",
+    "updated_at": "2026-01-01"
   }
 }
