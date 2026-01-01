@@ -486,5 +486,33 @@
   "medusalix/FreeMDU": {
     "summary": "该项目提供开源硬件和软件工具，用于通过光学诊断接口与美的（Miele）家电进行通信。",
     "updated_at": "2026-01-01"
+  },
+  "yichuan-w/LEANN": {
+    "summary": "LEANN 项目：在个人设备上运行快速、准确、100% 私有的 RAG 应用，节省 97% 存储空间。",
+    "updated_at": "2026-01-02"
+  },
+  "Gouryella/drip": {
+    "summary": "Gouryella/drip：安全暴露本地服务，不依赖第三方服务器。",
+    "updated_at": "2026-01-02"
+  },
+  "Billionmail/BillionMail": {
+    "summary": "BillionMail 是一个开源的邮件服务器和电子邮件营销平台，支持自托管，无需月费。",
+    "updated_at": "2026-01-02"
+  },
+  "nextlevelbuilder/ui-ux-pro-max-skill": {
+    "summary": "该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。",
+    "updated_at": "2026-01-02"
+  },
+  "mihail911/modern-software-dev-assignments": {
+    "summary": "斯坦福大学的现代软件开发课程作业。",
+    "updated_at": "2026-01-02"
+  },
+  "max-sixty/worktrunk": {
+    "summary": "Worktrunk 是一个 Git 工作树管理的命令行工具，用于并行 AI 代理工作流。",
+    "updated_at": "2026-01-02"
+  },
+  "microsoft/edit": {
+    "summary": "微软/edit 是一个协同编辑项目，实现多人实时编辑文档。",
+    "updated_at": "2026-01-02"
   }
 }
