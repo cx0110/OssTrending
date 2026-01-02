@@ -514,5 +514,25 @@
   "microsoft/edit": {
     "summary": "微软/edit 是一个协同编辑项目，实现多人实时编辑文档。",
     "updated_at": "2026-01-02"
+  },
+  "pathwaycom/pathway": {
+    "summary": "该项目是一个 Python 框架，用于实时数据处理和分析。",
+    "updated_at": "2026-01-03"
+  },
+  "pathwaycom/llm-app": {
+    "summary": "该项目提供云模板，支持实时数据同步和企业搜索，集成多种数据源。",
+    "updated_at": "2026-01-03"
+  },
+  "AnmolSaini16/mapcn": {
+    "summary": "该项目提供免费、零配置、简易设置的地图组件。",
+    "updated_at": "2026-01-03"
+  },
+  "skatkov/devtui": {
+    "summary": "开发者多功能工具箱。",
+    "updated_at": "2026-01-03"
+  },
+  "autobrr/qui": {
+    "summary": "这是一个现代化的qBittorrent网页界面，支持多实例。",
+    "updated_at": "2026-01-03"
   }
 }
