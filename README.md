@@ -1,7 +1,7 @@
 # 📈 OSSInsight 每日精选 (Top 10)
 
 每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
-> 更新时间: 2026-01-03 02:18 UTC
+> 更新时间: 2026-01-03 12:44 UTC
 
 ## 🔥 全球热榜 (24h)
 
@@ -22,16 +22,16 @@
 
 | 排名 | 项目 | Stars | 简介 |
 | :--- | :--- | :--- | :--- |
-| 1 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 330 | 🤖 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
-| 2 | [skatkov/devtui](https://github.com/skatkov/devtui) | 🔥 77 | 🤖 开发者多功能工具箱。 |
-| 3 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 69 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
-| 4 | [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) | 🔥 75 | 🤖 BillionMail 是一个开源的邮件服务器和电子邮件营销平台，支持自托管，无需月费。 |
-| 5 | [autobrr/qui](https://github.com/autobrr/qui) | 🔥 53 | 🤖 这是一个现代化的qBittorrent网页界面，支持多实例。 |
-| 6 | [Gouryella/drip](https://github.com/Gouryella/drip) | 🔥 64 | Self-hosted tunneling solution to expose localhost securely - unlimited bandwidth, no third-party servers |
-| 7 | [yosebyte/nodepass](https://github.com/yosebyte/nodepass) | 🔥 77 | A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TCP/QUIC/WebSo... |
-| 8 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 42 | Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to... |
-| 9 | [glanceapp/glance](https://github.com/glanceapp/glance) | 🔥 61 | A self-hosted dashboard that puts all your feeds in one place |
-| 10 | [rocketship-ai/rocketship](https://github.com/rocketship-ai/rocketship) | 🔥 34 | A QA testing framework for your coding agent. |
+| 1 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 🔥 397 | 🤖 该项目是一个帮助用户分析和优化系统资源占用的工具。 |
+| 2 | [usememos/memos](https://github.com/usememos/memos) | 🔥 361 | 🤖 一个开源的、自托管的笔记服务，用户拥有完全控制权，不会被追踪，也无广告和订阅费用。 |
+| 3 | [steveyegge/beads](https://github.com/steveyegge/beads) | 🔥 111 | 🤖 Beads是一个为编码助手提供的内存升级工具。 |
+| 4 | [maxpert/marmot](https://github.com/maxpert/marmot) | 🔥 141 | 🤖 分布式SQLite服务器，兼容MySQL接口。 |
+| 5 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 67 | 🤖 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 6 | [aqstack/sentinel](https://github.com/aqstack/sentinel) | 🔥 27 | Self-healing edge computing agent with predictive failure detection and partition-resilient orchestration for Kubernetes |
+| 7 | [autobrr/qui](https://github.com/autobrr/qui) | 🔥 37 | Modern alternative webUI for qBittorrent, with multi-instance support. Written in Go/React. |
+| 8 | [53AI/53AIHub](https://github.com/53AI/53AIHub) | 🔥 31 | 53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, an... |
+| 9 | [Billionmail/BillionMail](https://github.com/Billionmail/BillionMail) | 🔥 26 | BillionMail gives you open-source MailServer, NewsLetter,  Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the ... |
+| 10 | [VibiumDev/vibium](https://github.com/VibiumDev/vibium) | 🔥 21 | Browser automation for AI agents and humans |
 
 ## 🐍 Python 热门 (24h)
 
@@ -52,16 +52,16 @@
 
 | 排名 | 项目 | Stars | 简介 |
 | :--- | :--- | :--- | :--- |
-| 1 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 306 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
-| 2 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | 🔥 105 | 🤖 该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。 |
-| 3 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 🔥 51 | 🤖 Worktrunk 是一个 Git 工作树管理的命令行工具，用于并行 AI 代理工作流。 |
-| 4 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 33 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
-| 5 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 🔥 16 | 🤖 该项目是一个用于人工智能的数据转换框架，具有超高性能和增量处理能力。 |
+| 1 | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 🔥 290 | 🤖 该项目是一个看板系统，用于管理人工智能编码代理。 |
+| 2 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 🔥 88 | 🤖 这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。 |
+| 3 | [scanopy/scanopy](https://github.com/scanopy/scanopy) | 🔥 24 | 🤖 scanopy 是一个网络图表工具，帮助用户创建和维护干净的网络图表，实现一次性设置和零维护。 |
+| 4 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 🔥 23 | 🤖 Worktrunk 是一个 Git 工作树管理的命令行工具，用于并行 AI 代理工作流。 |
+| 5 | [UwUDev/ygege](https://github.com/UwUDev/ygege) | 🔥 18 | 🤖 该项目是一个高性能的YGG Torrent索引器，使用Rust编写。 |
 | 6 | [medusalix/FreeMDU](https://github.com/medusalix/FreeMDU) | 🔥 14 | Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface |
-| 7 | [aiclientproxy/proxycast](https://github.com/aiclientproxy/proxycast) | 🔥 12 | 让 AI 编辑器之间自然流动，不仅仅可以其他工具使用，也可以转换成 api 为本地开发提供动力。 |
-| 8 | [microsoft/edit](https://github.com/microsoft/edit) | 🔥 12 | We all edit. |
-| 9 | [bearcove/rapace](https://github.com/bearcove/rapace) | 🔥 9 | RPC / IPC over SHM, for Rust - good for plugins and such |
-| 10 | [terauss/Polymarket-Kalshi-Arbitrage-bot](https://github.com/terauss/Polymarket-Kalshi-Arbitrage-bot) | 🔥 8 | Polymarket arbitrage bot. Kalshi-Poly, Poly-Poly, and Kalshi-Kalshi arbitrage bot for automated cross-platform trading on Prediction Market.  |
+| 7 | [0xRustPro/prediction-market-contract-main-solana](https://github.com/0xRustPro/prediction-market-contract-main-solana) | 🔥 13 | A Prediction Market Contract is a smart contract that lets users bet on future events, collects their stakes, verifies the outcome via an oracle, a... |
+| 8 | [m4rcu5o/Copy-trading-bot](https://github.com/m4rcu5o/Copy-trading-bot) | 🔥 13 | Solana Copy Trading Bot – Real-time automated copy trader for Solana, Raydium, and Pump.fun. Subscribes to target wallet activity using Helius Geys... |
+| 9 | [boxlite-labs/boxlite](https://github.com/boxlite-labs/boxlite) | 🔥 11 | SQLite-like agent runtime: an embeddable micro-VM that stores agent state and runs agent logic safely. |
+| 10 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 🔥 11 | Data transformation framework for AI. Ultra performant, with incremental processing.  🌟 Star if you like it! |
 
 
 

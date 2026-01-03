@@ -534,5 +534,17 @@
   "autobrr/qui": {
     "summary": "这是一个现代化的qBittorrent网页界面，支持多实例。",
     "updated_at": "2026-01-03"
+  },
+  "usememos/memos": {
+    "summary": "一个开源的、自托管的笔记服务，用户拥有完全控制权，不会被追踪，也无广告和订阅费用。",
+    "updated_at": "2026-01-03"
+  },
+  "maxpert/marmot": {
+    "summary": "分布式SQLite服务器，兼容MySQL接口。",
+    "updated_at": "2026-01-03"
+  },
+  "UwUDev/ygege": {
+    "summary": "该项目是一个高性能的YGG Torrent索引器，使用Rust编写。",
+    "updated_at": "2026-01-03"
   }
 }
