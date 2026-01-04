@@ -546,5 +546,29 @@
   "UwUDev/ygege": {
     "summary": "该项目是一个高性能的YGG Torrent索引器，使用Rust编写。",
     "updated_at": "2026-01-03"
+  },
+  "anomalyco/opencode": {
+    "summary": "开源编码智能代理，帮助开发者提高编码效率。",
+    "updated_at": "2026-01-05"
+  },
+  "steveyegge/gastown": {
+    "summary": "Gastown 是一个多智能体工作空间管理器。",
+    "updated_at": "2026-01-05"
+  },
+  "5rahim/seanime": {
+    "summary": "开源媒体服务器，提供网页和桌面应用，用于管理和播放动漫和漫画。",
+    "updated_at": "2026-01-05"
+  },
+  "K-Dense-AI/claude-scientific-skills": {
+    "summary": "为Claude提供一套可直接使用的科学技能。",
+    "updated_at": "2026-01-05"
+  },
+  "goodroot/hyprwhspr": {
+    "summary": "该项目提供快速、准确的系统级语音输入功能。",
+    "updated_at": "2026-01-05"
+  },
+  "pamburus/hl": {
+    "summary": "该项目是一个快速且强大的日志查看和处理工具，能够将JSON或logfmt日志转换为清晰的人类可读格式。",
+    "updated_at": "2026-01-05"
   }
 }
