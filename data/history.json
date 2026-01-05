@@ -570,5 +570,17 @@
   "pamburus/hl": {
     "summary": "该项目是一个快速且强大的日志查看和处理工具，能够将JSON或logfmt日志转换为清晰的人类可读格式。",
     "updated_at": "2026-01-05"
+  },
+  "nibzard/awesome-agentic-patterns": {
+    "summary": "该项目是一个精选的智能AI模式集合。",
+    "updated_at": "2026-01-06"
+  },
+  "Fincept-Corporation/FinceptTerminal": {
+    "summary": "FinceptTerminal 是一个金融分析平台，提供市场数据、投资研究和经济分析工具，帮助用户做出数据驱动的决策。",
+    "updated_at": "2026-01-06"
+  },
+  "buyukakyuz/corroded": {
+    "summary": "该项目是一个非法的Rust编程语言实现。",
+    "updated_at": "2026-01-06"
   }
 }
