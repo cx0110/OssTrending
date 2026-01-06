@@ -582,5 +582,21 @@
   "buyukakyuz/corroded": {
     "summary": "该项目是一个非法的Rust编程语言实现。",
     "updated_at": "2026-01-06"
+  },
+  "virattt/dexter": {
+    "summary": "该项目是一个用于深度金融研究的自动化智能代理。",
+    "updated_at": "2026-01-07"
+  },
+  "OthmanAdi/planning-with-files": {
+    "summary": "该项目实现了持久化的Markdown规划功能，模仿Manus风格的工作流程。",
+    "updated_at": "2026-01-07"
+  },
+  "memvid/memvid": {
+    "summary": "该项目为AI代理提供一个简化的内存层，实现快速检索和长期记忆。",
+    "updated_at": "2026-01-07"
+  },
+  "rue-language/rue": {
+    "summary": "Rue 语言：介于 Rust 和 Go 之间的高级编程语言。",
+    "updated_at": "2026-01-07"
   }
 }
