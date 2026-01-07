@@ -598,5 +598,17 @@
   "rue-language/rue": {
     "summary": "Rue 语言：介于 Rust 和 Go 之间的高级编程语言。",
     "updated_at": "2026-01-07"
+  },
+  "MiroMindAI/MiroThinker": {
+    "summary": "MiroThinker 是一个开源的智能模型，用于深度研究和复杂工具使用场景。",
+    "updated_at": "2026-01-08"
+  },
+  "Lightricks/LTX-2": {
+    "summary": "Lightricks/LTX-2 是一个开源的图像处理引擎。",
+    "updated_at": "2026-01-08"
+  },
+  "Novus-Tech-LLC/Hyperliquid-Market-Maker": {
+    "summary": "该项目是一个去中心化永续合约交易机器人，实现自动化交易和策略执行。",
+    "updated_at": "2026-01-08"
   }
 }
