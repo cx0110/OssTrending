@@ -610,5 +610,13 @@
   "Novus-Tech-LLC/Hyperliquid-Market-Maker": {
     "summary": "该项目是一个去中心化永续合约交易机器人，实现自动化交易和策略执行。",
     "updated_at": "2026-01-08"
+  },
+  "HKUDS/DeepTutor": {
+    "summary": "DeepTutor是一个人工智能驱动的个性化学习助手。",
+    "updated_at": "2026-01-09"
+  },
+  "vicanso/zedis": {
+    "summary": "Zedis 是一个基于 Rust 和 GPU 的 Redis 图形界面，提供快速的 Redis 数据管理。",
+    "updated_at": "2026-01-09"
   }
 }
