@@ -618,5 +618,13 @@
   "vicanso/zedis": {
     "summary": "Zedis 是一个基于 Rust 和 GPU 的 Redis 图形界面，提供快速的 Redis 数据管理。",
     "updated_at": "2026-01-09"
+  },
+  "kepano/obsidian-skills": {
+    "summary": "为 Obsidian 添加 Claude 技能，增强其功能。",
+    "updated_at": "2026-01-10"
+  },
+  "NevaMind-AI/memU": {
+    "summary": "该项目为大型语言模型和AI代理提供记忆基础设施。",
+    "updated_at": "2026-01-10"
   }
 }
