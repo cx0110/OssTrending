@@ -626,5 +626,25 @@
   "NevaMind-AI/memU": {
     "summary": "该项目为大型语言模型和AI代理提供记忆基础设施。",
     "updated_at": "2026-01-10"
+  },
+  "obra/superpowers": {
+    "summary": "Claude Code 的超级能力：核心技能库。",
+    "updated_at": "2026-01-11"
+  },
+  "bytedance/UI-TARS-desktop": {
+    "summary": "这个项目是一个开源的多模态AI代理栈，连接前沿AI模型和基础设施。",
+    "updated_at": "2026-01-11"
+  },
+  "x011/smtp-tunnel-proxy": {
+    "summary": "该项目创建了一个伪装TCP流量为SMTP邮件通信的隧道，以绕过深度包检测防火墙。",
+    "updated_at": "2026-01-11"
+  },
+  "parcadei/Continuous-Claude-v2": {
+    "summary": "该项目实现了 Claude 代码的上下文管理，确保执行过程中上下文的隔离和无污染。",
+    "updated_at": "2026-01-11"
+  },
+  "embassy-rs/embassy": {
+    "summary": "Embassy 是一个现代的嵌入式框架，使用 Rust 和异步编程。",
+    "updated_at": "2026-01-11"
   }
 }
