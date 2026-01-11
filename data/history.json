@@ -646,5 +646,17 @@
   "embassy-rs/embassy": {
     "summary": "Embassy 是一个现代的嵌入式框架，使用 Rust 和异步编程。",
     "updated_at": "2026-01-11"
+  },
+  "fish2018/pansou": {
+    "summary": "PanSou是一款高性能的网盘资源搜索API服务，支持多频道和插件搜索。",
+    "updated_at": "2026-01-12"
+  },
+  "gyoridavid/ai_agents_az": {
+    "summary": "该项目创建了智能代理人，使用AI技术在Azure平台上进行自动化决策和操作。",
+    "updated_at": "2026-01-12"
+  },
+  "jdx/fnox": {
+    "summary": "jdx/fnox 是一个加密的远程密钥管理器，安全存储和管理敏感信息。",
+    "updated_at": "2026-01-12"
   }
 }
