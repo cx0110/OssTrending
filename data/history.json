@@ -674,5 +674,17 @@
   "DioxusLabs/dioxus": {
     "summary": "Dioxus 是一个全栈应用框架，支持网页、桌面和移动端开发。",
     "updated_at": "2026-01-13"
+  },
+  "1rgs/nanocode": {
+    "summary": "这是一个极简的 Claude 代码替代品，仅用一个 Python 文件实现。",
+    "updated_at": "2026-01-14"
+  },
+  "NanmiCoder/MediaCrawler": {
+    "summary": "该项目是一个爬虫工具，用于爬取多个社交媒体平台的内容和评论。",
+    "updated_at": "2026-01-14"
+  },
+  "terauss/Polymarket-Copy-Trading-Bot": {
+    "summary": "该项目是一个复制交易机器人，用于复制Polymarket交易平台上的交易。",
+    "updated_at": "2026-01-14"
   }
 }
