@@ -686,5 +686,21 @@
   "terauss/Polymarket-Copy-Trading-Bot": {
     "summary": "该项目是一个复制交易机器人，用于复制Polymarket交易平台上的交易。",
     "updated_at": "2026-01-14"
+  },
+  "eigent-ai/eigent": {
+    "summary": "Eigent 是一个多智能体工作平台，帮助提升个人和团队的生产力。",
+    "updated_at": "2026-01-15"
+  },
+  "finbarr/yolobox": {
+    "summary": "该项目允许人工智能访问外部数据，同时保护本地主目录的安全。",
+    "updated_at": "2026-01-15"
+  },
+  "deepseek-ai/Engram": {
+    "summary": "Engram 项目实现了大语言模型的可扩展查找和条件记忆功能。",
+    "updated_at": "2026-01-15"
+  },
+  "666ghj/MiroFish": {
+    "summary": "该项目是一个简洁的群体智能引擎，能够预测和分析各种数据和事件。",
+    "updated_at": "2026-01-15"
   }
 }
