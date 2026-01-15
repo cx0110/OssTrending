@@ -702,5 +702,17 @@
   "666ghj/MiroFish": {
     "summary": "该项目是一个简洁的群体智能引擎，能够预测和分析各种数据和事件。",
     "updated_at": "2026-01-15"
+  },
+  "vercel-labs/agent-skills": {
+    "summary": "Vercel 的智能代理技能实验室。",
+    "updated_at": "2026-01-16"
+  },
+  "vercel-labs/agent-browser": {
+    "summary": "该项目是一个浏览器自动化命令行工具，用于为AI代理提供浏览器交互功能。",
+    "updated_at": "2026-01-16"
+  },
+  "j178/prek": {
+    "summary": "该项目是一个用Rust重构的代码提交前检查工具，旨在提高性能和效率。",
+    "updated_at": "2026-01-16"
   }
 }
