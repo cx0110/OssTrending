@@ -714,5 +714,13 @@
   "j178/prek": {
     "summary": "该项目是一个用Rust重构的代码提交前检查工具，旨在提高性能和效率。",
     "updated_at": "2026-01-16"
+  },
+  "vercel-labs/json-render": {
+    "summary": "该项目使用AI生成JSON数据，并将其渲染为用户界面。",
+    "updated_at": "2026-01-17"
+  },
+  "trailofbits/skills": {
+    "summary": "Trail of Bits Claude Code 技能用于安全研究、漏洞检测和审计工作流。",
+    "updated_at": "2026-01-17"
   }
 }
