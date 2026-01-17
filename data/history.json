@@ -722,5 +722,13 @@
   "trailofbits/skills": {
     "summary": "Trail of Bits Claude Code 技能用于安全研究、漏洞检测和审计工作流。",
     "updated_at": "2026-01-17"
+  },
+  "chatfire-AI/huobao-drama": {
+    "summary": "该项目是一个基于AI的聊天机器人，用于生成和演绎虚拟剧本。",
+    "updated_at": "2026-01-18"
+  },
+  "sardanioss/httpcloak": {
+    "summary": "该项目是一个Go语言的HTTP客户端，模拟浏览器的TLS/HTTP2指纹，绕过机器人检测。",
+    "updated_at": "2026-01-18"
   }
 }
