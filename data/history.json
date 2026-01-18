@@ -730,5 +730,25 @@
   "sardanioss/httpcloak": {
     "summary": "该项目是一个Go语言的HTTP客户端，模拟浏览器的TLS/HTTP2指纹，绕过机器人检测。",
     "updated_at": "2026-01-18"
+  },
+  "glittercowboy/get-shit-done": {
+    "summary": "该项目是一个轻量级的代码开发辅助工具，帮助用户高效完成编码任务。",
+    "updated_at": "2026-01-19"
+  },
+  "likaia/nginxpulse": {
+    "summary": "轻量级 Nginx 日志分析与可视化工具，提供实时统计和访问信息解析。",
+    "updated_at": "2026-01-19"
+  },
+  "rednote-hilab/dots.ocr": {
+    "summary": "该项目实现了单一视觉语言模型的多语言文档布局解析。",
+    "updated_at": "2026-01-19"
+  },
+  "juspay/hyperswitch": {
+    "summary": "该项目是一个开源的支付交换系统，使用Rust编写，旨在实现快速、可靠、经济的支付处理。",
+    "updated_at": "2026-01-19"
+  },
+  "Automattic/harper": {
+    "summary": "Harper 是一个离线、注重隐私的语法检查工具，使用 Rust 开发。",
+    "updated_at": "2026-01-19"
   }
 }
