@@ -750,5 +750,21 @@
   "Automattic/harper": {
     "summary": "Harper 是一个离线、注重隐私的语法检查工具，使用 Rust 开发。",
     "updated_at": "2026-01-19"
+  },
+  "originalankur/maptoposter": {
+    "summary": "该项目可以将城市地图转换为简洁美观的设计海报。",
+    "updated_at": "2026-01-20"
+  },
+  "affaan-m/everything-claude-code": {
+    "summary": "Claude Code 的完整配置集合，包含代理、技能、钩子等。",
+    "updated_at": "2026-01-20"
+  },
+  "nautechsystems/nautilus_trader": {
+    "summary": "一个高性能的算法交易平台和事件驱动的回测工具。",
+    "updated_at": "2026-01-20"
+  },
+  "localdesktop/localdesktop": {
+    "summary": "Local Desktop 是一个开源项目，帮助用户在安卓设备上运行桌面版 Linux 环境。",
+    "updated_at": "2026-01-20"
   }
 }
