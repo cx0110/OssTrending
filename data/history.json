@@ -766,5 +766,17 @@
   "localdesktop/localdesktop": {
     "summary": "Local Desktop 是一个开源项目，帮助用户在安卓设备上运行桌面版 Linux 环境。",
     "updated_at": "2026-01-20"
+  },
+  "different-ai/openwork": {
+    "summary": "开源项目，替代Claude Cowork，实现协同工作。",
+    "updated_at": "2026-01-21"
+  },
+  "21st-dev/1code": {
+    "summary": "该项目是一个更好的UI应用，用于并行运行代码代理。",
+    "updated_at": "2026-01-21"
+  },
+  "github/github-mcp-server": {
+    "summary": "GitHub 的官方 MCP 服务器项目。",
+    "updated_at": "2026-01-21"
   }
 }
