@@ -778,5 +778,17 @@
   "github/github-mcp-server": {
     "summary": "GitHub 的官方 MCP 服务器项目。",
     "updated_at": "2026-01-21"
+  },
+  "xai-org/x-algorithm": {
+    "summary": "X 算法项目，为 X 平台的“为你推荐”功能提供算法支持。",
+    "updated_at": "2026-01-22"
+  },
+  "eddyson-B/prediction-market-platform": {
+    "summary": "预测市场平台部署工具，帮助用户快速搭建预测市场系统。",
+    "updated_at": "2026-01-22"
+  },
+  "microsoft/agent-lightning": {
+    "summary": "微软的Agent Lightning项目是一种人工智能训练工具，用于提升AI代理的能力。",
+    "updated_at": "2026-01-22"
   }
 }
