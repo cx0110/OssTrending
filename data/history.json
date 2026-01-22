@@ -790,5 +790,21 @@
   "microsoft/agent-lightning": {
     "summary": "微软的Agent Lightning项目是一种人工智能训练工具，用于提升AI代理的能力。",
     "updated_at": "2026-01-22"
+  },
+  "anthropics/original_performance_takehome": {
+    "summary": "Anthropic 的原性能测试项目，供用户尝试和评估。",
+    "updated_at": "2026-01-23"
+  },
+  "yoanbernabeu/grepai": {
+    "summary": "该项目使用AI技术实现代码的语义搜索，而不仅仅是关键词搜索。",
+    "updated_at": "2026-01-23"
+  },
+  "AlexxIT/go2rtc": {
+    "summary": "该项目是一款支持多种协议的摄像头流媒体应用。",
+    "updated_at": "2026-01-23"
+  },
+  "EveryInc/compound-engineering-plugin": {
+    "summary": "这是 Claude Code 的复合工程插件，用于增强工程功能。",
+    "updated_at": "2026-01-23"
   }
 }
