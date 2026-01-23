@@ -806,5 +806,21 @@
   "EveryInc/compound-engineering-plugin": {
     "summary": "这是 Claude Code 的复合工程插件，用于增强工程功能。",
     "updated_at": "2026-01-23"
+  },
+  "github/copilot-sdk": {
+    "summary": "GitHub Copilot SDK 是一个多平台集成工具包，帮助开发者将 GitHub Copilot 功能集成到自己的应用和服务中。",
+    "updated_at": "2026-01-24"
+  },
+  "remotion-dev/remotion": {
+    "summary": "使用 React 编程创建视频。",
+    "updated_at": "2026-01-24"
+  },
+  "putyy/res-downloader": {
+    "summary": "该项目是一个网络资源下载工具，支持多平台视频和音乐下载。",
+    "updated_at": "2026-01-24"
+  },
+  "NVIDIA/personaplex": {
+    "summary": "PersonaPlex 是一个开源项目，提供人工智能驱动的个性化交互技术。",
+    "updated_at": "2026-01-24"
   }
 }
