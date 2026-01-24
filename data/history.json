@@ -822,5 +822,13 @@
   "NVIDIA/personaplex": {
     "summary": "PersonaPlex 是一个开源项目，提供人工智能驱动的个性化交互技术。",
     "updated_at": "2026-01-24"
+  },
+  "VectifyAI/PageIndex": {
+    "summary": "PageIndex：为无向量文档创建索引，实现基于推理的文档检索。",
+    "updated_at": "2026-01-25"
+  },
+  "OpenBMB/UltraRAG": {
+    "summary": "UltraRAG v2：一个低代码框架，用于构建复杂的RAG管道。",
+    "updated_at": "2026-01-25"
   }
 }
