@@ -830,5 +830,13 @@
   "OpenBMB/UltraRAG": {
     "summary": "UltraRAG v2：一个低代码框架，用于构建复杂的RAG管道。",
     "updated_at": "2026-01-25"
+  },
+  "clawdbot/clawdbot": {
+    "summary": "这是一个跨平台的个人AI助手项目。",
+    "updated_at": "2026-01-26"
+  },
+  "sickn33/antigravity-awesome-skills": {
+    "summary": "该项目收集了130+个高性能AI技能，用于Claude Code等AI代理。",
+    "updated_at": "2026-01-26"
   }
 }
