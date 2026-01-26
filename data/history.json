@@ -838,5 +838,17 @@
   "sickn33/antigravity-awesome-skills": {
     "summary": "该项目收集了130+个高性能AI技能，用于Claude Code等AI代理。",
     "updated_at": "2026-01-26"
+  },
+  "adenhq/hive": {
+    "summary": "该项目是一个面向结果的智能体开发框架，用于进化和优化智能体的性能。",
+    "updated_at": "2026-01-27"
+  },
+  "Blaizzy/mlx-audio": {
+    "summary": "该项目是一个语音处理库，实现文本转语音、语音转文本和语音转语音功能。",
+    "updated_at": "2026-01-27"
+  },
+  "qarmin/czkawka": {
+    "summary": "该项目是一个多功能工具，用于查找重复文件、空文件夹、相似图片等。",
+    "updated_at": "2026-01-27"
   }
 }
