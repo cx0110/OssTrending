@@ -850,5 +850,9 @@
   "qarmin/czkawka": {
     "summary": "该项目是一个多功能工具，用于查找重复文件、空文件夹、相似图片等。",
     "updated_at": "2026-01-27"
+  },
+  "VoltAgent/awesome-moltbot-skills": {
+    "summary": "Moltbot 的技能集合，提供各种实用功能。",
+    "updated_at": "2026-01-29"
   }
 }
