@@ -854,5 +854,29 @@
   "VoltAgent/awesome-moltbot-skills": {
     "summary": "Moltbot 的技能集合，提供各种实用功能。",
     "updated_at": "2026-01-29"
+  },
+  "lucasgelfond/zerobrew": {
+    "summary": "zerobrew 是 Homebrew 的替代品，速度快 5-20 倍。",
+    "updated_at": "2026-01-30"
+  },
+  "asgeirtj/system_prompts_leaks": {
+    "summary": "该项目收集和提取流行聊天机器人的系统提示。",
+    "updated_at": "2026-01-30"
+  },
+  "steipete/gogcli": {
+    "summary": "该项目是一个Google套件的命令行工具，支持Gmail、日历、云盘和联系人等功能。",
+    "updated_at": "2026-01-30"
+  },
+  "rudrankriyam/App-Store-Connect-CLI": {
+    "summary": "该项目是一个快速、智能的命令行工具，用于无缝发布App Store应用。",
+    "updated_at": "2026-01-30"
+  },
+  "GetStream/Vision-Agents": {
+    "summary": "GetStream/Vision-Agents 是一个快速构建视觉智能代理的开源项目，支持任意模型和视频提供商。",
+    "updated_at": "2026-01-30"
+  },
+  "ratatui/mousefood": {
+    "summary": "Ratatui 的嵌入式图形后端，用于渲染图形界面。",
+    "updated_at": "2026-01-30"
   }
 }
