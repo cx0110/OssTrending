@@ -878,5 +878,17 @@
   "ratatui/mousefood": {
     "summary": "Ratatui 的嵌入式图形后端，用于渲染图形界面。",
     "updated_at": "2026-01-30"
+  },
+  "ComposioHQ/open-claude-cowork": {
+    "summary": "开源版的Claude Cowork，集成了500多个SaaS应用。",
+    "updated_at": "2026-01-31"
+  },
+  "microsoft/BitNet": {
+    "summary": "微软的BitNet项目是一个用于1位超大语言模型的官方推理框架。",
+    "updated_at": "2026-01-31"
+  },
+  "microsoft/bf-tree": {
+    "summary": "Bf-Tree 是一个现代化的、支持并发读写的超大内存范围索引。",
+    "updated_at": "2026-01-31"
   }
 }
