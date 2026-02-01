@@ -898,5 +898,29 @@
   "1354427059/orchids-api": {
     "summary": "该项目是兰花 API 接口，提供兰花相关信息的查询和管理功能。",
     "updated_at": "2026-02-01"
+  },
+  "ThePrimeagen/99": {
+    "summary": "该项目是为Neovim创建的AI智能代理。",
+    "updated_at": "2026-02-02"
+  },
+  "VoltAgent/awesome-openclaw-skills": {
+    "summary": "VoltAgent/awesome-openclaw-skills 项目是一个开源的技能集合。",
+    "updated_at": "2026-02-02"
+  },
+  "AlexanderGrooff/mermaid-ascii": {
+    "summary": "该项目可以在终端中渲染Mermaid图表。",
+    "updated_at": "2026-02-02"
+  },
+  "53AI/53AIHub": {
+    "summary": "53AI Hub 是一个开源的 AI 门户，帮助快速搭建和运营 AI 平台。",
+    "updated_at": "2026-02-02"
+  },
+  "yesnotrader/polymarket-copy-trading-bot-telegram-ui": {
+    "summary": "该项目是一个基于Polymarket的复制交易机器人，通过Telegram界面进行操作。",
+    "updated_at": "2026-02-02"
+  },
+  "1jehuang/mermaid-rs-renderer": {
+    "summary": "一个快速的Rust语言实现的Mermaid图表渲染器，无需浏览器。",
+    "updated_at": "2026-02-02"
   }
 }
