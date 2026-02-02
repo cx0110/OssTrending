@@ -922,5 +922,25 @@
   "1jehuang/mermaid-rs-renderer": {
     "summary": "一个快速的Rust语言实现的Mermaid图表渲染器，无需浏览器。",
     "updated_at": "2026-02-02"
+  },
+  "gavrielc/nanoclaw": {
+    "summary": "这是一个轻量级、安全的个人助手，运行在苹果容器中，支持自定义。",
+    "updated_at": "2026-02-03"
+  },
+  "netbirdio/netbird": {
+    "summary": "Netbird是一个基于WireGuard的安全网络项目，实现设备间的安全连接和访问控制。",
+    "updated_at": "2026-02-03"
+  },
+  "hanselime/paqet": {
+    "summary": "跨越边界传输数据包。",
+    "updated_at": "2026-02-03"
+  },
+  "burpheart/cursor-tap": {
+    "summary": "该项目是一个gRPC通信流量分析工具，帮助用户监测和分析Cursor的gRPC流量。",
+    "updated_at": "2026-02-03"
+  },
+  "Robbyant/lingbot-world": {
+    "summary": "该项目旨在开发开源的世界模型，用于模拟和理解世界。",
+    "updated_at": "2026-02-03"
   }
 }
