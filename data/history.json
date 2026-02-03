@@ -942,5 +942,21 @@
   "Robbyant/lingbot-world": {
     "summary": "该项目旨在开发开源的世界模型，用于模拟和理解世界。",
     "updated_at": "2026-02-03"
+  },
+  "Leey21/awesome-ai-research-writing": {
+    "summary": "该项目帮助提升AI研究写作水平，减少繁琐的润色工作。",
+    "updated_at": "2026-02-04"
+  },
+  "octelium/octelium": {
+    "summary": "Octelium 是一个开源的零信任安全访问平台，提供 VPN、API 网关等功能。",
+    "updated_at": "2026-02-04"
+  },
+  "YaLTeR/niri": {
+    "summary": "YaLTeR/niri 是一个 Wayland 组合器，支持滚动和平铺窗口。",
+    "updated_at": "2026-02-04"
+  },
+  "rivet-dev/sandbox-agent": {
+    "summary": "该项目提供了一个通用API，用于在沙盒环境中自动化编码，支持多种编码工具。",
+    "updated_at": "2026-02-04"
   }
 }
