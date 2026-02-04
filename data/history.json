@@ -958,5 +958,25 @@
   "rivet-dev/sandbox-agent": {
     "summary": "该项目提供了一个通用API，用于在沙盒环境中自动化编码，支持多种编码工具。",
     "updated_at": "2026-02-04"
+  },
+  "HKUDS/nanobot": {
+    "summary": "nanobot 是一个超轻量级的机器人框架。",
+    "updated_at": "2026-02-05"
+  },
+  "ace-step/ACE-Step-1.5": {
+    "summary": "ACE-Step-1.5 是一个强大的本地音乐生成模型，能够超越大多数商业软件。",
+    "updated_at": "2026-02-05"
+  },
+  "wesm/msgvault": {
+    "summary": "该项目实现了离线搜索、分析和AI查询整个消息历史的功能。",
+    "updated_at": "2026-02-05"
+  },
+  "anthropics/knowledge-work-plugins": {
+    "summary": "该项目提供知识工作者在Claude Cowork中使用的开源插件集合。",
+    "updated_at": "2026-02-05"
+  },
+  "openai/skills": {
+    "summary": "该项目为Codex提供技能目录，帮助开发者快速找到所需技能。",
+    "updated_at": "2026-02-05"
   }
 }
