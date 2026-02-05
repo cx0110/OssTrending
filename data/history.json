@@ -978,5 +978,9 @@
   "openai/skills": {
     "summary": "该项目为Codex提供技能目录，帮助开发者快速找到所需技能。",
     "updated_at": "2026-02-05"
+  },
+  "TrustTunnel/TrustTunnel": {
+    "summary": "TrustTunnel 是一种现代化、快速、加密的 VPN 协议。",
+    "updated_at": "2026-02-06"
   }
 }
