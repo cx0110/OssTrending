@@ -982,5 +982,17 @@
   "TrustTunnel/TrustTunnel": {
     "summary": "TrustTunnel 是一种现代化、快速、加密的 VPN 协议。",
     "updated_at": "2026-02-06"
+  },
+  "pgschema/pgschema": {
+    "summary": "该项目是一个用于Postgres数据库的命令行工具，支持声明式的数据库模式迁移。",
+    "updated_at": "2026-02-07"
+  },
+  "aspectrr/fluid.sh": {
+    "summary": "该项目是一个开源的基础设施即代码工具，用于自动化和管理基础设施配置。",
+    "updated_at": "2026-02-07"
+  },
+  "ZeroTworu/anet": {
+    "summary": "一个简单的Rust语言实现的VPN客户端和服务器。",
+    "updated_at": "2026-02-07"
   }
 }
