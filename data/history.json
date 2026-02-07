@@ -994,5 +994,17 @@
   "ZeroTworu/anet": {
     "summary": "一个简单的Rust语言实现的VPN客户端和服务器。",
     "updated_at": "2026-02-07"
+  },
+  "pydantic/monty": {
+    "summary": "该项目是一个用Rust编写的Python解释器，用于AI应用，注重安全和简洁。",
+    "updated_at": "2026-02-08"
+  },
+  "marvinvr/docktail": {
+    "summary": "Docktail 是一个 Docker 容器管理工具，简化容器部署和管理。",
+    "updated_at": "2026-02-08"
+  },
+  "shanraisshan/claude-code-best-practice": {
+    "summary": "该项目旨在实践和改进 Claude 的代码最佳实践。",
+    "updated_at": "2026-02-08"
   }
 }
