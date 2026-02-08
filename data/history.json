@@ -1006,5 +1006,17 @@
   "shanraisshan/claude-code-best-practice": {
     "summary": "该项目旨在实践和改进 Claude 的代码最佳实践。",
     "updated_at": "2026-02-08"
+  },
+  "run-bigpig/jcp": {
+    "summary": "JCP AI 是一个智能股票分析系统，利用 AI 驱动和多 Agent 协作分析股票。",
+    "updated_at": "2026-02-09"
+  },
+  "microsoft/litebox": {
+    "summary": "微软的Litebox项目是一款安全库操作系统，支持内核和用户模式执行。",
+    "updated_at": "2026-02-09"
+  },
+  "gitbutlerapp/gitbutler": {
+    "summary": "GitButler 是一个基于 Git 的版本控制客户端，使用 Rust 和 Svelte 开发。",
+    "updated_at": "2026-02-09"
   }
 }
