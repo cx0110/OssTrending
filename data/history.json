@@ -1018,5 +1018,17 @@
   "gitbutlerapp/gitbutler": {
     "summary": "GitButler 是一个基于 Git 的版本控制客户端，使用 Rust 和 Svelte 开发。",
     "updated_at": "2026-02-09"
+  },
+  "mitchellh/vouch": {
+    "summary": "该项目是一个基于明确背书的贡献者信任管理系统。",
+    "updated_at": "2026-02-10"
+  },
+  "githubnext/gh-aw": {
+    "summary": "GitHub Agentic Workflows 是一个自动化工作流项目。",
+    "updated_at": "2026-02-10"
+  },
+  "surge-downloader/surge": {
+    "summary": "Surge 是一个快速的开源终端下载管理器。",
+    "updated_at": "2026-02-10"
   }
 }
