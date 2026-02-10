@@ -1030,5 +1030,17 @@
   "surge-downloader/surge": {
     "summary": "Surge 是一个快速的开源终端下载管理器。",
     "updated_at": "2026-02-10"
+  },
+  "badlogic/pi-mono": {
+    "summary": "这是一个人工智能代理工具包，提供命令行界面、API和图形界面等功能。",
+    "updated_at": "2026-02-11"
+  },
+  "hsliuping/TradingAgents-CN": {
+    "summary": "该项目是一个基于多智能体LLM的中文金融交易框架，用于模拟和优化金融交易决策。",
+    "updated_at": "2026-02-11"
+  },
+  "nearai/ironclaw": {
+    "summary": "IronClaw 是一个 Rust 语言实现的开源项目，专注于隐私和安全。",
+    "updated_at": "2026-02-11"
   }
 }
