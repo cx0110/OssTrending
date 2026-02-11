@@ -1042,5 +1042,13 @@
   "nearai/ironclaw": {
     "summary": "IronClaw 是一个 Rust 语言实现的开源项目，专注于隐私和安全。",
     "updated_at": "2026-02-11"
+  },
+  "accomplish-ai/openwork": {
+    "summary": "Openwork是一个开源的AI助手，安装在电脑桌面，帮助用户完成任务。",
+    "updated_at": "2026-02-12"
+  },
+  "Jeffallan/claude-skills": {
+    "summary": "该项目为开发者提供65种专门技能，帮助开发者将Claude代码转化为专家级编程助手。",
+    "updated_at": "2026-02-12"
   }
 }
