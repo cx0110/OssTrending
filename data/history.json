@@ -1050,5 +1050,29 @@
   "Jeffallan/claude-skills": {
     "summary": "该项目为开发者提供65种专门技能，帮助开发者将Claude代码转化为专家级编程助手。",
     "updated_at": "2026-02-12"
+  },
+  "ComposioHQ/secure-openclaw": {
+    "summary": "个人AI助手，通过消息平台接收指令，提供工具访问、记忆、提醒等功能。",
+    "updated_at": "2026-02-13"
+  },
+  "koala73/worldmonitor": {
+    "summary": "该项目是一个全球监测系统，实时跟踪世界各地的事件和新闻。",
+    "updated_at": "2026-02-13"
+  },
+  "memohai/Memoh": {
+    "summary": "这是一个多成员、结构化的长期记忆人工智能系统。",
+    "updated_at": "2026-02-13"
+  },
+  "cheahjs/free-llm-api-resources": {
+    "summary": "该项目提供免费的大语言模型（LLM）推理资源的API接口列表。",
+    "updated_at": "2026-02-13"
+  },
+  "QuipNetwork/quip-protocol": {
+    "summary": "实验性的Quip协议网络节点，用于测试和开发。",
+    "updated_at": "2026-02-13"
+  },
+  "raphaelmansuy/edgequake": {
+    "summary": "该项目是一个高性能的图形渲染引擎，使用Rust编写。",
+    "updated_at": "2026-02-13"
   }
 }
