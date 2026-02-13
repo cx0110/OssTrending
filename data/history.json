@@ -1074,5 +1074,25 @@
   "raphaelmansuy/edgequake": {
     "summary": "该项目是一个高性能的图形渲染引擎，使用Rust编写。",
     "updated_at": "2026-02-13"
+  },
+  "tonyyont/peon-ping": {
+    "summary": "Warcraft III Peon的声音通知，帮助用户监控终端状态。",
+    "updated_at": "2026-02-14"
+  },
+  "github/gh-aw": {
+    "summary": "GitHub 代理工作流程，简化工作流管理。",
+    "updated_at": "2026-02-14"
+  },
+  "thu-pacman/chitu": {
+    "summary": "这是一个高性能的大型语言模型推理框架，注重效率、灵活性和可用性。",
+    "updated_at": "2026-02-14"
+  },
+  "Veirt/weathr": {
+    "summary": "终端天气应用，带有ASCII动画。",
+    "updated_at": "2026-02-14"
+  },
+  "rari-build/rari": {
+    "summary": "Rari 是一个高性能的 React 服务器组件框架，使用 Rust 运行时，实现快速响应和高吞吐量。",
+    "updated_at": "2026-02-14"
   }
 }
