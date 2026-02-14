@@ -1094,5 +1094,21 @@
   "rari-build/rari": {
     "summary": "Rari 是一个高性能的 React 服务器组件框架，使用 Rust 运行时，实现快速响应和高吞吐量。",
     "updated_at": "2026-02-14"
+  },
+  "knadh/oat": {
+    "summary": "这是一个超轻量级的前端UI库，使用HTML、CSS和JS构建界面，无外部依赖。",
+    "updated_at": "2026-02-15"
+  },
+  "forrestchang/andrej-karpathy-skills": {
+    "summary": "该项目总结了Andrej Karpathy的技能和经验。",
+    "updated_at": "2026-02-15"
+  },
+  "rcourtman/Pulse": {
+    "summary": "实时监控Proxmox、Docker和Kubernetes，提供AI洞察、智能警报和统一仪表盘。",
+    "updated_at": "2026-02-15"
+  },
+  "tw93/Kaku": {
+    "summary": "这是一个快速、开箱即用的终端，专为AI编码而设计。",
+    "updated_at": "2026-02-15"
   }
 }
