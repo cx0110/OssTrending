@@ -1110,5 +1110,25 @@
   "tw93/Kaku": {
     "summary": "这是一个快速、开箱即用的终端，专为AI编码而设计。",
     "updated_at": "2026-02-15"
+  },
+  "sipeed/picoclaw": {
+    "summary": "PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。",
+    "updated_at": "2026-02-16"
+  },
+  "theonlyhennygod/zeroclaw": {
+    "summary": "该项目是一个爬虫框架，旨在更好地实现爬取功能。",
+    "updated_at": "2026-02-16"
+  },
+  "gosom/google-maps-scraper": {
+    "summary": "该项目从Google地图中提取商家信息，如名称、地址、电话等。",
+    "updated_at": "2026-02-16"
+  },
+  "HKUDS/FastCode": {
+    "summary": "FastCode 项目旨在加速和简化代码理解，提高开发效率。",
+    "updated_at": "2026-02-16"
+  },
+  "ruvnet/wifi-densepose": {
+    "summary": "利用Wi-Fi信号实现人体姿势跟踪，实时通过墙壁追踪人体动作。",
+    "updated_at": "2026-02-16"
   }
 }
