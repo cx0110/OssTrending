@@ -1130,5 +1130,25 @@
   "ruvnet/wifi-densepose": {
     "summary": "利用Wi-Fi信号实现人体姿势跟踪，实时通过墙壁追踪人体动作。",
     "updated_at": "2026-02-16"
+  },
+  "ashishps1/awesome-system-design-resources": {
+    "summary": "该项目提供免费资源帮助学习系统设计概念和准备面试。",
+    "updated_at": "2026-02-17"
+  },
+  "mickamy/sql-tap": {
+    "summary": "该项目提供实时监控SQL流量的图形界面工具。",
+    "updated_at": "2026-02-17"
+  },
+  "entireio/cli": {
+    "summary": "Entire 是一个开发平台，通过 Git 工作流捕获 AI 会话，统一代码和其上下文。",
+    "updated_at": "2026-02-17"
+  },
+  "p-e-w/heretic": {
+    "summary": "该项目实现了语言模型的自动审查内容去除功能。",
+    "updated_at": "2026-02-17"
+  },
+  "moltis-org/moltis": {
+    "summary": "个人AI助手，支持多种语言模型和语音交互。",
+    "updated_at": "2026-02-17"
   }
 }
