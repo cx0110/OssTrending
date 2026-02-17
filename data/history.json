@@ -1150,5 +1150,29 @@
   "moltis-org/moltis": {
     "summary": "个人AI助手，支持多种语言模型和语音交互。",
     "updated_at": "2026-02-17"
+  },
+  "alibaba/zvec": {
+    "summary": "alibaba/zvec是一个超快的内存向量数据库。",
+    "updated_at": "2026-02-18"
+  },
+  "jamiepine/voicebox": {
+    "summary": "该项目是一个开源的语音合成工作室，使用Qwen3-TTS技术生成语音。",
+    "updated_at": "2026-02-18"
+  },
+  "marcus/nightshift": {
+    "summary": "Nightshift 自动利用剩余预算生成有用的代码提交请求。",
+    "updated_at": "2026-02-18"
+  },
+  "klawsh/klaw.sh": {
+    "summary": "该项目为AI代理提供kubectl工具，简化AI应用管理。",
+    "updated_at": "2026-02-18"
+  },
+  "volcengine/OpenViking": {
+    "summary": "OpenViking 是一个开源的上下文数据库，帮助 AI 代理管理记忆、资源和技能。",
+    "updated_at": "2026-02-18"
+  },
+  "hummingbot/hummingbot": {
+    "summary": "该项目是一款开源软件，帮助用户创建和部署高频加密货币交易机器人。",
+    "updated_at": "2026-02-18"
   }
 }
