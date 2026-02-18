@@ -1174,5 +1174,21 @@
   "hummingbot/hummingbot": {
     "summary": "该项目是一款开源软件，帮助用户创建和部署高频加密货币交易机器人。",
     "updated_at": "2026-02-18"
+  },
+  "blackboardsh/electrobun": {
+    "summary": "使用Typescript构建超快、微小、跨平台的桌面应用。",
+    "updated_at": "2026-02-19"
+  },
+  "vxcontrol/pentagi": {
+    "summary": "vxcontrol/pentagi 是一个全自动的 AI 渗透测试系统。",
+    "updated_at": "2026-02-19"
+  },
+  "louisho5/picobot": {
+    "summary": "这是一个轻量级的自托管机器人，使用Go语言编写，打包成单个二进制文件。",
+    "updated_at": "2026-02-19"
+  },
+  "antithesishq/bombadil": {
+    "summary": "自动化测试网页界面，发现隐藏的Bug。",
+    "updated_at": "2026-02-19"
   }
 }
