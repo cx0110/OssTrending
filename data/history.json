@@ -1190,5 +1190,21 @@
   "antithesishq/bombadil": {
     "summary": "自动化测试网页界面，发现隐藏的Bug。",
     "updated_at": "2026-02-19"
+  },
+  "taleshape-com/shaper": {
+    "summary": "使用SQL构建数据仪表盘，依托DuckDB数据库。",
+    "updated_at": "2026-02-20"
+  },
+  "tesweva/Nextjs-RCE-Exploit-Kit": {
+    "summary": "Nextjs 远程命令执行漏洞利用工具包。",
+    "updated_at": "2026-02-20"
+  },
+  "google-research/timesfm": {
+    "summary": "TimesFM 是谷歌研究院开发的预训练时间序列基础模型，用于时间序列预测。",
+    "updated_at": "2026-02-20"
+  },
+  "spacedriveapp/spacebot": {
+    "summary": "Spacebot是一个为团队和社区提供的AI智能助手。",
+    "updated_at": "2026-02-20"
   }
 }
