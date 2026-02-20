@@ -1206,5 +1206,17 @@
   "spacedriveapp/spacebot": {
     "summary": "Spacebot是一个为团队和社区提供的AI智能助手。",
     "updated_at": "2026-02-20"
+  },
+  "netease-youdao/LobsterAI": {
+    "summary": "LobsterAI 是一个全场景 AI 助手，帮助用户完成各种任务。",
+    "updated_at": "2026-02-21"
+  },
+  "RichardAtCT/claude-code-telegram": {
+    "summary": "一个Telegram机器人，提供远程访问Claude Code，实现开发者随时随地与项目交互。",
+    "updated_at": "2026-02-21"
+  },
+  "microclaw/microclaw": {
+    "summary": "微信小助手：一个基于Rust的AI助手，集成于聊天平台。",
+    "updated_at": "2026-02-21"
   }
 }
