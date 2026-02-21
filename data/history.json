@@ -1218,5 +1218,13 @@
   "microclaw/microclaw": {
     "summary": "微信小助手：一个基于Rust的AI助手，集成于聊天平台。",
     "updated_at": "2026-02-21"
+  },
+  "ShinMegamiBoson/OpenPlanter": {
+    "summary": "OpenPlanter 是一个开源的植物监测和自动化系统，帮助用户监测和控制植物的生长环境。",
+    "updated_at": "2026-02-22"
+  },
+  "anthropics/claude-plugins-official": {
+    "summary": "Anthropic 官方的 Claude 代码插件目录，提供高质量的插件。",
+    "updated_at": "2026-02-22"
   }
 }
