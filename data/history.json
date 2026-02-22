@@ -1226,5 +1226,17 @@
   "anthropics/claude-plugins-official": {
     "summary": "Anthropic 官方的 Claude 代码插件目录，提供高质量的插件。",
     "updated_at": "2026-02-22"
+  },
+  "qwibitai/nanoclaw": {
+    "summary": "一个轻量级的容器化WhatsApp机器人，具有记忆和定时任务功能。",
+    "updated_at": "2026-02-23"
+  },
+  "HKUDS/ClawWork": {
+    "summary": "ClawWork是一个开源项目，旨在将AI作为协作工具，帮助用户提高工作效率。",
+    "updated_at": "2026-02-23"
+  },
+  "Dicklesworthstone/pi_agent_rust": {
+    "summary": "该项目是一个高性能的AI编码代理命令行工具，使用Rust语言开发，实现零不安全代码。",
+    "updated_at": "2026-02-23"
   }
 }
