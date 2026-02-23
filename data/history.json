@@ -1238,5 +1238,17 @@
   "Dicklesworthstone/pi_agent_rust": {
     "summary": "该项目是一个高性能的AI编码代理命令行工具，使用Rust语言开发，实现零不安全代码。",
     "updated_at": "2026-02-23"
+  },
+  "huggingface/skills": {
+    "summary": "huggingface/skills 项目提供了一种技能评估和认证的开源平台。",
+    "updated_at": "2026-02-24"
+  },
+  "D4Vinci/Scrapling": {
+    "summary": "D4Vinci/Scrapling是一个适应性网页爬虫框架，能处理单个请求到大规模爬取。",
+    "updated_at": "2026-02-24"
+  },
+  "adolfousier/opencrabs": {
+    "summary": "OpenCrabs 是一个用 Rust 编写的 AI 终端原生编排层，用于软件开发。",
+    "updated_at": "2026-02-24"
   }
 }
