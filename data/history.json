@@ -1250,5 +1250,13 @@
   "adolfousier/opencrabs": {
     "summary": "OpenCrabs 是一个用 Rust 编写的 AI 终端原生编排层，用于软件开发。",
     "updated_at": "2026-02-24"
+  },
+  "zeroclaw-labs/zeroclaw": {
+    "summary": "快速、轻量、全自主的AI助手基础设施，支持随处部署和自由切换。",
+    "updated_at": "2026-02-25"
+  },
+  "pgdogdev/pgdog": {
+    "summary": "PostgreSQL 连接池、负载均衡和数据库分片工具。",
+    "updated_at": "2026-02-25"
   }
 }
