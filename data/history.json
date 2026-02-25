@@ -1258,5 +1258,17 @@
   "pgdogdev/pgdog": {
     "summary": "PostgreSQL 连接池、负载均衡和数据库分片工具。",
     "updated_at": "2026-02-25"
+  },
+  "zarazhangrui/frontend-slides": {
+    "summary": "该项目使用前端技术创建漂亮的网页幻灯片。",
+    "updated_at": "2026-02-26"
+  },
+  "clockworklabs/SpacetimeDB": {
+    "summary": "该项目是一个快速开发平台，旨在加速开发速度。",
+    "updated_at": "2026-02-26"
+  },
+  "ruvnet/ruvector": {
+    "summary": "RuVector 是一个高性能的向量和图数据库，用于人工智能和实时分析。",
+    "updated_at": "2026-02-26"
   }
 }
