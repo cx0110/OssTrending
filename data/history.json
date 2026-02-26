@@ -1270,5 +1270,21 @@
   "ruvnet/ruvector": {
     "summary": "RuVector 是一个高性能的向量和图数据库，用于人工智能和实时分析。",
     "updated_at": "2026-02-26"
+  },
+  "hesamsheikh/awesome-openclaw-usecases": {
+    "summary": "一个社区驱动的项目，收集OpenClaw的用例，旨在简化生活。",
+    "updated_at": "2026-02-27"
+  },
+  "abhigyanpatwari/GitNexus": {
+    "summary": "GitNexus：一个浏览器内运行的代码智能引擎，生成交互式知识图谱。",
+    "updated_at": "2026-02-27"
+  },
+  "peteromallet/dataclaw": {
+    "summary": "Dataclaw 是一个开源数据抓取工具，帮助用户从网站中提取数据。",
+    "updated_at": "2026-02-27"
+  },
+  "Polymarket/polymarket-cli": {
+    "summary": "Polymarket-cli 是一个命令行工具，用于与 Polymarket 预测市场进行交互。",
+    "updated_at": "2026-02-27"
   }
 }
