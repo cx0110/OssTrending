@@ -1286,5 +1286,13 @@
   "Polymarket/polymarket-cli": {
     "summary": "Polymarket-cli 是一个命令行工具，用于与 Polymarket 预测市场进行交互。",
     "updated_at": "2026-02-27"
+  },
+  "anthropics/financial-services-plugins": {
+    "summary": "该项目提供金融服务插件，扩展金融功能。",
+    "updated_at": "2026-02-28"
+  },
+  "Wei-Shaw/sub2api": {
+    "summary": "Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。",
+    "updated_at": "2026-02-28"
   }
 }
