@@ -1294,5 +1294,17 @@
   "Wei-Shaw/sub2api": {
     "summary": "Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。",
     "updated_at": "2026-02-28"
+  },
+  "RightNow-AI/openfang": {
+    "summary": "开源智能代理操作系统，实现自动化任务处理。",
+    "updated_at": "2026-03-01"
+  },
+  "xpzouying/xiaohongshu-mcp": {
+    "summary": "小红书的内容管理平台。",
+    "updated_at": "2026-03-01"
+  },
+  "rtk-ai/rtk": {
+    "summary": "该项目是一款命令行代理，能减少大语言模型的令牌消耗。",
+    "updated_at": "2026-03-01"
   }
 }
