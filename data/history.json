@@ -1306,5 +1306,17 @@
   "rtk-ai/rtk": {
     "summary": "该项目是一款命令行代理，能减少大语言模型的令牌消耗。",
     "updated_at": "2026-03-01"
+  },
+  "agentscope-ai/CoPaw": {
+    "summary": "CoPaw 是一个个人 AI 助手，支持多个聊天应用，易于安装和部署。",
+    "updated_at": "2026-03-02"
+  },
+  "taigrr/spank": {
+    "summary": "这个项目可以让MacBook感知到物理冲击，并发出声音反馈。",
+    "updated_at": "2026-03-02"
+  },
+  "alibaba/OpenSandbox": {
+    "summary": "OpenSandbox是一个通用AI沙箱平台，提供多语言SDK和统一API。",
+    "updated_at": "2026-03-02"
   }
 }
