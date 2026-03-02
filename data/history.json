@@ -1318,5 +1318,9 @@
   "alibaba/OpenSandbox": {
     "summary": "OpenSandbox是一个通用AI沙箱平台，提供多语言SDK和统一API。",
     "updated_at": "2026-03-02"
+  },
+  "pinchtab/pinchtab": {
+    "summary": "该项目是一个高性能的浏览器自动化工具，支持多实例管理和实时监控。",
+    "updated_at": "2026-03-03"
   }
 }
