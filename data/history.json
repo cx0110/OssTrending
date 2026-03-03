@@ -1322,5 +1322,9 @@
   "pinchtab/pinchtab": {
     "summary": "该项目是一个高性能的浏览器自动化工具，支持多实例管理和实时监控。",
     "updated_at": "2026-03-03"
+  },
+  "maderix/ANE": {
+    "summary": "该项目通过逆向工程的私有API，在苹果神经引擎上训练神经网络。",
+    "updated_at": "2026-03-04"
   }
 }
