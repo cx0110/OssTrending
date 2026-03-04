@@ -1326,5 +1326,9 @@
   "maderix/ANE": {
     "summary": "该项目通过逆向工程的私有API，在苹果神经引擎上训练神经网络。",
     "updated_at": "2026-03-04"
+  },
+  "msitarzewski/agency-agents": {
+    "summary": "一个提供多种AI专家代理的平台，每个代理都有独特的个性和技能。",
+    "updated_at": "2026-03-05"
   }
 }
