@@ -1330,5 +1330,17 @@
   "msitarzewski/agency-agents": {
     "summary": "一个提供多种AI专家代理的平台，每个代理都有独特的个性和技能。",
     "updated_at": "2026-03-05"
+  },
+  "openai/symphony": {
+    "summary": "Symphony 将项目工作转化为独立的实现运行，帮助团队管理工作。",
+    "updated_at": "2026-03-06"
+  },
+  "moeru-ai/airi": {
+    "summary": "这是一个自托管的AI伴侣项目，支持实时语音聊天、游戏等功能。",
+    "updated_at": "2026-03-06"
+  },
+  "ruvnet/RuView": {
+    "summary": "RuView：利用WiFi信号实现人体姿势估计、生命体征监测和存在检测，无需摄像头。",
+    "updated_at": "2026-03-06"
   }
 }
