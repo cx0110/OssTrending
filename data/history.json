@@ -1342,5 +1342,13 @@
   "ruvnet/RuView": {
     "summary": "RuView：利用WiFi信号实现人体姿势估计、生命体征监测和存在检测，无需摄像头。",
     "updated_at": "2026-03-06"
+  },
+  "paperclipai/paperclip": {
+    "summary": "Paperclipai/paperclip 是一个开源项目，旨在实现零人工公司的自动化编排。",
+    "updated_at": "2026-03-07"
+  },
+  "QwenLM/Qwen-Agent": {
+    "summary": "Qwen-Agent 是一个基于 Qwen 的智能代理框架，支持函数调用、代码解释等功能。",
+    "updated_at": "2026-03-07"
   }
 }
