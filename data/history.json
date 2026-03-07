@@ -1350,5 +1350,17 @@
   "QwenLM/Qwen-Agent": {
     "summary": "Qwen-Agent 是一个基于 Qwen 的智能代理框架，支持函数调用、代码解释等功能。",
     "updated_at": "2026-03-07"
+  },
+  "pingdotgg/t3code": {
+    "summary": "T3code 是一个开源的代码生成工具，帮助开发者快速生成后端 API 代码。",
+    "updated_at": "2026-03-08"
+  },
+  "googleworkspace/cli": {
+    "summary": "Google Workspace CLI 是一个命令行工具，集成了 Google 多个服务，如 Drive、Gmail、Calendar 等。",
+    "updated_at": "2026-03-08"
+  },
+  "Ed1s0nZ/CyberStrikeAI": {
+    "summary": "CyberStrikeAI是一个集成多种安全工具的AI安全测试平台。",
+    "updated_at": "2026-03-08"
   }
 }
