@@ -1362,5 +1362,17 @@
   "Ed1s0nZ/CyberStrikeAI": {
     "summary": "CyberStrikeAI是一个集成多种安全工具的AI安全测试平台。",
     "updated_at": "2026-03-08"
+  },
+  "openclaw/openclaw": {
+    "summary": "这是一个个人AI助手项目，支持任何操作系统和平台。",
+    "updated_at": "2026-03-10"
+  },
+  "m1k1o/neko": {
+    "summary": "一个自托管的虚拟浏览器，使用Docker和WebRTC技术。",
+    "updated_at": "2026-03-10"
+  },
+  "nikopueringer/CorridorKey": {
+    "summary": "该项目为视频提供完美的绿幕抠图功能。",
+    "updated_at": "2026-03-10"
   }
 }
