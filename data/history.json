@@ -1374,5 +1374,21 @@
   "nikopueringer/CorridorKey": {
     "summary": "该项目为视频提供完美的绿幕抠图功能。",
     "updated_at": "2026-03-10"
+  },
+  "andrewyng/context-hub": {
+    "summary": "Context Hub 是一个开源项目，提供了一个集中式的上下文管理系统。",
+    "updated_at": "2026-03-11"
+  },
+  "jundot/omlx": {
+    "summary": "该项目是一个LLM推理服务器，支持连续批处理和SSD缓存，适用于苹果芯片设备。",
+    "updated_at": "2026-03-11"
+  },
+  "alirezarezvani/claude-skills": {
+    "summary": "该项目提供169个可用的技能和插件，用于Claude Code、OpenAI Codex和OpenClaw。",
+    "updated_at": "2026-03-11"
+  },
+  "AlexsJones/llmfit": {
+    "summary": "该项目提供一个命令，帮助用户快速找到适合其硬件的模型和服务提供商。",
+    "updated_at": "2026-03-11"
   }
 }
