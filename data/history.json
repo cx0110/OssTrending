@@ -1390,5 +1390,13 @@
   "AlexsJones/llmfit": {
     "summary": "该项目提供一个命令，帮助用户快速找到适合其硬件的模型和服务提供商。",
     "updated_at": "2026-03-11"
+  },
+  "NousResearch/hermes-agent": {
+    "summary": "Hermes-agent 是一个智能代理项目，能够随着用户的成长而不断学习和适应。",
+    "updated_at": "2026-03-12"
+  },
+  "karpathy/nanochat": {
+    "summary": "一个低成本的ChatGPT聊天机器人项目。",
+    "updated_at": "2026-03-12"
   }
 }
