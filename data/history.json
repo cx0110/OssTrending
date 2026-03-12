@@ -1398,5 +1398,13 @@
   "karpathy/nanochat": {
     "summary": "一个低成本的ChatGPT聊天机器人项目。",
     "updated_at": "2026-03-12"
+  },
+  "AstrBotDevs/AstrBot": {
+    "summary": "AstrBot 是一个集成多个即时通讯平台、语言模型和插件的聊天机器人框架。",
+    "updated_at": "2026-03-13"
+  },
+  "guohuiyuan/go-music-dl": {
+    "summary": "这是一个基于Go语言的全网音乐搜索与下载工具，支持多平台搜索和下载。",
+    "updated_at": "2026-03-13"
   }
 }
