@@ -1406,5 +1406,13 @@
   "guohuiyuan/go-music-dl": {
     "summary": "这是一个基于Go语言的全网音乐搜索与下载工具，支持多平台搜索和下载。",
     "updated_at": "2026-03-13"
+  },
+  "karpathy/autoresearch": {
+    "summary": "该项目实现了自动化的AI研究，使用单个GPU训练对话模型。",
+    "updated_at": "2026-03-14"
+  },
+  "pbakaus/impeccable": {
+    "summary": "该项目是一个设计语言，帮助人工智能更好地理解设计。",
+    "updated_at": "2026-03-14"
   }
 }
