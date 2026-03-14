@@ -1414,5 +1414,21 @@
   "pbakaus/impeccable": {
     "summary": "该项目是一个设计语言，帮助人工智能更好地理解设计。",
     "updated_at": "2026-03-14"
+  },
+  "lightpanda-io/browser": {
+    "summary": "Lightpanda是一个无头浏览器，用于AI和自动化。",
+    "updated_at": "2026-03-15"
+  },
+  "chenhg5/cc-connect": {
+    "summary": "连接本地AI编码工具到多个聊天平台，让您随处与AI开发助手交流。",
+    "updated_at": "2026-03-15"
+  },
+  "Compresr-ai/Context-Gateway": {
+    "summary": "Context Gateway 是一个代理工具，优化 AI 工作流程，提供实时历史压缩和上下文优化功能。",
+    "updated_at": "2026-03-15"
+  },
+  "dev-protocol/polymarket-ai-synth-trading-bot-telegram": {
+    "summary": "该项目是一个自动化交易机器人，用于在Polymarket平台进行交易和套利。",
+    "updated_at": "2026-03-15"
   }
 }
