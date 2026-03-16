@@ -1430,5 +1430,9 @@
   "dev-protocol/polymarket-ai-synth-trading-bot-telegram": {
     "summary": "该项目是一个自动化交易机器人，用于在Polymarket平台进行交易和套利。",
     "updated_at": "2026-03-15"
+  },
+  "langchain-ai/deepagents": {
+    "summary": "该项目是一个智能代理框架，能够处理复杂任务，并具备规划、文件存储和子代理创建等功能。",
+    "updated_at": "2026-03-17"
   }
 }
