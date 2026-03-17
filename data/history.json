@@ -1434,5 +1434,17 @@
   "langchain-ai/deepagents": {
     "summary": "该项目是一个智能代理框架，能够处理复杂任务，并具备规划、文件存储和子代理创建等功能。",
     "updated_at": "2026-03-17"
+  },
+  "calesthio/Crucix": {
+    "summary": "Crucix 是一个个人智能助手，监控多个数据源，当发生变化时通知您。",
+    "updated_at": "2026-03-18"
+  },
+  "fengshao1227/ccg-workflow": {
+    "summary": "多模型协作开发系统，实现一键安装零配置的开发流程。",
+    "updated_at": "2026-03-18"
+  },
+  "Infatoshi/OpenSquirrel": {
+    "summary": "该项目是一个原生Rust控制面板，用于同时运行多个AI模型，帮助用户集中注意力。",
+    "updated_at": "2026-03-18"
   }
 }
