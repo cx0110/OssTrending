@@ -1446,5 +1446,29 @@
   "Infatoshi/OpenSquirrel": {
     "summary": "该项目是一个原生Rust控制面板，用于同时运行多个AI模型，帮助用户集中注意力。",
     "updated_at": "2026-03-18"
+  },
+  "THU-MAIC/OpenMAIC": {
+    "summary": "OpenMAIC是一个多智能体交互式教室，提供沉浸式学习体验。",
+    "updated_at": "2026-03-19"
+  },
+  "aiming-lab/AutoResearchClaw": {
+    "summary": "该项目实现从想法到论文的全自动化和自我进化的研究。",
+    "updated_at": "2026-03-19"
+  },
+  "gsd-build/get-shit-done": {
+    "summary": "这是一个轻量级的代码开发辅助系统，帮助提高编码效率。",
+    "updated_at": "2026-03-19"
+  },
+  "shareAI-lab/learn-claude-code": {
+    "summary": "该项目是一个使用Bash构建的微型Claude Code智能代理。",
+    "updated_at": "2026-03-19"
+  },
+  "gofr-dev/gofr": {
+    "summary": "gofr 是一个 Go 语言微服务开发框架，内置数据库和可观察性支持。",
+    "updated_at": "2026-03-19"
+  },
+  "mukul975/Anthropic-Cybersecurity-Skills": {
+    "summary": "该项目提供700多项结构化的网络安全技能，用于AI代理。",
+    "updated_at": "2026-03-19"
   }
 }
