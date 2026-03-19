@@ -1470,5 +1470,17 @@
   "mukul975/Anthropic-Cybersecurity-Skills": {
     "summary": "该项目提供700多项结构化的网络安全技能，用于AI代理。",
     "updated_at": "2026-03-19"
+  },
+  "mattpocock/skills": {
+    "summary": "该项目是一个技能管理系统，用于记录和展示个人技能。",
+    "updated_at": "2026-03-20"
+  },
+  "jarrodwatts/claude-hud": {
+    "summary": "Claude HUD 插件显示代码上下文、工具、代理和待办事项进度。",
+    "updated_at": "2026-03-20"
+  },
+  "c0m4r/kula": {
+    "summary": "一个轻量级的Linux服务器监控工具，用于监测服务器性能和状态。",
+    "updated_at": "2026-03-20"
   }
 }
