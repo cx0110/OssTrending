@@ -1482,5 +1482,17 @@
   "c0m4r/kula": {
     "summary": "一个轻量级的Linux服务器监控工具，用于监测服务器性能和状态。",
     "updated_at": "2026-03-20"
+  },
+  "opendataloader-project/opendataloader-pdf": {
+    "summary": "该项目是一个开源的PDF解析器，旨在自动化PDF文件的可访问性，提取AI可用的数据。",
+    "updated_at": "2026-03-21"
+  },
+  "KittenML/KittenTTS": {
+    "summary": "KittenML/KittenTTS 是一个小于 25MB 的高级语音合成模型。",
+    "updated_at": "2026-03-21"
+  },
+  "louis-e/arnis": {
+    "summary": "该项目可以在Minecraft中生成现实世界中的任何地点，具有高细节度。",
+    "updated_at": "2026-03-21"
   }
 }
