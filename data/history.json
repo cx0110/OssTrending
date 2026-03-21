@@ -1494,5 +1494,21 @@
   "louis-e/arnis": {
     "summary": "该项目可以在Minecraft中生成现实世界中的任何地点，具有高细节度。",
     "updated_at": "2026-03-21"
+  },
+  "Crosstalk-Solutions/project-nomad": {
+    "summary": "项目N.O.M.A.D是一款离线生存电脑，内置关键工具、知识和AI，随时随地提供信息和支持。",
+    "updated_at": "2026-03-22"
+  },
+  "TauricResearch/TradingAgents": {
+    "summary": "该项目是一个多智能体金融交易框架，用于研究和开发人工智能交易策略。",
+    "updated_at": "2026-03-22"
+  },
+  "lucija8320nhung4/HacxGPT": {
+    "summary": "HacxGPT 是一个开源的命令行界面，用于访问无限制的 AI 模型。",
+    "updated_at": "2026-03-22"
+  },
+  "zerobootdev/zeroboot": {
+    "summary": "该项目创建了微秒级别的虚拟机沙盒，用于AI代理的运行。",
+    "updated_at": "2026-03-22"
   }
 }
