@@ -1510,5 +1510,13 @@
   "zerobootdev/zeroboot": {
     "summary": "该项目创建了微秒级别的虚拟机沙盒，用于AI代理的运行。",
     "updated_at": "2026-03-22"
+  },
+  "bytedance/deer-flow": {
+    "summary": "该项目是一个开源的超级智能代理框架，能够处理不同级别的任务。",
+    "updated_at": "2026-03-23"
+  },
+  "FujiwaraChoki/MoneyPrinterV2": {
+    "summary": "该项目旨在自动化在线赚钱的过程。",
+    "updated_at": "2026-03-23"
   }
 }
