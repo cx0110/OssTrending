@@ -1522,5 +1522,13 @@
   "pascalorg/editor": {
     "summary": "PascalORG/editor 是一个基于网页的代码编辑器。",
     "updated_at": "2026-03-24"
+  },
+  "tiajinsha/JKVideo": {
+    "summary": "这是一个基于React Native的第三方B站客户端，支持多平台和直播功能。",
+    "updated_at": "2026-03-25"
+  },
+  "hesreallyhim/awesome-claude-code": {
+    "summary": "该项目为Claude Code提供了一个精选的技能、插件和应用列表。",
+    "updated_at": "2026-03-25"
   }
 }
