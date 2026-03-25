@@ -1530,5 +1530,9 @@
   "hesreallyhim/awesome-claude-code": {
     "summary": "该项目为Claude Code提供了一个精选的技能、插件和应用列表。",
     "updated_at": "2026-03-25"
+  },
+  "mvanhorn/last30days-skill": {
+    "summary": "该项目是一个AI智能助手，能够在多个平台上搜索信息并总结关键内容。",
+    "updated_at": "2026-03-26"
   }
 }
