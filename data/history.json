@@ -1534,5 +1534,25 @@
   "mvanhorn/last30days-skill": {
     "summary": "该项目是一个AI智能助手，能够在多个平台上搜索信息并总结关键内容。",
     "updated_at": "2026-03-26"
+  },
+  "Donchitos/Claude-Code-Game-Studios": {
+    "summary": "将Claude Code打造为全功能游戏开发工作室，拥有48个AI代理、36项工作流技能和完整的协调系统。",
+    "updated_at": "2026-03-27"
+  },
+  "MiniMax-AI/skills": {
+    "summary": "MiniMax-AI/skills 项目是一个实现 Minimax 算法的开源项目，用于开发人工智能游戏策略。",
+    "updated_at": "2026-03-27"
+  },
+  "cacggghp/vk-turn-proxy": {
+    "summary": "该项目是一个VK（Vkontakte）转发代理，帮助用户访问VK。",
+    "updated_at": "2026-03-27"
+  },
+  "AgentsMesh/AgentsMesh": {
+    "summary": "AgentsMesh是一个AI智能代理指挥中心，用于管理和控制AI代理的行为。",
+    "updated_at": "2026-03-27"
+  },
+  "t8/hypura": {
+    "summary": "该项目允许运行超出Mac内存限制的模型。",
+    "updated_at": "2026-03-27"
   }
 }
