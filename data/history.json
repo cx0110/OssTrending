@@ -1554,5 +1554,21 @@
   "t8/hypura": {
     "summary": "该项目允许运行超出Mac内存限制的模型。",
     "updated_at": "2026-03-27"
+  },
+  "Yeachan-Heo/oh-my-claudecode": {
+    "summary": "该项目实现多智能体编排，优化 Claude Code 的团队协作功能。",
+    "updated_at": "2026-03-28"
+  },
+  "fastclaw-ai/fastclaw": {
+    "summary": "Fastclaw-ai/fastclaw 是一个更快、更好的开源项目，旨在替代 OpenClaw。",
+    "updated_at": "2026-03-28"
+  },
+  "luongnv89/claude-howto": {
+    "summary": "该项目提供 Claude Code 的视觉化教程和示例，涵盖基础到高级内容。",
+    "updated_at": "2026-03-28"
+  },
+  "golutra/golutra": {
+    "summary": "golutra/golutra 是一个基于 Go 语言的终端模拟器。",
+    "updated_at": "2026-03-28"
   }
 }
