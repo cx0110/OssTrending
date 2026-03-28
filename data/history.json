@@ -1570,5 +1570,17 @@
   "golutra/golutra": {
     "summary": "golutra/golutra 是一个基于 Go 语言的终端模拟器。",
     "updated_at": "2026-03-28"
+  },
+  "datalab-to/chandra": {
+    "summary": "该项目是一个OCR模型，能够识别复杂表格、表单、手写体，并保留原来的布局。",
+    "updated_at": "2026-03-29"
+  },
+  "onyx-dot-app/onyx": {
+    "summary": "开源AI平台，支持多种LLM，实现高级聊天功能。",
+    "updated_at": "2026-03-29"
+  },
+  "microsoft/RustTraining": {
+    "summary": "微软的Rust编程语言培训材料，包含初级、中级和高级内容。",
+    "updated_at": "2026-03-29"
   }
 }
