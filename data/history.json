@@ -1582,5 +1582,17 @@
   "microsoft/RustTraining": {
     "summary": "微软的Rust编程语言培训材料，包含初级、中级和高级内容。",
     "updated_at": "2026-03-29"
+  },
+  "Panniantong/Agent-Reach": {
+    "summary": "该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。",
+    "updated_at": "2026-03-30"
+  },
+  "samber/cc-skills-golang": {
+    "summary": "该项目是一个Go语言技能库，提供多种技能函数。",
+    "updated_at": "2026-03-30"
+  },
+  "yologdev/yoyo-evolve": {
+    "summary": "该项目是一个每天自动提交代码的智能代理，通过不断演化提高自身能力。",
+    "updated_at": "2026-03-30"
   }
 }
