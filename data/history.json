@@ -1594,5 +1594,9 @@
   "yologdev/yoyo-evolve": {
     "summary": "该项目是一个每天自动提交代码的智能代理，通过不断演化提高自身能力。",
     "updated_at": "2026-03-30"
+  },
+  "Tght1211/lan-proxy-gateway": {
+    "summary": "让Mac变成局域网透明代理网关，帮助其他设备科学上网。",
+    "updated_at": "2026-03-31"
   }
 }
