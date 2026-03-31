@@ -1598,5 +1598,13 @@
   "Tght1211/lan-proxy-gateway": {
     "summary": "让Mac变成局域网透明代理网关，帮助其他设备科学上网。",
     "updated_at": "2026-03-31"
+  },
+  "TheTom/turboquant_plus": {
+    "summary": "Turboquant_plus 是一个量化交易平台，提供高性能的回测和实时交易功能。",
+    "updated_at": "2026-03-31"
+  },
+  "electrikmilk/cherri": {
+    "summary": "这是一个Siri快捷方式的编程语言。",
+    "updated_at": "2026-03-31"
   }
 }
