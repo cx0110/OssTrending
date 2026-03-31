@@ -61,7 +61,7 @@ jobs:
           destination-github-username: 'cx0110'
           
           # 目标：你的 Obsidian 仓库名
-          destination-repository-name: 'ob-note'
+          destination-repository-name: 'ob-vault'
           
           # 你的邮箱
           user-email: 'github.cx0110@gmail.com'
