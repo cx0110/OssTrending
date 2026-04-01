@@ -1606,5 +1606,25 @@
   "electrikmilk/cherri": {
     "summary": "这是一个Siri快捷方式的编程语言。",
     "updated_at": "2026-03-31"
+  },
+  "anthropics/claude-code": {
+    "summary": "Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。",
+    "updated_at": "2026-04-02"
+  },
+  "Yeachan-Heo/oh-my-codex": {
+    "summary": "该项目为代码库添加钩子、智能代理、HUD等功能，增强代码管理和开发体验。",
+    "updated_at": "2026-04-02"
+  },
+  "siddharthvaddem/openscreen": {
+    "summary": "开源屏幕录制工具，免费创建演示，无水印，无订阅，无商用限制。",
+    "updated_at": "2026-04-02"
+  },
+  "ssrajadh/sentrysearch": {
+    "summary": "该项目实现视频语义搜索，利用Gemini Embedding 2或Qwen3-VL技术。",
+    "updated_at": "2026-04-02"
+  },
+  "frogansol/polymarket-arbitrage-trading-bot-sports-crypto": {
+    "summary": "该项目是一个基于Rust的Polymarket交易机器人，用于预测市场交易。",
+    "updated_at": "2026-04-02"
   }
 }
