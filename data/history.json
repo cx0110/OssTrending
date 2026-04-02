@@ -1626,5 +1626,21 @@
   "frogansol/polymarket-arbitrage-trading-bot-sports-crypto": {
     "summary": "该项目是一个基于Rust的Polymarket交易机器人，用于预测市场交易。",
     "updated_at": "2026-04-02"
+  },
+  "openai/codex-plugin-cc": {
+    "summary": "利用Codex代码审查和任务委托工具，提高编码效率。",
+    "updated_at": "2026-04-03"
+  },
+  "Kocoro-lab/Shannon": {
+    "summary": "Kocoro-lab/Shannon 是一个多智能体编排框架，用于生产环境下的任务协调。",
+    "updated_at": "2026-04-03"
+  },
+  "surge-downloader/Surge": {
+    "summary": "Surge 是一个快速的命令行下载管理工具，使用 Go 语言开发。",
+    "updated_at": "2026-04-03"
+  },
+  "nashsu/opencli-rs": {
+    "summary": "Opencli-rs 是一个快速、安全的命令行工具，用于从多个网站和应用程序中获取信息。",
+    "updated_at": "2026-04-03"
   }
 }
