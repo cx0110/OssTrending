@@ -1642,5 +1642,13 @@
   "nashsu/opencli-rs": {
     "summary": "Opencli-rs 是一个快速、安全的命令行工具，用于从多个网站和应用程序中获取信息。",
     "updated_at": "2026-04-03"
+  },
+  "codeany-ai/codeany": {
+    "summary": "这是一个开源的AI终端代理，使用Go语言开发。",
+    "updated_at": "2026-04-04"
+  },
+  "dmtrKovalenko/fff.nvim": {
+    "summary": "这是一个超快的文件搜索工具，支持多种编程语言和编辑器。",
+    "updated_at": "2026-04-04"
   }
 }
