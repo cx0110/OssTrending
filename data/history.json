@@ -1650,5 +1650,17 @@
   "dmtrKovalenko/fff.nvim": {
     "summary": "这是一个超快的文件搜索工具，支持多种编程语言和编辑器。",
     "updated_at": "2026-04-04"
+  },
+  "0xGF/boneyard": {
+    "summary": "自动生成骨架屏加载框架，优化页面加载速度。",
+    "updated_at": "2026-04-05"
+  },
+  "masterking32/MasterDnsVPN": {
+    "summary": "该项目是一个高级的DNS隧道VPN，用于突破网络审查。",
+    "updated_at": "2026-04-05"
+  },
+  "k2-fsa/OmniVoice": {
+    "summary": "该项目实现了高质量的语音克隆和文本转语音（TTS）功能，支持600多种语言。",
+    "updated_at": "2026-04-05"
   }
 }
