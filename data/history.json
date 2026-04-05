@@ -1662,5 +1662,17 @@
   "k2-fsa/OmniVoice": {
     "summary": "该项目实现了高质量的语音克隆和文本转语音（TTS）功能，支持600多种语言。",
     "updated_at": "2026-04-05"
+  },
+  "VoltAgent/awesome-design-md": {
+    "summary": "该项目收集了流行网站的设计系统文档，方便开发者快速构建匹配的UI界面。",
+    "updated_at": "2026-04-06"
+  },
+  "addyosmani/agent-skills": {
+    "summary": "该项目为AI编码代理提供生产级工程技能。",
+    "updated_at": "2026-04-06"
+  },
+  "superplanehq/superplane": {
+    "summary": "开源的DevOps控制平面，用于管理事件驱动的工作流程。",
+    "updated_at": "2026-04-06"
   }
 }
