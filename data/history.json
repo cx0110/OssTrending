@@ -1674,5 +1674,13 @@
   "superplanehq/superplane": {
     "summary": "开源的DevOps控制平面，用于管理事件驱动的工作流程。",
     "updated_at": "2026-04-06"
+  },
+  "JuliusBrussee/caveman": {
+    "summary": "该项目是一个代码优化工具，通过简化代码语句，减少代码中的令牌数量。",
+    "updated_at": "2026-04-07"
+  },
+  "maaslalani/sheets": {
+    "summary": "终端基于的电子表格工具。",
+    "updated_at": "2026-04-07"
   }
 }
