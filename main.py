@@ -174,13 +174,14 @@ def build_markdown_section(title, repos, settings, history):
         name = repo['repo_name']
         url = f"https://github.com/{name}"
         stars = repo.get('stars', 0)
-        raw_desc = repo.get('description', '').replace('|', '\|').replace('\n', ' ')
+        raw_desc = repo.get('description', '').replace('|', r'\|').replace('\n', ' ')
         
         final_desc = raw_desc
 
         if idx <= settings.get('llm_top_n', 5) and settings['enable_llm']:
             if name in history:
-                final_desc = f"🤖[{history[name]['model']}] {history[name]['summary']}"
+                model = history[name].get('model', 'Unknown')
+                final_desc = f"🤖[{model}] {history[name]['summary']}"
             else:
                 ai_result = generate_ai_summary_with_fallback(repo, settings)
                 if ai_result:
