@@ -3,13 +3,14 @@ settings:
   llm_top_n: 5
   top_list_limit: 10
   ai_model: "MiniMax-M2.7"
+  ai_model_backup: "gpt-3.5-turbo"
   history_file: "data/history.json"
   archive_dir: "archives"
   readme_file: "README.md"
   readme_header: |
     # 📈 OSSInsight 每日精选 (Top 10)
     
-    每日自动更新 GitHub 热门项目，由 AI (MiniMax M2) 辅助分析。
+    每日自动更新 GitHub 热门项目，由 AI (MiniMax M2 / OpenAI) 辅助分析。
 
 # 这里定义你需要抓取的列表
 # language: 编程语言 (All, Python, Go, Java, Rust, JavaScript, TypeScript, C++, etc.)
