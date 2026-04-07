@@ -1,18 +1,15 @@
 settings:
   enable_llm: false
-  llm_top_n: 5        # 只对前 5 个进行 AI 总结 (省流)
-  # 新增：控制列表显示数量
-  top_list_limit: 10  
-  # 新增：指定 AI 模型 (Groq 使用 Llama3, OpenAI 使用 gpt-4o)
-  ai_model: "llama-3.3-70b-versatile" 
-  
+  llm_top_n: 5
+  top_list_limit: 10
+  ai_model: "MiniMax-M2.7"
   history_file: "data/history.json"
   archive_dir: "archives"
   readme_file: "README.md"
   readme_header: |
     # 📈 OSSInsight 每日精选 (Top 10)
     
-    每日自动更新 GitHub 热门项目，由 AI (Llama 3) 辅助分析。
+    每日自动更新 GitHub 热门项目，由 AI (MiniMax M2) 辅助分析。
 
 # 这里定义你需要抓取的列表
 # language: 编程语言 (All, Python, Go, Java, Rust, JavaScript, TypeScript, C++, etc.)

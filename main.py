@@ -5,7 +5,6 @@ import time
 import requests
 import datetime
 from pathlib import Path
-from openai import OpenAI
 
 # === 1. 配置与初始化 ===
 def load_config():
@@ -66,13 +65,12 @@ def fetch_trending(language, period, limit=10):
         return []
 
 # === 4. AI 摘要生成 ===
-def generate_ai_summary(client, repo_info, model_name):
-    if not client: return ""
+def generate_ai_summary(api_key, base_url, repo_info, model_name):
+    if not api_key: return ""
     
     name = repo_info.get('repo_name')
     desc = repo_info.get('description', '')
     
-    # 构建 Prompt
     prompt = (
         f"项目名称: {name}\n"
         f"项目描述: {desc}\n"
@@ -80,22 +78,32 @@ def generate_ai_summary(client, repo_info, model_name):
     )
 
     try:
-        response = client.chat.completions.create(
-            model=model_name, # 使用配置的模型名称 (如 llama-3.3-70b)
-            messages=[
-                {"role": "system", "content": "你是一个精通开源技术的分析师。"},
-                {"role": "user", "content": prompt}
-            ],
-            max_tokens=100,
-            temperature=0.3
+        response = requests.post(
+            f"{base_url}/v1/messages",
+            headers={
+                "Authorization": f"Bearer {api_key}",
+                "Content-Type": "application/json",
+                "anthropic-version": "2023-06-01"
+            },
+            json={
+                "model": model_name,
+                "max_tokens": 100,
+                "temperature": 0.3,
+                "messages": [
+                    {"role": "user", "content": prompt}
+                ]
+            },
+            timeout=30
         )
-        return response.choices[0].message.content.strip()
+        response.raise_for_status()
+        data = response.json()
+        return data["content"][0]["text"].strip()
     except Exception as e:
         print(f"⚠️ AI Error: {e}")
         return ""
 
 # === 5. Markdown 内容构建 ===
-def build_markdown_section(title, repos, settings, history, llm_client):
+def build_markdown_section(title, repos, settings, history, llm_api_key, llm_base_url):
     section = f"## {title}\n\n"
     section += "| 排名 | 项目 | Stars | 简介 |\n"
     section += "| :--- | :--- | :--- | :--- |\n"
@@ -107,15 +115,13 @@ def build_markdown_section(title, repos, settings, history, llm_client):
         raw_desc = repo.get('description', '').replace('|', '\|').replace('\n', ' ')
         
         final_desc = raw_desc
-        # 使用配置中的 ai_model
-        model_name = settings.get('ai_model', 'gpt-3.5-turbo')
+        model_name = settings.get('ai_model', 'MiniMax-M2.7')
 
         if idx <= settings.get('llm_top_n', 5) and settings['enable_llm']:
             if name in history:
                 final_desc = f"🤖 {history[name]['summary']}"
             else:
-                # 传入 model_name
-                ai_summary = generate_ai_summary(llm_client, repo, model_name)
+                ai_summary = generate_ai_summary(llm_api_key, llm_base_url, repo, model_name)
                 if ai_summary:
                     final_desc = f"🤖 {ai_summary}"
                     history[name] = {
@@ -123,7 +129,6 @@ def build_markdown_section(title, repos, settings, history, llm_client):
                         "updated_at": datetime.datetime.now().strftime("%Y-%m-%d")
                     }
         
-        # 截断过长描述防止表格炸裂
         if len(final_desc) > 150:
             final_desc = final_desc[:147] + "..."
 
@@ -155,13 +160,12 @@ def main():
     settings = config['settings']
     history = load_history(settings['history_file'])
     
-    # 初始化 LLM (Groq 也是使用 OpenAI Client)
-    llm_client = None
+    # 初始化 LLM (MiniMax Anthropic 兼容模式)
+    llm_api_key = None
+    llm_base_url = None
     if settings['enable_llm']:
-        api_key = os.environ.get("OPENAI_API_KEY")
-        base_url = os.environ.get("OPENAI_BASE_URL")
-        if api_key:
-            llm_client = OpenAI(api_key=api_key, base_url=base_url)
+        llm_api_key = os.environ.get("MINIMAX_API_KEY")
+        llm_base_url = os.environ.get("MINIMAX_BASE_URL", "https://api.minimaxi.com/anthropic")
 
     # 2. 生成今日报告内容
     today_str = datetime.datetime.now().strftime("%Y-%m-%d")
@@ -178,7 +182,7 @@ def main():
         repos = fetch_trending(col['language'], col['period'], limit=limit)
         
         if repos:
-            section_md = build_markdown_section(col['title'], repos, settings, history, llm_client)
+            section_md = build_markdown_section(col['title'], repos, settings, history, llm_api_key, llm_base_url)
             report_content += section_md + "\n"
         time.sleep(1)
 
