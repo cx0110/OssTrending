@@ -4,7 +4,6 @@ import yaml
 import time
 import requests
 import datetime
-import threading
 from pathlib import Path
 from openai import OpenAI
 
@@ -66,19 +65,25 @@ def fetch_trending(language, period, limit=10):
         print(f"❌ 抓取失败: {e}")
         return []
 
-# === 4. AI 摘要生成 (双 API 并发) ===
+# === 4. AI 摘要生成 (随机顺序调用) ===
 def generate_ai_summary(clients, repo, model_names):
-    result = {"text": "", "model": ""}
-    lock = threading.Lock()
-
-    def call_api(client, model_name, name, desc):
-        if not client:
-            return
-        prompt = (
-            f"项目: {name}\n"
-            f"描述: {desc}\n"
-            "请用中文一句话概括这个项目的核心功能，不要废话，不超过50字。"
-        )
+    import random
+    
+    name = repo['repo_name']
+    desc = repo.get('description', '')
+    prompt = (
+        f"项目: {name}\n"
+        f"描述: {desc}\n"
+        "请用中文一句话概括这个项目的核心功能，不要废话，不超过50字。"
+    )
+    
+    available = [(c, m) for c, m in zip(clients, model_names) if c]
+    if not available:
+        return "", ""
+    
+    random.shuffle(available)
+    
+    for client, model_name in available:
         try:
             response = client.chat.completions.create(
                 model=model_name,
@@ -87,30 +92,17 @@ def generate_ai_summary(clients, repo, model_names):
                     {"role": "user", "content": prompt}
                 ],
                 max_tokens=100,
-                temperature=0.3
+                temperature=0.3,
+                timeout=20
             )
             text = response.choices[0].message.content.strip()
-            with lock:
-                if not result["text"]:
-                    result["text"] = text
-                    result["model"] = model_name
+            if text:
+                return text, model_name
         except Exception as e:
             print(f"⚠️ [{model_name}] 接口错误: {e}")
-
-    name = repo['repo_name']
-    desc = repo.get('description', '')
-
-    threads = []
-    for client, model_name in zip(clients, model_names):
-        if client:
-            t = threading.Thread(target=call_api, args=(client, model_name, name, desc))
-            threads.append(t)
-            t.start()
-
-    for t in threads:
-        t.join(timeout=15)
-
-    return result["text"], result["model"]
+            continue
+    
+    return "", ""
 
 # === 5. Markdown 内容构建 ===
 def build_markdown_section(title, repos, settings, history, llm_clients, model_names):
