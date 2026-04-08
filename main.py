@@ -78,10 +78,13 @@ def fetch_by_collection_name(collection_name, period, limit=10):
 
 def get_github_total_stars(repo_name):
     try:
-        url = f"https://api.github.com/repos/{repo_name}"
+        url = f"https://github.com/{repo_name}"
         resp = requests.get(url, timeout=10)
         if resp.status_code == 200:
-            return resp.json().get('stargazers_count', 0)
+            import re
+            match = re.search(r'aria-label="([\d,]+)\s*users starred this repository"', resp.text)
+            if match:
+                return int(match.group(1).replace(',', ''))
     except:
         pass
     return 0
