@@ -63,12 +63,13 @@ def fetch_trending(language, period):
         return []
 
 # === 4. AI 摘要生成 ===
-def generate_ai_summary(client, repo_info):
+def generate_ai_summary(client, repo_info, model_name):
     """
     生成单个项目的精简评价
+    返回 (summary_text, model_name)
     """
-    if not client: return ""
-    
+    if not client: return ("", model_name)
+
     name = repo_info.get('repo_name')
     desc = repo_info.get('description', '')
     stars = repo_info.get('stars', 0)
@@ -81,22 +82,22 @@ def generate_ai_summary(client, repo_info):
     )
 
     try:
-        # print(f"🤖 AI 分析中: {name}...") 
+        # print(f"🤖 AI 分析中: {name}...")
         response = client.chat.completions.create(
-            model="gpt-4o-mini", # 或 gpt-3.5-turbo
+            model=model_name,
             messages=[
                 {"role": "system", "content": "你是一个开源技术专家。"},
                 {"role": "user", "content": prompt}
             ],
             max_tokens=100
         )
-        return response.choices[0].message.content.strip()
+        return (response.choices[0].message.content.strip(), model_name)
     except Exception as e:
         print(f"⚠️ AI Error: {e}")
-        return ""
+        return ("", model_name)
 
 # === 5. Markdown 内容构建 ===
-def build_markdown_section(title, repos, settings, history, llm_client):
+def build_markdown_section(title, repos, settings, history, llm_client, ai_model):
     section = f"## {title}\n\n"
     section += "| 排名 | 项目 | Stars | 简介 |\n"
     section += "| :--- | :--- | :--- | :--- |\n"
@@ -106,31 +107,34 @@ def build_markdown_section(title, repos, settings, history, llm_client):
         url = f"https://github.com/{name}"
         stars = repo.get('stars', 0)
         raw_desc = repo.get('description', '').replace('|', '\|').replace('\n', ' ')
-        
+
         # --- AI 逻辑 ---
         final_desc = raw_desc
         # 仅对前 N 个项目启用 AI，且检查缓存
         if idx <= settings.get('llm_top_n', 5) and settings['enable_llm']:
             # 检查缓存
             if name in history:
-                final_desc = f"🤖 {history[name]['summary']}"
+                cached = history[name]
+                model_in_summary = cached.get('model', '[Unknown]')
+                final_desc = f"🤖 [{model_in_summary}] {cached['summary']}"
             else:
                 # 调用 AI
-                ai_summary = generate_ai_summary(llm_client, repo)
+                ai_summary, used_model = generate_ai_summary(llm_client, repo, ai_model)
                 if ai_summary:
-                    final_desc = f"🤖 {ai_summary}"
+                    final_desc = f"🤖 [{used_model}] {ai_summary}"
                     # 更新缓存
                     history[name] = {
                         "summary": ai_summary,
+                        "model": used_model,
                         "updated_at": datetime.datetime.now().strftime("%Y-%m-%d")
                     }
-        
+
         # 截断过长描述防止表格炸裂
         if len(final_desc) > 150:
             final_desc = final_desc[:147] + "..."
 
         section += f"| {idx} | [{name}]({url}) | 🔥 {stars} | {final_desc} |\n"
-    
+
     return section
 
 # === 6. 归档索引更新 ===
@@ -159,6 +163,7 @@ def main():
     
     # 初始化 LLM
     llm_client = None
+    ai_model = os.environ.get("AI_MODEL", settings.get("ai_model", "gpt-4o-mini"))
     if settings['enable_llm']:
         api_key = os.environ.get("OPENAI_API_KEY")
         base_url = os.environ.get("OPENAI_BASE_URL")
@@ -177,7 +182,7 @@ def main():
     for col in config['collections']:
         repos = fetch_trending(col['language'], col['period'])
         if repos:
-            section_md = build_markdown_section(col['title'], repos, settings, history, llm_client)
+            section_md = build_markdown_section(col['title'], repos, settings, history, llm_client, ai_model)
             report_content += section_md + "\n"
         time.sleep(1) # 礼貌请求，防止限流
 
