@@ -57,15 +57,26 @@ def fetch_trending(language, period, limit=10):
         resp = requests.get(url, params=params, timeout=30)
         resp.raise_for_status()
         data = resp.json().get("data", [])
-        
-        # --- 关键修改：在这里强制截取前 N 条 ---
         return data[:limit] 
-        
     except Exception as e:
         print(f"❌ 抓取失败: {e}")
         return []
 
-# === 4. AI 摘要生成 (随机顺序调用) ===
+# === 4. 过滤规则 ===
+def should_filter(repo, filters):
+    desc = repo.get('description', '').strip().lower()
+    if filters.get('skip_no_description', False):
+        if not desc or desc in ['无描述', 'no description', '']:
+            return True, "无描述"
+
+    stars = repo.get('stars', 0)
+    min_total = filters.get('min_total_stars', 0)
+    if min_total > 0 and stars < min_total:
+        return True, f"星数不足 {stars}"
+
+    return False, ""
+
+# === 5. AI 摘要生成 (随机顺序调用) ===
 def generate_ai_summary(clients, repo, model_names):
     import random
     
@@ -104,11 +115,13 @@ def generate_ai_summary(clients, repo, model_names):
     
     return "", ""
 
-# === 5. Markdown 内容构建 ===
+# === 6. Markdown 内容构建 ===
 def build_markdown_section(title, repos, settings, history, llm_clients, model_names):
     section = f"## {title}\n\n"
     section += "| 排名 | 项目 | Stars | 简介 (AI/Raw) |\n"
     section += "| :--- | :--- | :--- | :--- |\n"
+
+    filters = settings.get('filters', {})
 
     for idx, repo in enumerate(repos, 1):
         name = repo['repo_name']
@@ -117,20 +130,24 @@ def build_markdown_section(title, repos, settings, history, llm_clients, model_n
         raw_desc = repo.get('description', '').replace('|', r'\|').replace('\n', ' ')
         
         final_desc = raw_desc
+        is_filtered, filter_reason = should_filter(repo, filters)
         
-        if settings['enable_llm'] and idx <= settings.get('llm_top_n', 5):
-            if name in history:
-                final_desc = f"🤖 {history[name]['summary']}"
-            elif any(llm_clients):
-                ai_sum, model_used = generate_ai_summary(llm_clients, repo, model_names)
-                if ai_sum:
-                    final_desc = f"🤖 [{model_used}] {ai_sum}"
-                    history[name] = {
-                        "summary": ai_sum,
-                        "model": model_used,
-                        "updated_at": datetime.datetime.now().strftime("%Y-%m-%d")
-                    }
-                time.sleep(1.5)
+        if is_filtered:
+            final_desc = f"⛔ [{filter_reason}] {final_desc}"
+        else:
+            if settings['enable_llm'] and idx <= settings.get('llm_top_n', 5):
+                if name in history:
+                    final_desc = f"🤖 {history[name]['summary']}"
+                elif any(llm_clients):
+                    ai_sum, model_used = generate_ai_summary(llm_clients, repo, model_names)
+                    if ai_sum:
+                        final_desc = f"🤖 [{model_used}] {ai_sum}"
+                        history[name] = {
+                            "summary": ai_sum,
+                            "model": model_used,
+                            "updated_at": datetime.datetime.now().strftime("%Y-%m-%d")
+                        }
+                    time.sleep(1.5)
         
         if len(final_desc) > 150:
             final_desc = final_desc[:147] + "..."
@@ -140,7 +157,7 @@ def build_markdown_section(title, repos, settings, history, llm_clients, model_n
     return section
 
 
-# === 6. 归档索引更新 ===
+# === 7. 归档索引更新 ===
 def get_archives_list(archive_dir):
     if not os.path.exists(archive_dir):
         return []

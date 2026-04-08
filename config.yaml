@@ -4,6 +4,11 @@ settings:
   top_list_limit: 10
   ai_model: "MiniMax-M2.7"
   ai_model_backup: "gpt-3.5-turbo"
+  
+  filters:
+    min_total_stars: 100
+    skip_no_description: true
+  
   history_file: "data/history.json"
   archive_dir: "archives"
   readme_file: "README.md"
