@@ -3,7 +3,7 @@ settings:
   llm_top_n: 5
   top_list_limit: 10
   ai_model: "MiniMax-M2.7"
-  ai_model_backup: "gpt-3.5-turbo"
+  ai_model_backup: "Llama 3"
   
   filters:
     min_total_stars: 100
@@ -15,7 +15,7 @@ settings:
   readme_header: |
     # 📈 OSSInsight 每日精选
     
-    每日自动更新 GitHub 热门项目精选，由 AI (MiniMax M2 / OpenAI) 辅助分析。
+    每日自动更新 GitHub 热门项目精选，由 AI (MiniMax-M2.7 / Llama 3) 辅助分析。
 
 # language + period: 按编程语言 trending 抓取 (past_24_hours, past_week, past_month, past_year)
 # collection_name + period: 按 OSSInsight 分类名过滤 (period 用于 AI 分类的 28d 增长)

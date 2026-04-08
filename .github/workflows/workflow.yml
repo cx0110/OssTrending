@@ -26,10 +26,14 @@ jobs:
       - name: Run Script
         env:
           TZ: 'Asia/Shanghai'
-          # 从 GitHub Secrets 读取
+          # MiniMax (主模型: MiniMax-M2.7)
+          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+          MINIMAX_BASE_URL: ${{ secrets.MINIMAX_BASE_URL }}
+          LLM_MODEL: ${{ vars.LLM_MODEL || 'MiniMax-M2.7' }}
+          # Groq 开源模型 (Llama 3)
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
-          # 从 GitHub Variables 读取 (或者直接写 true/false)
+          # 从 GitHub Variables 读取
           ENABLE_LLM: ${{ vars.ENABLE_LLM || 'false' }}
         run: python main.py
 
