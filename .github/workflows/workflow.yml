@@ -33,8 +33,8 @@ jobs:
           # Groq 开源模型 (Llama 3)
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
-          # 从 GitHub Variables 读取
-          ENABLE_LLM: ${{ vars.ENABLE_LLM || 'false' }}
+          # 从 GitHub Variables 读取 (默认 true)
+          ENABLE_LLM: ${{ vars.ENABLE_LLM || 'true' }}
         run: python main.py
 
       - name: Commit & Push
