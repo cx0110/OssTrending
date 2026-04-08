@@ -1,1686 +1,2107 @@
 {
   "microsoft/VibeVoice": {
     "summary": "微软的VibeVoice项目是一个开源的前沿语音AI技术。",
-    "updated_at": "2025-12-10"
+    "updated_at": "2025-12-10",
+    "model": "Legacy"
   },
   "assetnote/react2shell-scanner": {
     "summary": "检测React和Next.js远程代码执行（RCE）漏洞。",
-    "updated_at": "2025-12-10"
+    "updated_at": "2025-12-10",
+    "model": "Legacy"
   },
   "DayuanJiang/next-ai-draw-io": {
     "summary": "该项目是一个集成AI能力的在线绘图应用，支持自然语言命令和AI辅助可视化。",
-    "updated_at": "2025-12-10"
+    "updated_at": "2025-12-10",
+    "model": "Legacy"
   },
   "lfnovo/open-notebook": {
     "summary": "开源笔记本项目，实现灵活的笔记本功能。",
-    "updated_at": "2025-12-10"
+    "updated_at": "2025-12-10",
+    "model": "Legacy"
   },
   "datawhalechina/hello-agents": {
     "summary": "该项目提供智能体原理与实践教程，从零开始构建智能体。",
-    "updated_at": "2025-12-10"
+    "updated_at": "2025-12-10",
+    "model": "Legacy"
   },
   "sansan0/TrendRadar": {
     "summary": "该项目是一个基于AI的舆情监控分析工具，聚合多平台热点新闻并进行智能分析。",
-    "updated_at": "2025-12-10"
+    "updated_at": "2025-12-10",
+    "model": "Legacy"
   },
   "Tongyi-MAI/Z-Image": {
     "summary": "Tongyi-MAI/Z-Image 是一个开源的图像处理和分析项目。",
-    "updated_at": "2025-12-10"
+    "updated_at": "2025-12-10",
+    "model": "Legacy"
   },
   "666ghj/BettaFish": {
     "summary": "微舆：多Agent舆情分析助手，打破信息茧房，预测未来走向，辅助决策。",
-    "updated_at": "2025-12-10"
+    "updated_at": "2025-12-10",
+    "model": "Legacy"
   },
   "KaijuEngine/kaiju": {
     "summary": "KaijuEngine是一个使用Go语言和Vulkan开发的通用3D和2D游戏引擎，内置编辑器。",
-    "updated_at": "2025-12-10"
+    "updated_at": "2025-12-10",
+    "model": "Legacy"
   },
   "ziggy42/epsilon": {
     "summary": "该项目是一个用Go语言编写的WASM虚拟机，实现了无依赖的运行。",
-    "updated_at": "2025-12-10"
+    "updated_at": "2025-12-10",
+    "model": "Legacy"
   },
   "steveyegge/beads": {
     "summary": "Beads是一个为编码助手提供的内存升级工具。",
-    "updated_at": "2025-12-10"
+    "updated_at": "2025-12-10",
+    "model": "Legacy"
   },
   "router-for-me/CLIProxyAPI": {
     "summary": "该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。",
-    "updated_at": "2025-12-10"
+    "updated_at": "2025-12-10",
+    "model": "Legacy"
   },
   "ZerkerEOD/krakenhashes": {
     "summary": "该项目是一个开源工具，用于破解Kraken加密的哈希值。",
-    "updated_at": "2025-12-10"
+    "updated_at": "2025-12-10",
+    "model": "Legacy"
   },
   "block/goose": {
     "summary": "block/goose 是一个开源的 AI 代理，能够自动安装、执行、编辑和测试代码，支持多种大型语言模型。",
-    "updated_at": "2025-12-10"
+    "updated_at": "2025-12-10",
+    "model": "Legacy"
   },
   "rustfs/rustfs": {
     "summary": "RustFS 是一个开源的、兼容 S3 的高性能对象存储系统。",
-    "updated_at": "2025-12-10"
+    "updated_at": "2025-12-10",
+    "model": "Legacy"
   },
   "sinelaw/fresh": {
     "summary": "这是一个终端下的文本编辑器，易用、强大且快速。",
-    "updated_at": "2025-12-10"
+    "updated_at": "2025-12-10",
+    "model": "Legacy"
   },
   "tempoxyz/tempo": {
     "summary": "Tempo 是一个区块链项目，主要用于支付系统。",
-    "updated_at": "2025-12-10"
+    "updated_at": "2025-12-10",
+    "model": "Legacy"
   },
   "mayocream/koharu": {
     "summary": "mayocream/koharu 是一个使用 Rust 编写的 AI 漫画翻译器。",
-    "updated_at": "2025-12-10"
+    "updated_at": "2025-12-10",
+    "model": "Legacy"
   },
   "MattParkerDev/SharpIDE": {
     "summary": "SharpIDE 是一个跨平台的 .NET 集成开发环境。",
-    "updated_at": "2025-12-11"
+    "updated_at": "2025-12-11",
+    "model": "Legacy"
   },
   "donlon/cloudflare-error-page": {
     "summary": "该项目是一个Cloudflare错误页面生成工具，帮助用户创建自定义错误页面。",
-    "updated_at": "2025-12-11"
+    "updated_at": "2025-12-11",
+    "model": "Legacy"
   },
   "RostislavDugin/postgresus": {
     "summary": "PostgreSQL 备份工具，帮助用户轻松备份和恢复数据库。",
-    "updated_at": "2025-12-11"
+    "updated_at": "2025-12-11",
+    "model": "Legacy"
   },
   "getarcaneapp/arcane": {
     "summary": "该项目是一个现代化的Docker管理工具，旨在让所有人都能轻松使用。",
-    "updated_at": "2025-12-11"
+    "updated_at": "2025-12-11",
+    "model": "Legacy"
   },
   "iagooar/qqqa": {
     "summary": "该项目是一个快速的、无状态的LLM（大语言模型），可以在shell中回答问题和运行命令。",
-    "updated_at": "2025-12-11"
+    "updated_at": "2025-12-11",
+    "model": "Legacy"
   },
   "thedotmack/claude-mem": {
     "summary": "Claude Mem 插件自动记录和压缩代码编辑过程，并在未来会话中提供相关上下文。",
-    "updated_at": "2025-12-12"
+    "updated_at": "2025-12-12",
+    "model": "Legacy"
   },
   "Tencent/WeKnora": {
     "summary": "腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。",
-    "updated_at": "2025-12-12"
+    "updated_at": "2025-12-12",
+    "model": "Legacy"
   },
   "MadAppGang/dingo": {
     "summary": "Dingo 是 Go 语言的元语言，增加了结果类型、错误传播和模式匹配功能。",
-    "updated_at": "2025-12-12"
+    "updated_at": "2025-12-12",
+    "model": "Legacy"
   },
   "dhanji/g3": {
     "summary": "该项目是关于实验性的Goose项目，进行相关功能尝试。",
-    "updated_at": "2025-12-12"
+    "updated_at": "2025-12-12",
+    "model": "Legacy"
   },
   "nubskr/walrus": {
     "summary": "一个用Rust编写的高性能Kafka替代品。",
-    "updated_at": "2025-12-12"
+    "updated_at": "2025-12-12",
+    "model": "Legacy"
   },
   "agentsmd/agents.md": {
     "summary": "AGENTS.md 是一个开源项目，提供一种简单的格式来指导编码代理的行为。",
-    "updated_at": "2025-12-13"
+    "updated_at": "2025-12-13",
+    "model": "Legacy"
   },
   "tw93/Mole": {
     "summary": "这个项目是一个 Mac 优化工具，帮助用户深入优化 Mac 的性能和配置。",
-    "updated_at": "2025-12-13"
+    "updated_at": "2025-12-13",
+    "model": "Legacy"
   },
   "CodeOne45/vex-tui": {
     "summary": "这是一个终端下的Excel和CSV文件查看器。",
-    "updated_at": "2025-12-13"
+    "updated_at": "2025-12-13",
+    "model": "Legacy"
   },
   "charmbracelet/crush": {
     "summary": "Charmbracelet/crush 是一个人工智能编码助手，帮助用户在终端中编写代码。",
-    "updated_at": "2025-12-13"
+    "updated_at": "2025-12-13",
+    "model": "Legacy"
   },
   "reacherhq/check-if-email-exists": {
     "summary": "该项目是一个 Rust 编写的工具，用于检查电子邮件地址是否存在，不需要发送邮件。",
-    "updated_at": "2025-12-13"
+    "updated_at": "2025-12-13",
+    "model": "Legacy"
   },
   "tursodatabase/turso": {
     "summary": "Turso 是一个嵌入式 SQL 数据库，兼容 SQLite。",
-    "updated_at": "2025-12-13"
+    "updated_at": "2025-12-13",
+    "model": "Legacy"
   },
   "Anionex/banana-slides": {
     "summary": "基于nano banana pro的AI PPT生成应用，支持上传模板和素材，智能解析和自动生成PPT。",
-    "updated_at": "2025-12-14"
+    "updated_at": "2025-12-14",
+    "model": "Legacy"
   },
   "VictoriaMetrics/VictoriaLogs": {
     "summary": "VictoriaMetrics/VictoriaLogs 是一个快速、易用的日志数据库，能高效处理大量日志数据。",
-    "updated_at": "2025-12-14"
+    "updated_at": "2025-12-14",
+    "model": "Legacy"
   },
   "unkn0wn-root/resterm": {
     "summary": "一个终端客户端，支持HTTP、GraphQL、gRPC等协议，具有隧道、WebSockets等功能。",
-    "updated_at": "2025-12-14"
+    "updated_at": "2025-12-14",
+    "model": "Legacy"
   },
   "trailbaseio/trailbase": {
     "summary": "Trailbase 是一个快速的开源应用服务器，支持实时功能、身份验证和管理界面。",
-    "updated_at": "2025-12-14"
+    "updated_at": "2025-12-14",
+    "model": "Legacy"
   },
   "zai-org/Open-AutoGLM": {
     "summary": "该项目是一个开源的手机智能助手模型和框架，旨在让人工智能手机技术惠及所有人。",
-    "updated_at": "2025-12-15"
+    "updated_at": "2025-12-15",
+    "model": "Legacy"
   },
   "CopilotKit/CopilotKit": {
     "summary": "CopilotKit 是一个 React UI 框架，用于构建 AI 聊天机器人和应用内 AI 代理。",
-    "updated_at": "2025-12-15"
+    "updated_at": "2025-12-15",
+    "model": "Legacy"
   },
   "daytonaio/daytona": {
     "summary": "Daytona 是一个安全且可扩展的平台，用于运行人工智能生成的代码。",
-    "updated_at": "2025-12-15"
+    "updated_at": "2025-12-15",
+    "model": "Legacy"
   },
   "looplj/axonhub": {
     "summary": "AxonHub 是一个现代 AI 网关系统，提供统一的 AI 接口。",
-    "updated_at": "2025-12-15"
+    "updated_at": "2025-12-15",
+    "model": "Legacy"
   },
   "memodb-io/Acontext": {
     "summary": "Acontext 是一个上下文数据平台，为智能代理提供数据支持。",
-    "updated_at": "2025-12-15"
+    "updated_at": "2025-12-15",
+    "model": "Legacy"
   },
   "eudoxia0/hashcards": {
     "summary": "这是一个基于文本的间隔重复系统，帮助用户高效记忆知识。",
-    "updated_at": "2025-12-15"
+    "updated_at": "2025-12-15",
+    "model": "Legacy"
   },
   "simstudioai/sim": {
     "summary": "开源平台，用于构建和部署人工智能代理工作流。",
-    "updated_at": "2025-12-16"
+    "updated_at": "2025-12-16",
+    "model": "Legacy"
   },
   "MotiaDev/motia": {
     "summary": "Motia 是一个多语言后端框架，统一了 API、任务、队列、工作流等功能。",
-    "updated_at": "2025-12-16"
+    "updated_at": "2025-12-16",
+    "model": "Legacy"
   },
   "raghavyuva/nixopus": {
     "summary": "开源平台，简化部署和管理工作流程。",
-    "updated_at": "2025-12-16"
+    "updated_at": "2025-12-16",
+    "model": "Legacy"
   },
   "OpenListTeam/OpenList": {
     "summary": "OpenListTeam/OpenList 是一个新的 AList 分支，旨在应对反垄断危机。",
-    "updated_at": "2025-12-16"
+    "updated_at": "2025-12-16",
+    "model": "Legacy"
   },
   "tursodatabase/agentfs": {
     "summary": "该项目是一个为智能代理系统提供的文件系统。",
-    "updated_at": "2025-12-16"
+    "updated_at": "2025-12-16",
+    "model": "Legacy"
   },
   "IAmTomShaw/f1-race-replay": {
     "summary": "该项目提供了一种 Formula 1 赛车比赛回放的可视化工具。",
-    "updated_at": "2025-12-17"
+    "updated_at": "2025-12-17",
+    "model": "Legacy"
   },
   "KeygraphHQ/shannon": {
     "summary": "Shannon 是一个全自主的 AI 黑客工具，用于发现 Web 应用的实际漏洞。",
-    "updated_at": "2025-12-17"
+    "updated_at": "2025-12-17",
+    "model": "Legacy"
   },
   "Ingenimax/agent-sdk-go": {
     "summary": "Ingenimax/agent-sdk-go 是一个 Go 框架，用于构建生产级别的 AI 代理。",
-    "updated_at": "2025-12-17"
+    "updated_at": "2025-12-17",
+    "model": "Legacy"
   },
   "Barre/ZeroFS": {
     "summary": "ZeroFS 将 S3 作为主存储，支持 9P/NFS/NBD 协议。",
-    "updated_at": "2025-12-17"
+    "updated_at": "2025-12-17",
+    "model": "Legacy"
   },
   "apple/ml-sharp": {
     "summary": "该项目实现了快速单目视图合成，仅需不到一秒。",
-    "updated_at": "2025-12-18"
+    "updated_at": "2025-12-18",
+    "model": "Legacy"
   },
   "NoFxAiOS/nofx": {
     "summary": "一个开源的交易操作系统，集成了人工智能和多交易所支持。",
-    "updated_at": "2025-12-18"
+    "updated_at": "2025-12-18",
+    "model": "Legacy"
   },
   "ostafen/digler": {
     "summary": "Digler 是一个用于磁盘取证分析和文件恢复的工具。",
-    "updated_at": "2025-12-18"
+    "updated_at": "2025-12-18",
+    "model": "Legacy"
   },
   "taetaehoho/poly-kalshi-arb": {
     "summary": "该项目是一个开源的套利交易系统，用于自动化套利交易。",
-    "updated_at": "2025-12-18"
+    "updated_at": "2025-12-18",
+    "model": "Legacy"
   },
   "cocoindex-io/cocoindex": {
     "summary": "该项目是一个用于人工智能的数据转换框架，具有超高性能和增量处理能力。",
-    "updated_at": "2025-12-18"
+    "updated_at": "2025-12-18",
+    "model": "Legacy"
   },
   "openai/openai-fm": {
     "summary": "OpenAI 语音API演示项目。",
-    "updated_at": "2025-12-19"
+    "updated_at": "2025-12-19",
+    "model": "Legacy"
   },
   "code-yeongyu/oh-my-opencode": {
     "summary": "该项目为OpenCode提供了丰富的插件和工具，包括异步子代理、语言服务和语法树等。",
-    "updated_at": "2025-12-19"
+    "updated_at": "2025-12-19",
+    "model": "Legacy"
   },
   "C4illin/ConvertX": {
     "summary": "这是一个自托管的在线文件转换工具，支持1000多种文件格式的转换。",
-    "updated_at": "2025-12-19"
+    "updated_at": "2025-12-19",
+    "model": "Legacy"
   },
   "schollz/croc": {
     "summary": "该项目是一个安全的文件传输工具，允许用户在不同电脑之间轻松传输文件。",
-    "updated_at": "2025-12-19"
+    "updated_at": "2025-12-19",
+    "model": "Legacy"
   },
   "Polymarket/rs-clob-client": {
     "summary": "Polymarket 的 Rust 语言 CLOB 客户端，用于连接中心限价订单簿。",
-    "updated_at": "2025-12-19"
+    "updated_at": "2025-12-19",
+    "model": "Legacy"
   },
   "orhun/tuitar": {
     "summary": "一个便携的吉他训练工具，帮助用户提高吉他演奏技巧。",
-    "updated_at": "2025-12-19"
+    "updated_at": "2025-12-19",
+    "model": "Legacy"
   },
   "scanopy/scanopy": {
     "summary": "scanopy 是一个网络图表工具，帮助用户创建和维护干净的网络图表，实现一次性设置和零维护。",
-    "updated_at": "2025-12-19"
+    "updated_at": "2025-12-19",
+    "model": "Legacy"
   },
   "zensical/zensical": {
     "summary": "zensical 是一个现代静态网站生成器。",
-    "updated_at": "2025-12-19"
+    "updated_at": "2025-12-19",
+    "model": "Legacy"
   },
   "google/A2UI": {
     "summary": "Google A2UI 是一个开源的 Android UI 组件库。",
-    "updated_at": "2025-12-20"
+    "updated_at": "2025-12-20",
+    "model": "Legacy"
   },
   "anthropics/skills": {
     "summary": "Anthropics/skills 是一个开源技能仓库项目。",
-    "updated_at": "2025-12-20"
+    "updated_at": "2025-12-20",
+    "model": "Legacy"
   },
   "hezhizheng/go-wxpush": {
     "summary": "微信消息推送服务，基于Golang，免费且极简。",
-    "updated_at": "2025-12-20"
+    "updated_at": "2025-12-20",
+    "model": "Legacy"
   },
   "NexaAI/nexa-sdk": {
     "summary": "NexaAI/nexa-sdk：支持多平台运行最新语言模型。",
-    "updated_at": "2025-12-20"
+    "updated_at": "2025-12-20",
+    "model": "Legacy"
   },
   "BloopAI/vibe-kanban": {
     "summary": "该项目是一个看板系统，用于管理人工智能编码代理。",
-    "updated_at": "2025-12-20"
+    "updated_at": "2025-12-20",
+    "model": "Legacy"
   },
   "timescale/pg_textsearch": {
     "summary": "该项目是一个PostgreSQL的全文搜索扩展，支持BM25相关性排名。",
-    "updated_at": "2025-12-21"
+    "updated_at": "2025-12-21",
+    "model": "Legacy"
   },
   "exo-explore/exo": {
     "summary": "使用日常设备在家搭建人工智能集群。",
-    "updated_at": "2025-12-21"
+    "updated_at": "2025-12-21",
+    "model": "Legacy"
   },
   "Dyneteq/reconya": {
     "summary": "网络侦察和资产发现工具，用于扫描和识别网络中的设备和服务。",
-    "updated_at": "2025-12-21"
+    "updated_at": "2025-12-21",
+    "model": "Legacy"
   },
   "terauss/Polymarket-Kalshi-Arbitrage-bot": {
     "summary": "该项目是一个预测市场的套利机器人，实现跨平台自动交易。",
-    "updated_at": "2025-12-21"
+    "updated_at": "2025-12-21",
+    "model": "Legacy"
   },
   "carthage-software/mago": {
     "summary": "Mago 是一个 PHP 工具链，帮助开发者写出更好的代码。",
-    "updated_at": "2025-12-21"
+    "updated_at": "2025-12-21",
+    "model": "Legacy"
   },
   "agentskills/agentskills": {
     "summary": "该项目提供智能代理技能的规范和文档。",
-    "updated_at": "2025-12-22"
+    "updated_at": "2025-12-22",
+    "model": "Legacy"
   },
   "danielmiessler/Fabric": {
     "summary": "Fabric 是一个开源框架，利用人工智能来增强人类能力。",
-    "updated_at": "2025-12-22"
+    "updated_at": "2025-12-22",
+    "model": "Legacy"
   },
   "m0n0x41d/quint-code": {
     "summary": "该项目是一个结构化推理框架，用于支持假设驱动的决策和可审计的证据跟踪。",
-    "updated_at": "2025-12-22"
+    "updated_at": "2025-12-22",
+    "model": "Legacy"
   },
   "jj-vcs/jj": {
     "summary": "jj-vcs/jj 是一个兼容 Git 的版本控制系统，既简单又强大。",
-    "updated_at": "2025-12-22"
+    "updated_at": "2025-12-22",
+    "model": "Legacy"
   },
   "hanebox/ekphos": {
     "summary": "一个轻量级的终端markdown研究工具，用于快速记录和组织笔记。",
-    "updated_at": "2025-12-22"
+    "updated_at": "2025-12-22",
+    "model": "Legacy"
   },
   "2025Emma/vibe-coding-cn": {
     "summary": "这个项目提供了一个编码社区的平台，方便开发者交流和分享代码。",
-    "updated_at": "2025-12-22"
+    "updated_at": "2025-12-22",
+    "model": "Legacy"
   },
   "AndyMik90/Auto-Claude": {
     "summary": "自动化多会话AI编码。",
-    "updated_at": "2025-12-23"
+    "updated_at": "2025-12-23",
+    "model": "Legacy"
   },
   "mudler/LocalAI": {
     "summary": "LocalAI 是一个开源、自托管的人工智能项目，能够在普通硬件上运行，实现文本、音频、图像等多种功能。",
-    "updated_at": "2025-12-23"
+    "updated_at": "2025-12-23",
+    "model": "Legacy"
   },
   "steveklabnik/rue": {
     "summary": "该项目是一个简化版的Rust编程语言。",
-    "updated_at": "2025-12-23"
+    "updated_at": "2025-12-23",
+    "model": "Legacy"
   },
   "raine/workmux": {
     "summary": "该项目实现了Git工作树和Tmux窗口的集成，实现零延迟的并行开发。",
-    "updated_at": "2025-12-23"
+    "updated_at": "2025-12-23",
+    "model": "Legacy"
   },
   "BeaconBay/ck": {
     "summary": "BeaconBay/ck 是一个本地搜索工具，支持语义搜索和混合搜索。",
-    "updated_at": "2025-12-23"
+    "updated_at": "2025-12-23",
+    "model": "Legacy"
   },
   "rendercv/rendercv": {
     "summary": "RenderCV 是一个基于 Typst 的简历生成工具，帮助学术和工程领域的人士快速创建专业的简历。",
-    "updated_at": "2025-12-23"
+    "updated_at": "2025-12-23",
+    "model": "Legacy"
   },
   "google/langextract": {
     "summary": "谷歌的langextract项目是一个Python库，用于从无结构文本中提取结构化信息。",
-    "updated_at": "2025-12-23"
+    "updated_at": "2025-12-23",
+    "model": "Legacy"
   },
   "ComposioHQ/awesome-claude-skills": {
     "summary": "该项目整理了Claude AI的技能、资源和工具，帮助用户定制工作流程。",
-    "updated_at": "2025-12-24"
+    "updated_at": "2025-12-24",
+    "model": "Legacy"
   },
   "TecharoHQ/anubis": {
     "summary": "该项目通过检测HTTP请求，阻止AI爬虫的访问。",
-    "updated_at": "2025-12-24"
+    "updated_at": "2025-12-24",
+    "model": "Legacy"
   },
   "rex-rs/rex": {
     "summary": "Rex 是一个 Rust 内核扩展框架，允许加载和执行 Rust 程序。",
-    "updated_at": "2025-12-24"
+    "updated_at": "2025-12-24",
+    "model": "Legacy"
   },
   "VibiumDev/vibium": {
     "summary": "VibiumDev/vibium 是一个浏览器自动化工具，帮助人工智能和人类用户自动完成浏览器操作。",
-    "updated_at": "2025-12-25"
+    "updated_at": "2025-12-25",
+    "model": "Legacy"
   },
   "WCY-dt/MrRSS": {
     "summary": "WCY-dt/MrRSS 是一个跨平台的 RSS 阅读器，帮助用户订阅和阅读网络资讯。",
-    "updated_at": "2025-12-25"
+    "updated_at": "2025-12-25",
+    "model": "Legacy"
   },
   "goforj/godump": {
     "summary": "一个漂亮的Go语言调试工具，帮助开发者打印和排查Go结构体。",
-    "updated_at": "2025-12-25"
+    "updated_at": "2025-12-25",
+    "model": "Legacy"
   },
   "resemble-ai/chatterbox": {
     "summary": "开源的最先进文本转语音（TTS）项目。",
-    "updated_at": "2025-12-25"
+    "updated_at": "2025-12-25",
+    "model": "Legacy"
   },
   "thu-ml/TurboDiffusion": {
     "summary": "TurboDiffusion 项目旨在加速视频扩散模型的运行速度。",
-    "updated_at": "2025-12-25"
+    "updated_at": "2025-12-25",
+    "model": "Legacy"
   },
   "flowsurface-rs/flowsurface": {
     "summary": "一个用于加密货币市场的原生桌面图表平台。",
-    "updated_at": "2025-12-25"
+    "updated_at": "2025-12-25",
+    "model": "Legacy"
   },
   "tonbo-io/tonbo": {
     "summary": "Tonbo 是一个用于服务器无服务和边缘运行环境的嵌入式数据库。",
-    "updated_at": "2025-12-25"
+    "updated_at": "2025-12-25",
+    "model": "Legacy"
   },
   "Firstp1ck/Pacsea": {
     "summary": "快速搜索、检查和管理 Arch Linux 包。",
-    "updated_at": "2025-12-25"
+    "updated_at": "2025-12-25",
+    "model": "Legacy"
   },
   "lbjlaq/Antigravity-Manager": {
     "summary": "该项目是一款专业的Antigravity账号管理工具，实现一键无缝账号切换。",
-    "updated_at": "2025-12-26"
+    "updated_at": "2025-12-26",
+    "model": "Legacy"
   },
   "bellard/mquickjs": {
     "summary": "Micro QuickJS 是一个轻量级的 JavaScript 引擎。",
-    "updated_at": "2025-12-26"
+    "updated_at": "2025-12-26",
+    "model": "Legacy"
   },
   "NdoleStudio/httpsms": {
     "summary": "该项目允许通过简单的HTTP API使用安卓手机发送和接收短信。",
-    "updated_at": "2025-12-26"
+    "updated_at": "2025-12-26",
+    "model": "Legacy"
   },
   "dennisyang1986/opensqt_market_maker": {
     "summary": "OpenSQT 是一个加密货币做市商系统，专注于永续合约市场的做多网格交易策略。",
-    "updated_at": "2025-12-26"
+    "updated_at": "2025-12-26",
+    "model": "Legacy"
   },
   "farion1231/cc-switch": {
     "summary": "这是一个跨平台的桌面工具，集成了Claude Code、Codex和Gemini CLI的功能。",
-    "updated_at": "2025-12-26"
+    "updated_at": "2025-12-26",
+    "model": "Legacy"
   },
   "youhunwl/TVAPP": {
     "summary": "该项目收集和整理Android TV应用，提供下载、更新和安全验证等功能。",
-    "updated_at": "2025-12-28"
+    "updated_at": "2025-12-28",
+    "model": "Legacy"
   },
   "zakirullin/gpt-go": {
     "summary": "这是一个用Go语言实现的微型GPT模型，训练数据来自儒勒·凡尔纳的书籍。",
-    "updated_at": "2025-12-28"
+    "updated_at": "2025-12-28",
+    "model": "Legacy"
   },
   "apurvsinghgautam/robin": {
     "summary": "该项目是一个使用人工智能技术的暗网情报工具，用于收集和分析暗网信息。",
-    "updated_at": "2025-12-28"
+    "updated_at": "2025-12-28",
+    "model": "Legacy"
   },
   "muratcankoylan/Agent-Skills-for-Context-Engineering": {
     "summary": "该项目提供多代理系统的上下文管理技能集合，用于优化和调试代理系统。",
-    "updated_at": "2025-12-28"
+    "updated_at": "2025-12-28",
+    "model": "Legacy"
   },
   "pranshuparmar/witr": {
     "summary": "该项目是一个帮助用户分析和优化系统资源占用的工具。",
-    "updated_at": "2025-12-29"
+    "updated_at": "2025-12-29",
+    "model": "Legacy"
   },
   "eooce/node-ws": {
     "summary": "该项目是一个基于 Node.js 的多协议代理服务器，支持 vless、trojan、shadowsocks 和 vmess 四种协议。",
-    "updated_at": "2025-12-29"
+    "updated_at": "2025-12-29",
+    "model": "Legacy"
   },
   "blinkospace/blinko": {
     "summary": "Blinko 是一个开源的个人 AI 笔记工具，优先考虑隐私和自托管。",
-    "updated_at": "2025-12-29"
+    "updated_at": "2025-12-29",
+    "model": "Legacy"
   },
   "databasus/databasus": {
     "summary": "Databasus 是一个数据库备份工具，支持 PostgreSQL、MySQL 和 MongoDB。",
-    "updated_at": "2025-12-29"
+    "updated_at": "2025-12-29",
+    "model": "Legacy"
   },
   "keploy/keploy": {
     "summary": "Keploy 是一个 API 测试工具，帮助开发者生成测试用例和模拟数据。",
-    "updated_at": "2025-12-30"
+    "updated_at": "2025-12-30",
+    "model": "Legacy"
   },
   "kubeden/clopus-watcher": {
     "summary": "自动化24/7值班工程师，使用Cron作业监控系统。",
-    "updated_at": "2025-12-30"
+    "updated_at": "2025-12-30",
+    "model": "Legacy"
   },
   "gommzystudio/device-activity-tracker": {
     "summary": "该项目通过电话号码追踪设备的活动状态，如在线、离线或待机等。",
-    "updated_at": "2025-12-31"
+    "updated_at": "2025-12-31",
+    "model": "Legacy"
   },
   "HarryR/z80ai": {
     "summary": "该项目实现了一个小型语言模型，可以在8位Z80处理器上运行，实现与复古电脑聊天。",
-    "updated_at": "2025-12-31"
+    "updated_at": "2025-12-31",
+    "model": "Legacy"
   },
   "RustPython/RustPython": {
     "summary": "RustPython 是一个用 Rust 编写的 Python 解释器。",
-    "updated_at": "2025-12-31"
+    "updated_at": "2025-12-31",
+    "model": "Legacy"
   },
   "harvard-edge/cs249r_book": {
     "summary": "该项目介绍机器学习系统的基础知识。",
-    "updated_at": "2026-01-01"
+    "updated_at": "2026-01-01",
+    "model": "Legacy"
   },
   "sst/opencode": {
     "summary": "sst/opencode 是一个开源编码代理，帮助开发者提高编码效率。",
-    "updated_at": "2026-01-01"
+    "updated_at": "2026-01-01",
+    "model": "Legacy"
   },
   "ulab-uiuc/LLMRouter": {
     "summary": "LLMRouter：一个开源库，用于路由大语言模型。",
-    "updated_at": "2026-01-01"
+    "updated_at": "2026-01-01",
+    "model": "Legacy"
   },
   "medusalix/FreeMDU": {
     "summary": "该项目提供开源硬件和软件工具，用于通过光学诊断接口与美的（Miele）家电进行通信。",
-    "updated_at": "2026-01-01"
+    "updated_at": "2026-01-01",
+    "model": "Legacy"
   },
   "yichuan-w/LEANN": {
     "summary": "LEANN 项目：在个人设备上运行快速、准确、100% 私有的 RAG 应用，节省 97% 存储空间。",
-    "updated_at": "2026-01-02"
+    "updated_at": "2026-01-02",
+    "model": "Legacy"
   },
   "Gouryella/drip": {
     "summary": "Gouryella/drip：安全暴露本地服务，不依赖第三方服务器。",
-    "updated_at": "2026-01-02"
+    "updated_at": "2026-01-02",
+    "model": "Legacy"
   },
   "Billionmail/BillionMail": {
     "summary": "BillionMail 是一个开源的邮件服务器和电子邮件营销平台，支持自托管，无需月费。",
-    "updated_at": "2026-01-02"
+    "updated_at": "2026-01-02",
+    "model": "Legacy"
   },
   "nextlevelbuilder/ui-ux-pro-max-skill": {
     "summary": "该项目是一个人工智能技能，提供专业的UI/UX设计智能，帮助用户在多个平台上构建精美的界面。",
-    "updated_at": "2026-01-02"
+    "updated_at": "2026-01-02",
+    "model": "Legacy"
   },
   "mihail911/modern-software-dev-assignments": {
     "summary": "斯坦福大学的现代软件开发课程作业。",
-    "updated_at": "2026-01-02"
+    "updated_at": "2026-01-02",
+    "model": "Legacy"
   },
   "max-sixty/worktrunk": {
     "summary": "Worktrunk 是一个 Git 工作树管理的命令行工具，用于并行 AI 代理工作流。",
-    "updated_at": "2026-01-02"
+    "updated_at": "2026-01-02",
+    "model": "Legacy"
   },
   "microsoft/edit": {
     "summary": "微软/edit 是一个协同编辑项目，实现多人实时编辑文档。",
-    "updated_at": "2026-01-02"
+    "updated_at": "2026-01-02",
+    "model": "Legacy"
   },
   "pathwaycom/pathway": {
     "summary": "该项目是一个 Python 框架，用于实时数据处理和分析。",
-    "updated_at": "2026-01-03"
+    "updated_at": "2026-01-03",
+    "model": "Legacy"
   },
   "pathwaycom/llm-app": {
     "summary": "该项目提供云模板，支持实时数据同步和企业搜索，集成多种数据源。",
-    "updated_at": "2026-01-03"
+    "updated_at": "2026-01-03",
+    "model": "Legacy"
   },
   "AnmolSaini16/mapcn": {
     "summary": "该项目提供免费、零配置、简易设置的地图组件。",
-    "updated_at": "2026-01-03"
+    "updated_at": "2026-01-03",
+    "model": "Legacy"
   },
   "skatkov/devtui": {
     "summary": "开发者多功能工具箱。",
-    "updated_at": "2026-01-03"
+    "updated_at": "2026-01-03",
+    "model": "Legacy"
   },
   "autobrr/qui": {
     "summary": "这是一个现代化的qBittorrent网页界面，支持多实例。",
-    "updated_at": "2026-01-03"
+    "updated_at": "2026-01-03",
+    "model": "Legacy"
   },
   "usememos/memos": {
     "summary": "一个开源的、自托管的笔记服务，用户拥有完全控制权，不会被追踪，也无广告和订阅费用。",
-    "updated_at": "2026-01-03"
+    "updated_at": "2026-01-03",
+    "model": "Legacy"
   },
   "maxpert/marmot": {
     "summary": "分布式SQLite服务器，兼容MySQL接口。",
-    "updated_at": "2026-01-03"
+    "updated_at": "2026-01-03",
+    "model": "Legacy"
   },
   "UwUDev/ygege": {
     "summary": "该项目是一个高性能的YGG Torrent索引器，使用Rust编写。",
-    "updated_at": "2026-01-03"
+    "updated_at": "2026-01-03",
+    "model": "Legacy"
   },
   "anomalyco/opencode": {
     "summary": "开源编码智能代理，帮助开发者提高编码效率。",
-    "updated_at": "2026-01-05"
+    "updated_at": "2026-01-05",
+    "model": "Legacy"
   },
   "steveyegge/gastown": {
     "summary": "Gastown 是一个多智能体工作空间管理器。",
-    "updated_at": "2026-01-05"
+    "updated_at": "2026-01-05",
+    "model": "Legacy"
   },
   "5rahim/seanime": {
     "summary": "开源媒体服务器，提供网页和桌面应用，用于管理和播放动漫和漫画。",
-    "updated_at": "2026-01-05"
+    "updated_at": "2026-01-05",
+    "model": "Legacy"
   },
   "K-Dense-AI/claude-scientific-skills": {
     "summary": "为Claude提供一套可直接使用的科学技能。",
-    "updated_at": "2026-01-05"
+    "updated_at": "2026-01-05",
+    "model": "Legacy"
   },
   "goodroot/hyprwhspr": {
     "summary": "该项目提供快速、准确的系统级语音输入功能。",
-    "updated_at": "2026-01-05"
+    "updated_at": "2026-01-05",
+    "model": "Legacy"
   },
   "pamburus/hl": {
     "summary": "该项目是一个快速且强大的日志查看和处理工具，能够将JSON或logfmt日志转换为清晰的人类可读格式。",
-    "updated_at": "2026-01-05"
+    "updated_at": "2026-01-05",
+    "model": "Legacy"
   },
   "nibzard/awesome-agentic-patterns": {
     "summary": "该项目是一个精选的智能AI模式集合。",
-    "updated_at": "2026-01-06"
+    "updated_at": "2026-01-06",
+    "model": "Legacy"
   },
   "Fincept-Corporation/FinceptTerminal": {
     "summary": "FinceptTerminal 是一个金融分析平台，提供市场数据、投资研究和经济分析工具，帮助用户做出数据驱动的决策。",
-    "updated_at": "2026-01-06"
+    "updated_at": "2026-01-06",
+    "model": "Legacy"
   },
   "buyukakyuz/corroded": {
     "summary": "该项目是一个非法的Rust编程语言实现。",
-    "updated_at": "2026-01-06"
+    "updated_at": "2026-01-06",
+    "model": "Legacy"
   },
   "virattt/dexter": {
     "summary": "该项目是一个用于深度金融研究的自动化智能代理。",
-    "updated_at": "2026-01-07"
+    "updated_at": "2026-01-07",
+    "model": "Legacy"
   },
   "OthmanAdi/planning-with-files": {
     "summary": "该项目实现了持久化的Markdown规划功能，模仿Manus风格的工作流程。",
-    "updated_at": "2026-01-07"
+    "updated_at": "2026-01-07",
+    "model": "Legacy"
   },
   "memvid/memvid": {
     "summary": "该项目为AI代理提供一个简化的内存层，实现快速检索和长期记忆。",
-    "updated_at": "2026-01-07"
+    "updated_at": "2026-01-07",
+    "model": "Legacy"
   },
   "rue-language/rue": {
     "summary": "Rue 语言：介于 Rust 和 Go 之间的高级编程语言。",
-    "updated_at": "2026-01-07"
+    "updated_at": "2026-01-07",
+    "model": "Legacy"
   },
   "MiroMindAI/MiroThinker": {
     "summary": "MiroThinker 是一个开源的智能模型，用于深度研究和复杂工具使用场景。",
-    "updated_at": "2026-01-08"
+    "updated_at": "2026-01-08",
+    "model": "Legacy"
   },
   "Lightricks/LTX-2": {
     "summary": "Lightricks/LTX-2 是一个开源的图像处理引擎。",
-    "updated_at": "2026-01-08"
+    "updated_at": "2026-01-08",
+    "model": "Legacy"
   },
   "Novus-Tech-LLC/Hyperliquid-Market-Maker": {
     "summary": "该项目是一个去中心化永续合约交易机器人，实现自动化交易和策略执行。",
-    "updated_at": "2026-01-08"
+    "updated_at": "2026-01-08",
+    "model": "Legacy"
   },
   "HKUDS/DeepTutor": {
     "summary": "DeepTutor是一个人工智能驱动的个性化学习助手。",
-    "updated_at": "2026-01-09"
+    "updated_at": "2026-01-09",
+    "model": "Legacy"
   },
   "vicanso/zedis": {
     "summary": "Zedis 是一个基于 Rust 和 GPU 的 Redis 图形界面，提供快速的 Redis 数据管理。",
-    "updated_at": "2026-01-09"
+    "updated_at": "2026-01-09",
+    "model": "Legacy"
   },
   "kepano/obsidian-skills": {
     "summary": "为 Obsidian 添加 Claude 技能，增强其功能。",
-    "updated_at": "2026-01-10"
+    "updated_at": "2026-01-10",
+    "model": "Legacy"
   },
   "NevaMind-AI/memU": {
     "summary": "该项目为大型语言模型和AI代理提供记忆基础设施。",
-    "updated_at": "2026-01-10"
+    "updated_at": "2026-01-10",
+    "model": "Legacy"
   },
   "obra/superpowers": {
     "summary": "Claude Code 的超级能力：核心技能库。",
-    "updated_at": "2026-01-11"
+    "updated_at": "2026-01-11",
+    "model": "Legacy"
   },
   "bytedance/UI-TARS-desktop": {
     "summary": "这个项目是一个开源的多模态AI代理栈，连接前沿AI模型和基础设施。",
-    "updated_at": "2026-01-11"
+    "updated_at": "2026-01-11",
+    "model": "Legacy"
   },
   "x011/smtp-tunnel-proxy": {
     "summary": "该项目创建了一个伪装TCP流量为SMTP邮件通信的隧道，以绕过深度包检测防火墙。",
-    "updated_at": "2026-01-11"
+    "updated_at": "2026-01-11",
+    "model": "Legacy"
   },
   "parcadei/Continuous-Claude-v2": {
     "summary": "该项目实现了 Claude 代码的上下文管理，确保执行过程中上下文的隔离和无污染。",
-    "updated_at": "2026-01-11"
+    "updated_at": "2026-01-11",
+    "model": "Legacy"
   },
   "embassy-rs/embassy": {
     "summary": "Embassy 是一个现代的嵌入式框架，使用 Rust 和异步编程。",
-    "updated_at": "2026-01-11"
+    "updated_at": "2026-01-11",
+    "model": "Legacy"
   },
   "fish2018/pansou": {
     "summary": "PanSou是一款高性能的网盘资源搜索API服务，支持多频道和插件搜索。",
-    "updated_at": "2026-01-12"
+    "updated_at": "2026-01-12",
+    "model": "Legacy"
   },
   "gyoridavid/ai_agents_az": {
     "summary": "该项目创建了智能代理人，使用AI技术在Azure平台上进行自动化决策和操作。",
-    "updated_at": "2026-01-12"
+    "updated_at": "2026-01-12",
+    "model": "Legacy"
   },
   "jdx/fnox": {
     "summary": "jdx/fnox 是一个加密的远程密钥管理器，安全存储和管理敏感信息。",
-    "updated_at": "2026-01-12"
+    "updated_at": "2026-01-12",
+    "model": "Legacy"
   },
   "torvalds/AudioNoise": {
     "summary": "该项目为数字音频添加随机效果。",
-    "updated_at": "2026-01-13"
+    "updated_at": "2026-01-13",
+    "model": "Legacy"
   },
   "Free-TV/IPTV": {
     "summary": "该项目提供免费电视台的M3U播放列表，实现免费观看电视节目。",
-    "updated_at": "2026-01-13"
+    "updated_at": "2026-01-13",
+    "model": "Legacy"
   },
   "ZhuLinsen/daily_stock_analysis": {
     "summary": "该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。",
-    "updated_at": "2026-01-13"
+    "updated_at": "2026-01-13",
+    "model": "Legacy"
   },
   "DioxusLabs/dioxus": {
     "summary": "Dioxus 是一个全栈应用框架，支持网页、桌面和移动端开发。",
-    "updated_at": "2026-01-13"
+    "updated_at": "2026-01-13",
+    "model": "Legacy"
   },
   "1rgs/nanocode": {
     "summary": "这是一个极简的 Claude 代码替代品，仅用一个 Python 文件实现。",
-    "updated_at": "2026-01-14"
+    "updated_at": "2026-01-14",
+    "model": "Legacy"
   },
   "NanmiCoder/MediaCrawler": {
     "summary": "该项目是一个爬虫工具，用于爬取多个社交媒体平台的内容和评论。",
-    "updated_at": "2026-01-14"
+    "updated_at": "2026-01-14",
+    "model": "Legacy"
   },
   "terauss/Polymarket-Copy-Trading-Bot": {
     "summary": "该项目是一个复制交易机器人，用于复制Polymarket交易平台上的交易。",
-    "updated_at": "2026-01-14"
+    "updated_at": "2026-01-14",
+    "model": "Legacy"
   },
   "eigent-ai/eigent": {
     "summary": "Eigent 是一个多智能体工作平台，帮助提升个人和团队的生产力。",
-    "updated_at": "2026-01-15"
+    "updated_at": "2026-01-15",
+    "model": "Legacy"
   },
   "finbarr/yolobox": {
     "summary": "该项目允许人工智能访问外部数据，同时保护本地主目录的安全。",
-    "updated_at": "2026-01-15"
+    "updated_at": "2026-01-15",
+    "model": "Legacy"
   },
   "deepseek-ai/Engram": {
     "summary": "Engram 项目实现了大语言模型的可扩展查找和条件记忆功能。",
-    "updated_at": "2026-01-15"
+    "updated_at": "2026-01-15",
+    "model": "Legacy"
   },
   "666ghj/MiroFish": {
     "summary": "该项目是一个简洁的群体智能引擎，能够预测和分析各种数据和事件。",
-    "updated_at": "2026-01-15"
+    "updated_at": "2026-01-15",
+    "model": "Legacy"
   },
   "vercel-labs/agent-skills": {
     "summary": "Vercel 的智能代理技能实验室。",
-    "updated_at": "2026-01-16"
+    "updated_at": "2026-01-16",
+    "model": "Legacy"
   },
   "vercel-labs/agent-browser": {
     "summary": "该项目是一个浏览器自动化命令行工具，用于为AI代理提供浏览器交互功能。",
-    "updated_at": "2026-01-16"
+    "updated_at": "2026-01-16",
+    "model": "Legacy"
   },
   "j178/prek": {
     "summary": "该项目是一个用Rust重构的代码提交前检查工具，旨在提高性能和效率。",
-    "updated_at": "2026-01-16"
+    "updated_at": "2026-01-16",
+    "model": "Legacy"
   },
   "vercel-labs/json-render": {
     "summary": "该项目使用AI生成JSON数据，并将其渲染为用户界面。",
-    "updated_at": "2026-01-17"
+    "updated_at": "2026-01-17",
+    "model": "Legacy"
   },
   "trailofbits/skills": {
     "summary": "Trail of Bits Claude Code 技能用于安全研究、漏洞检测和审计工作流。",
-    "updated_at": "2026-01-17"
+    "updated_at": "2026-01-17",
+    "model": "Legacy"
   },
   "chatfire-AI/huobao-drama": {
     "summary": "该项目是一个基于AI的聊天机器人，用于生成和演绎虚拟剧本。",
-    "updated_at": "2026-01-18"
+    "updated_at": "2026-01-18",
+    "model": "Legacy"
   },
   "sardanioss/httpcloak": {
     "summary": "该项目是一个Go语言的HTTP客户端，模拟浏览器的TLS/HTTP2指纹，绕过机器人检测。",
-    "updated_at": "2026-01-18"
+    "updated_at": "2026-01-18",
+    "model": "Legacy"
   },
   "glittercowboy/get-shit-done": {
     "summary": "该项目是一个轻量级的代码开发辅助工具，帮助用户高效完成编码任务。",
-    "updated_at": "2026-01-19"
+    "updated_at": "2026-01-19",
+    "model": "Legacy"
   },
   "likaia/nginxpulse": {
     "summary": "轻量级 Nginx 日志分析与可视化工具，提供实时统计和访问信息解析。",
-    "updated_at": "2026-01-19"
+    "updated_at": "2026-01-19",
+    "model": "Legacy"
   },
   "rednote-hilab/dots.ocr": {
     "summary": "该项目实现了单一视觉语言模型的多语言文档布局解析。",
-    "updated_at": "2026-01-19"
+    "updated_at": "2026-01-19",
+    "model": "Legacy"
   },
   "juspay/hyperswitch": {
     "summary": "该项目是一个开源的支付交换系统，使用Rust编写，旨在实现快速、可靠、经济的支付处理。",
-    "updated_at": "2026-01-19"
+    "updated_at": "2026-01-19",
+    "model": "Legacy"
   },
   "Automattic/harper": {
     "summary": "Harper 是一个离线、注重隐私的语法检查工具，使用 Rust 开发。",
-    "updated_at": "2026-01-19"
+    "updated_at": "2026-01-19",
+    "model": "Legacy"
   },
   "originalankur/maptoposter": {
     "summary": "该项目可以将城市地图转换为简洁美观的设计海报。",
-    "updated_at": "2026-01-20"
+    "updated_at": "2026-01-20",
+    "model": "Legacy"
   },
   "affaan-m/everything-claude-code": {
     "summary": "Claude Code 的完整配置集合，包含代理、技能、钩子等。",
-    "updated_at": "2026-01-20"
+    "updated_at": "2026-01-20",
+    "model": "Legacy"
   },
   "nautechsystems/nautilus_trader": {
     "summary": "一个高性能的算法交易平台和事件驱动的回测工具。",
-    "updated_at": "2026-01-20"
+    "updated_at": "2026-01-20",
+    "model": "Legacy"
   },
   "localdesktop/localdesktop": {
     "summary": "Local Desktop 是一个开源项目，帮助用户在安卓设备上运行桌面版 Linux 环境。",
-    "updated_at": "2026-01-20"
+    "updated_at": "2026-01-20",
+    "model": "Legacy"
   },
   "different-ai/openwork": {
     "summary": "开源项目，替代Claude Cowork，实现协同工作。",
-    "updated_at": "2026-01-21"
+    "updated_at": "2026-01-21",
+    "model": "Legacy"
   },
   "21st-dev/1code": {
     "summary": "该项目是一个更好的UI应用，用于并行运行代码代理。",
-    "updated_at": "2026-01-21"
+    "updated_at": "2026-01-21",
+    "model": "Legacy"
   },
   "github/github-mcp-server": {
     "summary": "GitHub 的官方 MCP 服务器项目。",
-    "updated_at": "2026-01-21"
+    "updated_at": "2026-01-21",
+    "model": "Legacy"
   },
   "xai-org/x-algorithm": {
     "summary": "X 算法项目，为 X 平台的“为你推荐”功能提供算法支持。",
-    "updated_at": "2026-01-22"
+    "updated_at": "2026-01-22",
+    "model": "Legacy"
   },
   "eddyson-B/prediction-market-platform": {
     "summary": "预测市场平台部署工具，帮助用户快速搭建预测市场系统。",
-    "updated_at": "2026-01-22"
+    "updated_at": "2026-01-22",
+    "model": "Legacy"
   },
   "microsoft/agent-lightning": {
     "summary": "微软的Agent Lightning项目是一种人工智能训练工具，用于提升AI代理的能力。",
-    "updated_at": "2026-01-22"
+    "updated_at": "2026-01-22",
+    "model": "Legacy"
   },
   "anthropics/original_performance_takehome": {
     "summary": "Anthropic 的原性能测试项目，供用户尝试和评估。",
-    "updated_at": "2026-01-23"
+    "updated_at": "2026-01-23",
+    "model": "Legacy"
   },
   "yoanbernabeu/grepai": {
     "summary": "该项目使用AI技术实现代码的语义搜索，而不仅仅是关键词搜索。",
-    "updated_at": "2026-01-23"
+    "updated_at": "2026-01-23",
+    "model": "Legacy"
   },
   "AlexxIT/go2rtc": {
     "summary": "该项目是一款支持多种协议的摄像头流媒体应用。",
-    "updated_at": "2026-01-23"
+    "updated_at": "2026-01-23",
+    "model": "Legacy"
   },
   "EveryInc/compound-engineering-plugin": {
     "summary": "这是 Claude Code 的复合工程插件，用于增强工程功能。",
-    "updated_at": "2026-01-23"
+    "updated_at": "2026-01-23",
+    "model": "Legacy"
   },
   "github/copilot-sdk": {
     "summary": "GitHub Copilot SDK 是一个多平台集成工具包，帮助开发者将 GitHub Copilot 功能集成到自己的应用和服务中。",
-    "updated_at": "2026-01-24"
+    "updated_at": "2026-01-24",
+    "model": "Legacy"
   },
   "remotion-dev/remotion": {
     "summary": "使用 React 编程创建视频。",
-    "updated_at": "2026-01-24"
+    "updated_at": "2026-01-24",
+    "model": "Legacy"
   },
   "putyy/res-downloader": {
     "summary": "该项目是一个网络资源下载工具，支持多平台视频和音乐下载。",
-    "updated_at": "2026-01-24"
+    "updated_at": "2026-01-24",
+    "model": "Legacy"
   },
   "NVIDIA/personaplex": {
     "summary": "PersonaPlex 是一个开源项目，提供人工智能驱动的个性化交互技术。",
-    "updated_at": "2026-01-24"
+    "updated_at": "2026-01-24",
+    "model": "Legacy"
   },
   "VectifyAI/PageIndex": {
     "summary": "PageIndex：为无向量文档创建索引，实现基于推理的文档检索。",
-    "updated_at": "2026-01-25"
+    "updated_at": "2026-01-25",
+    "model": "Legacy"
   },
   "OpenBMB/UltraRAG": {
     "summary": "UltraRAG v2：一个低代码框架，用于构建复杂的RAG管道。",
-    "updated_at": "2026-01-25"
+    "updated_at": "2026-01-25",
+    "model": "Legacy"
   },
   "clawdbot/clawdbot": {
     "summary": "这是一个跨平台的个人AI助手项目。",
-    "updated_at": "2026-01-26"
+    "updated_at": "2026-01-26",
+    "model": "Legacy"
   },
   "sickn33/antigravity-awesome-skills": {
     "summary": "该项目收集了130+个高性能AI技能，用于Claude Code等AI代理。",
-    "updated_at": "2026-01-26"
+    "updated_at": "2026-01-26",
+    "model": "Legacy"
   },
   "adenhq/hive": {
     "summary": "该项目是一个面向结果的智能体开发框架，用于进化和优化智能体的性能。",
-    "updated_at": "2026-01-27"
+    "updated_at": "2026-01-27",
+    "model": "Legacy"
   },
   "Blaizzy/mlx-audio": {
     "summary": "该项目是一个语音处理库，实现文本转语音、语音转文本和语音转语音功能。",
-    "updated_at": "2026-01-27"
+    "updated_at": "2026-01-27",
+    "model": "Legacy"
   },
   "qarmin/czkawka": {
     "summary": "该项目是一个多功能工具，用于查找重复文件、空文件夹、相似图片等。",
-    "updated_at": "2026-01-27"
+    "updated_at": "2026-01-27",
+    "model": "Legacy"
   },
   "VoltAgent/awesome-moltbot-skills": {
     "summary": "Moltbot 的技能集合，提供各种实用功能。",
-    "updated_at": "2026-01-29"
+    "updated_at": "2026-01-29",
+    "model": "Legacy"
   },
   "lucasgelfond/zerobrew": {
     "summary": "zerobrew 是 Homebrew 的替代品，速度快 5-20 倍。",
-    "updated_at": "2026-01-30"
+    "updated_at": "2026-01-30",
+    "model": "Legacy"
   },
   "asgeirtj/system_prompts_leaks": {
     "summary": "该项目收集和提取流行聊天机器人的系统提示。",
-    "updated_at": "2026-01-30"
+    "updated_at": "2026-01-30",
+    "model": "Legacy"
   },
   "steipete/gogcli": {
     "summary": "该项目是一个Google套件的命令行工具，支持Gmail、日历、云盘和联系人等功能。",
-    "updated_at": "2026-01-30"
+    "updated_at": "2026-01-30",
+    "model": "Legacy"
   },
   "rudrankriyam/App-Store-Connect-CLI": {
     "summary": "该项目是一个快速、智能的命令行工具，用于无缝发布App Store应用。",
-    "updated_at": "2026-01-30"
+    "updated_at": "2026-01-30",
+    "model": "Legacy"
   },
   "GetStream/Vision-Agents": {
     "summary": "GetStream/Vision-Agents 是一个快速构建视觉智能代理的开源项目，支持任意模型和视频提供商。",
-    "updated_at": "2026-01-30"
+    "updated_at": "2026-01-30",
+    "model": "Legacy"
   },
   "ratatui/mousefood": {
     "summary": "Ratatui 的嵌入式图形后端，用于渲染图形界面。",
-    "updated_at": "2026-01-30"
+    "updated_at": "2026-01-30",
+    "model": "Legacy"
   },
   "ComposioHQ/open-claude-cowork": {
     "summary": "开源版的Claude Cowork，集成了500多个SaaS应用。",
-    "updated_at": "2026-01-31"
+    "updated_at": "2026-01-31",
+    "model": "Legacy"
   },
   "microsoft/BitNet": {
     "summary": "微软的BitNet项目是一个用于1位超大语言模型的官方推理框架。",
-    "updated_at": "2026-01-31"
+    "updated_at": "2026-01-31",
+    "model": "Legacy"
   },
   "microsoft/bf-tree": {
     "summary": "Bf-Tree 是一个现代化的、支持并发读写的超大内存范围索引。",
-    "updated_at": "2026-01-31"
+    "updated_at": "2026-01-31",
+    "model": "Legacy"
   },
   "canopy-network/canopy": {
     "summary": "Canopy网络协议的Go语言实现。",
-    "updated_at": "2026-02-01"
+    "updated_at": "2026-02-01",
+    "model": "Legacy"
   },
   "1354427059/orchids-api": {
     "summary": "该项目是兰花 API 接口，提供兰花相关信息的查询和管理功能。",
-    "updated_at": "2026-02-01"
+    "updated_at": "2026-02-01",
+    "model": "Legacy"
   },
   "ThePrimeagen/99": {
     "summary": "该项目是为Neovim创建的AI智能代理。",
-    "updated_at": "2026-02-02"
+    "updated_at": "2026-02-02",
+    "model": "Legacy"
   },
   "VoltAgent/awesome-openclaw-skills": {
     "summary": "VoltAgent/awesome-openclaw-skills 项目是一个开源的技能集合。",
-    "updated_at": "2026-02-02"
+    "updated_at": "2026-02-02",
+    "model": "Legacy"
   },
   "AlexanderGrooff/mermaid-ascii": {
     "summary": "该项目可以在终端中渲染Mermaid图表。",
-    "updated_at": "2026-02-02"
+    "updated_at": "2026-02-02",
+    "model": "Legacy"
   },
   "53AI/53AIHub": {
     "summary": "53AI Hub 是一个开源的 AI 门户，帮助快速搭建和运营 AI 平台。",
-    "updated_at": "2026-02-02"
+    "updated_at": "2026-02-02",
+    "model": "Legacy"
   },
   "yesnotrader/polymarket-copy-trading-bot-telegram-ui": {
     "summary": "该项目是一个基于Polymarket的复制交易机器人，通过Telegram界面进行操作。",
-    "updated_at": "2026-02-02"
+    "updated_at": "2026-02-02",
+    "model": "Legacy"
   },
   "1jehuang/mermaid-rs-renderer": {
     "summary": "一个快速的Rust语言实现的Mermaid图表渲染器，无需浏览器。",
-    "updated_at": "2026-02-02"
+    "updated_at": "2026-02-02",
+    "model": "Legacy"
   },
   "gavrielc/nanoclaw": {
     "summary": "这是一个轻量级、安全的个人助手，运行在苹果容器中，支持自定义。",
-    "updated_at": "2026-02-03"
+    "updated_at": "2026-02-03",
+    "model": "Legacy"
   },
   "netbirdio/netbird": {
     "summary": "Netbird是一个基于WireGuard的安全网络项目，实现设备间的安全连接和访问控制。",
-    "updated_at": "2026-02-03"
+    "updated_at": "2026-02-03",
+    "model": "Legacy"
   },
   "hanselime/paqet": {
     "summary": "跨越边界传输数据包。",
-    "updated_at": "2026-02-03"
+    "updated_at": "2026-02-03",
+    "model": "Legacy"
   },
   "burpheart/cursor-tap": {
     "summary": "该项目是一个gRPC通信流量分析工具，帮助用户监测和分析Cursor的gRPC流量。",
-    "updated_at": "2026-02-03"
+    "updated_at": "2026-02-03",
+    "model": "Legacy"
   },
   "Robbyant/lingbot-world": {
     "summary": "该项目旨在开发开源的世界模型，用于模拟和理解世界。",
-    "updated_at": "2026-02-03"
+    "updated_at": "2026-02-03",
+    "model": "Legacy"
   },
   "Leey21/awesome-ai-research-writing": {
     "summary": "该项目帮助提升AI研究写作水平，减少繁琐的润色工作。",
-    "updated_at": "2026-02-04"
+    "updated_at": "2026-02-04",
+    "model": "Legacy"
   },
   "octelium/octelium": {
     "summary": "Octelium 是一个开源的零信任安全访问平台，提供 VPN、API 网关等功能。",
-    "updated_at": "2026-02-04"
+    "updated_at": "2026-02-04",
+    "model": "Legacy"
   },
   "YaLTeR/niri": {
     "summary": "YaLTeR/niri 是一个 Wayland 组合器，支持滚动和平铺窗口。",
-    "updated_at": "2026-02-04"
+    "updated_at": "2026-02-04",
+    "model": "Legacy"
   },
   "rivet-dev/sandbox-agent": {
     "summary": "该项目提供了一个通用API，用于在沙盒环境中自动化编码，支持多种编码工具。",
-    "updated_at": "2026-02-04"
+    "updated_at": "2026-02-04",
+    "model": "Legacy"
   },
   "HKUDS/nanobot": {
     "summary": "nanobot 是一个超轻量级的机器人框架。",
-    "updated_at": "2026-02-05"
+    "updated_at": "2026-02-05",
+    "model": "Legacy"
   },
   "ace-step/ACE-Step-1.5": {
     "summary": "ACE-Step-1.5 是一个强大的本地音乐生成模型，能够超越大多数商业软件。",
-    "updated_at": "2026-02-05"
+    "updated_at": "2026-02-05",
+    "model": "Legacy"
   },
   "wesm/msgvault": {
     "summary": "该项目实现了离线搜索、分析和AI查询整个消息历史的功能。",
-    "updated_at": "2026-02-05"
+    "updated_at": "2026-02-05",
+    "model": "Legacy"
   },
   "anthropics/knowledge-work-plugins": {
     "summary": "该项目提供知识工作者在Claude Cowork中使用的开源插件集合。",
-    "updated_at": "2026-02-05"
+    "updated_at": "2026-02-05",
+    "model": "Legacy"
   },
   "openai/skills": {
     "summary": "该项目为Codex提供技能目录，帮助开发者快速找到所需技能。",
-    "updated_at": "2026-02-05"
+    "updated_at": "2026-02-05",
+    "model": "Legacy"
   },
   "TrustTunnel/TrustTunnel": {
     "summary": "TrustTunnel 是一种现代化、快速、加密的 VPN 协议。",
-    "updated_at": "2026-02-06"
+    "updated_at": "2026-02-06",
+    "model": "Legacy"
   },
   "pgschema/pgschema": {
     "summary": "该项目是一个用于Postgres数据库的命令行工具，支持声明式的数据库模式迁移。",
-    "updated_at": "2026-02-07"
+    "updated_at": "2026-02-07",
+    "model": "Legacy"
   },
   "aspectrr/fluid.sh": {
     "summary": "该项目是一个开源的基础设施即代码工具，用于自动化和管理基础设施配置。",
-    "updated_at": "2026-02-07"
+    "updated_at": "2026-02-07",
+    "model": "Legacy"
   },
   "ZeroTworu/anet": {
     "summary": "一个简单的Rust语言实现的VPN客户端和服务器。",
-    "updated_at": "2026-02-07"
+    "updated_at": "2026-02-07",
+    "model": "Legacy"
   },
   "pydantic/monty": {
     "summary": "该项目是一个用Rust编写的Python解释器，用于AI应用，注重安全和简洁。",
-    "updated_at": "2026-02-08"
+    "updated_at": "2026-02-08",
+    "model": "Legacy"
   },
   "marvinvr/docktail": {
     "summary": "Docktail 是一个 Docker 容器管理工具，简化容器部署和管理。",
-    "updated_at": "2026-02-08"
+    "updated_at": "2026-02-08",
+    "model": "Legacy"
   },
   "shanraisshan/claude-code-best-practice": {
     "summary": "该项目旨在实践和改进 Claude 的代码最佳实践。",
-    "updated_at": "2026-02-08"
+    "updated_at": "2026-02-08",
+    "model": "Legacy"
   },
   "run-bigpig/jcp": {
     "summary": "JCP AI 是一个智能股票分析系统，利用 AI 驱动和多 Agent 协作分析股票。",
-    "updated_at": "2026-02-09"
+    "updated_at": "2026-02-09",
+    "model": "Legacy"
   },
   "microsoft/litebox": {
     "summary": "微软的Litebox项目是一款安全库操作系统，支持内核和用户模式执行。",
-    "updated_at": "2026-02-09"
+    "updated_at": "2026-02-09",
+    "model": "Legacy"
   },
   "gitbutlerapp/gitbutler": {
     "summary": "GitButler 是一个基于 Git 的版本控制客户端，使用 Rust 和 Svelte 开发。",
-    "updated_at": "2026-02-09"
+    "updated_at": "2026-02-09",
+    "model": "Legacy"
   },
   "mitchellh/vouch": {
     "summary": "该项目是一个基于明确背书的贡献者信任管理系统。",
-    "updated_at": "2026-02-10"
+    "updated_at": "2026-02-10",
+    "model": "Legacy"
   },
   "githubnext/gh-aw": {
     "summary": "GitHub Agentic Workflows 是一个自动化工作流项目。",
-    "updated_at": "2026-02-10"
+    "updated_at": "2026-02-10",
+    "model": "Legacy"
   },
   "surge-downloader/surge": {
     "summary": "Surge 是一个快速的开源终端下载管理器。",
-    "updated_at": "2026-02-10"
+    "updated_at": "2026-02-10",
+    "model": "Legacy"
   },
   "badlogic/pi-mono": {
     "summary": "这是一个人工智能代理工具包，提供命令行界面、API和图形界面等功能。",
-    "updated_at": "2026-02-11"
+    "updated_at": "2026-02-11",
+    "model": "Legacy"
   },
   "hsliuping/TradingAgents-CN": {
     "summary": "该项目是一个基于多智能体LLM的中文金融交易框架，用于模拟和优化金融交易决策。",
-    "updated_at": "2026-02-11"
+    "updated_at": "2026-02-11",
+    "model": "Legacy"
   },
   "nearai/ironclaw": {
     "summary": "IronClaw 是一个 Rust 语言实现的开源项目，专注于隐私和安全。",
-    "updated_at": "2026-02-11"
+    "updated_at": "2026-02-11",
+    "model": "Legacy"
   },
   "accomplish-ai/openwork": {
     "summary": "Openwork是一个开源的AI助手，安装在电脑桌面，帮助用户完成任务。",
-    "updated_at": "2026-02-12"
+    "updated_at": "2026-02-12",
+    "model": "Legacy"
   },
   "Jeffallan/claude-skills": {
     "summary": "该项目为开发者提供65种专门技能，帮助开发者将Claude代码转化为专家级编程助手。",
-    "updated_at": "2026-02-12"
+    "updated_at": "2026-02-12",
+    "model": "Legacy"
   },
   "ComposioHQ/secure-openclaw": {
     "summary": "个人AI助手，通过消息平台接收指令，提供工具访问、记忆、提醒等功能。",
-    "updated_at": "2026-02-13"
+    "updated_at": "2026-02-13",
+    "model": "Legacy"
   },
   "koala73/worldmonitor": {
     "summary": "该项目是一个全球监测系统，实时跟踪世界各地的事件和新闻。",
-    "updated_at": "2026-02-13"
+    "updated_at": "2026-02-13",
+    "model": "Legacy"
   },
   "memohai/Memoh": {
     "summary": "这是一个多成员、结构化的长期记忆人工智能系统。",
-    "updated_at": "2026-02-13"
+    "updated_at": "2026-02-13",
+    "model": "Legacy"
   },
   "cheahjs/free-llm-api-resources": {
     "summary": "该项目提供免费的大语言模型（LLM）推理资源的API接口列表。",
-    "updated_at": "2026-02-13"
+    "updated_at": "2026-02-13",
+    "model": "Legacy"
   },
   "QuipNetwork/quip-protocol": {
     "summary": "实验性的Quip协议网络节点，用于测试和开发。",
-    "updated_at": "2026-02-13"
+    "updated_at": "2026-02-13",
+    "model": "Legacy"
   },
   "raphaelmansuy/edgequake": {
     "summary": "该项目是一个高性能的图形渲染引擎，使用Rust编写。",
-    "updated_at": "2026-02-13"
+    "updated_at": "2026-02-13",
+    "model": "Legacy"
   },
   "tonyyont/peon-ping": {
     "summary": "Warcraft III Peon的声音通知，帮助用户监控终端状态。",
-    "updated_at": "2026-02-14"
+    "updated_at": "2026-02-14",
+    "model": "Legacy"
   },
   "github/gh-aw": {
     "summary": "GitHub 代理工作流程，简化工作流管理。",
-    "updated_at": "2026-02-14"
+    "updated_at": "2026-02-14",
+    "model": "Legacy"
   },
   "thu-pacman/chitu": {
     "summary": "这是一个高性能的大型语言模型推理框架，注重效率、灵活性和可用性。",
-    "updated_at": "2026-02-14"
+    "updated_at": "2026-02-14",
+    "model": "Legacy"
   },
   "Veirt/weathr": {
     "summary": "终端天气应用，带有ASCII动画。",
-    "updated_at": "2026-02-14"
+    "updated_at": "2026-02-14",
+    "model": "Legacy"
   },
   "rari-build/rari": {
     "summary": "Rari 是一个高性能的 React 服务器组件框架，使用 Rust 运行时，实现快速响应和高吞吐量。",
-    "updated_at": "2026-02-14"
+    "updated_at": "2026-02-14",
+    "model": "Legacy"
   },
   "knadh/oat": {
     "summary": "这是一个超轻量级的前端UI库，使用HTML、CSS和JS构建界面，无外部依赖。",
-    "updated_at": "2026-02-15"
+    "updated_at": "2026-02-15",
+    "model": "Legacy"
   },
   "forrestchang/andrej-karpathy-skills": {
     "summary": "该项目总结了Andrej Karpathy的技能和经验。",
-    "updated_at": "2026-02-15"
+    "updated_at": "2026-02-15",
+    "model": "Legacy"
   },
   "rcourtman/Pulse": {
     "summary": "实时监控Proxmox、Docker和Kubernetes，提供AI洞察、智能警报和统一仪表盘。",
-    "updated_at": "2026-02-15"
+    "updated_at": "2026-02-15",
+    "model": "Legacy"
   },
   "tw93/Kaku": {
     "summary": "这是一个快速、开箱即用的终端，专为AI编码而设计。",
-    "updated_at": "2026-02-15"
+    "updated_at": "2026-02-15",
+    "model": "Legacy"
   },
   "sipeed/picoclaw": {
     "summary": "PicoClaw 是一个开源的、基于 RISC-V 的机器人爪子项目。",
-    "updated_at": "2026-02-16"
+    "updated_at": "2026-02-16",
+    "model": "Legacy"
   },
   "theonlyhennygod/zeroclaw": {
     "summary": "该项目是一个爬虫框架，旨在更好地实现爬取功能。",
-    "updated_at": "2026-02-16"
+    "updated_at": "2026-02-16",
+    "model": "Legacy"
   },
   "gosom/google-maps-scraper": {
     "summary": "该项目从Google地图中提取商家信息，如名称、地址、电话等。",
-    "updated_at": "2026-02-16"
+    "updated_at": "2026-02-16",
+    "model": "Legacy"
   },
   "HKUDS/FastCode": {
     "summary": "FastCode 项目旨在加速和简化代码理解，提高开发效率。",
-    "updated_at": "2026-02-16"
+    "updated_at": "2026-02-16",
+    "model": "Legacy"
   },
   "ruvnet/wifi-densepose": {
     "summary": "利用Wi-Fi信号实现人体姿势跟踪，实时通过墙壁追踪人体动作。",
-    "updated_at": "2026-02-16"
+    "updated_at": "2026-02-16",
+    "model": "Legacy"
   },
   "ashishps1/awesome-system-design-resources": {
     "summary": "该项目提供免费资源帮助学习系统设计概念和准备面试。",
-    "updated_at": "2026-02-17"
+    "updated_at": "2026-02-17",
+    "model": "Legacy"
   },
   "mickamy/sql-tap": {
     "summary": "该项目提供实时监控SQL流量的图形界面工具。",
-    "updated_at": "2026-02-17"
+    "updated_at": "2026-02-17",
+    "model": "Legacy"
   },
   "entireio/cli": {
     "summary": "Entire 是一个开发平台，通过 Git 工作流捕获 AI 会话，统一代码和其上下文。",
-    "updated_at": "2026-02-17"
+    "updated_at": "2026-02-17",
+    "model": "Legacy"
   },
   "p-e-w/heretic": {
     "summary": "该项目实现了语言模型的自动审查内容去除功能。",
-    "updated_at": "2026-02-17"
+    "updated_at": "2026-02-17",
+    "model": "Legacy"
   },
   "moltis-org/moltis": {
     "summary": "个人AI助手，支持多种语言模型和语音交互。",
-    "updated_at": "2026-02-17"
+    "updated_at": "2026-02-17",
+    "model": "Legacy"
   },
   "alibaba/zvec": {
     "summary": "alibaba/zvec是一个超快的内存向量数据库。",
-    "updated_at": "2026-02-18"
+    "updated_at": "2026-02-18",
+    "model": "Legacy"
   },
   "jamiepine/voicebox": {
     "summary": "该项目是一个开源的语音合成工作室，使用Qwen3-TTS技术生成语音。",
-    "updated_at": "2026-02-18"
+    "updated_at": "2026-02-18",
+    "model": "Legacy"
   },
   "marcus/nightshift": {
     "summary": "Nightshift 自动利用剩余预算生成有用的代码提交请求。",
-    "updated_at": "2026-02-18"
+    "updated_at": "2026-02-18",
+    "model": "Legacy"
   },
   "klawsh/klaw.sh": {
     "summary": "该项目为AI代理提供kubectl工具，简化AI应用管理。",
-    "updated_at": "2026-02-18"
+    "updated_at": "2026-02-18",
+    "model": "Legacy"
   },
   "volcengine/OpenViking": {
     "summary": "OpenViking 是一个开源的上下文数据库，帮助 AI 代理管理记忆、资源和技能。",
-    "updated_at": "2026-02-18"
+    "updated_at": "2026-02-18",
+    "model": "Legacy"
   },
   "hummingbot/hummingbot": {
     "summary": "该项目是一款开源软件，帮助用户创建和部署高频加密货币交易机器人。",
-    "updated_at": "2026-02-18"
+    "updated_at": "2026-02-18",
+    "model": "Legacy"
   },
   "blackboardsh/electrobun": {
     "summary": "使用Typescript构建超快、微小、跨平台的桌面应用。",
-    "updated_at": "2026-02-19"
+    "updated_at": "2026-02-19",
+    "model": "Legacy"
   },
   "vxcontrol/pentagi": {
     "summary": "vxcontrol/pentagi 是一个全自动的 AI 渗透测试系统。",
-    "updated_at": "2026-02-19"
+    "updated_at": "2026-02-19",
+    "model": "Legacy"
   },
   "louisho5/picobot": {
     "summary": "这是一个轻量级的自托管机器人，使用Go语言编写，打包成单个二进制文件。",
-    "updated_at": "2026-02-19"
+    "updated_at": "2026-02-19",
+    "model": "Legacy"
   },
   "antithesishq/bombadil": {
     "summary": "自动化测试网页界面，发现隐藏的Bug。",
-    "updated_at": "2026-02-19"
+    "updated_at": "2026-02-19",
+    "model": "Legacy"
   },
   "taleshape-com/shaper": {
     "summary": "使用SQL构建数据仪表盘，依托DuckDB数据库。",
-    "updated_at": "2026-02-20"
+    "updated_at": "2026-02-20",
+    "model": "Legacy"
   },
   "tesweva/Nextjs-RCE-Exploit-Kit": {
     "summary": "Nextjs 远程命令执行漏洞利用工具包。",
-    "updated_at": "2026-02-20"
+    "updated_at": "2026-02-20",
+    "model": "Legacy"
   },
   "google-research/timesfm": {
     "summary": "TimesFM 是谷歌研究院开发的预训练时间序列基础模型，用于时间序列预测。",
-    "updated_at": "2026-02-20"
+    "updated_at": "2026-02-20",
+    "model": "Legacy"
   },
   "spacedriveapp/spacebot": {
     "summary": "Spacebot是一个为团队和社区提供的AI智能助手。",
-    "updated_at": "2026-02-20"
+    "updated_at": "2026-02-20",
+    "model": "Legacy"
   },
   "netease-youdao/LobsterAI": {
     "summary": "LobsterAI 是一个全场景 AI 助手，帮助用户完成各种任务。",
-    "updated_at": "2026-02-21"
+    "updated_at": "2026-02-21",
+    "model": "Legacy"
   },
   "RichardAtCT/claude-code-telegram": {
     "summary": "一个Telegram机器人，提供远程访问Claude Code，实现开发者随时随地与项目交互。",
-    "updated_at": "2026-02-21"
+    "updated_at": "2026-02-21",
+    "model": "Legacy"
   },
   "microclaw/microclaw": {
     "summary": "微信小助手：一个基于Rust的AI助手，集成于聊天平台。",
-    "updated_at": "2026-02-21"
+    "updated_at": "2026-02-21",
+    "model": "Legacy"
   },
   "ShinMegamiBoson/OpenPlanter": {
     "summary": "OpenPlanter 是一个开源的植物监测和自动化系统，帮助用户监测和控制植物的生长环境。",
-    "updated_at": "2026-02-22"
+    "updated_at": "2026-02-22",
+    "model": "Legacy"
   },
   "anthropics/claude-plugins-official": {
     "summary": "Anthropic 官方的 Claude 代码插件目录，提供高质量的插件。",
-    "updated_at": "2026-02-22"
+    "updated_at": "2026-02-22",
+    "model": "Legacy"
   },
   "qwibitai/nanoclaw": {
     "summary": "一个轻量级的容器化WhatsApp机器人，具有记忆和定时任务功能。",
-    "updated_at": "2026-02-23"
+    "updated_at": "2026-02-23",
+    "model": "Legacy"
   },
   "HKUDS/ClawWork": {
     "summary": "ClawWork是一个开源项目，旨在将AI作为协作工具，帮助用户提高工作效率。",
-    "updated_at": "2026-02-23"
+    "updated_at": "2026-02-23",
+    "model": "Legacy"
   },
   "Dicklesworthstone/pi_agent_rust": {
     "summary": "该项目是一个高性能的AI编码代理命令行工具，使用Rust语言开发，实现零不安全代码。",
-    "updated_at": "2026-02-23"
+    "updated_at": "2026-02-23",
+    "model": "Legacy"
   },
   "huggingface/skills": {
     "summary": "huggingface/skills 项目提供了一种技能评估和认证的开源平台。",
-    "updated_at": "2026-02-24"
+    "updated_at": "2026-02-24",
+    "model": "Legacy"
   },
   "D4Vinci/Scrapling": {
     "summary": "D4Vinci/Scrapling是一个适应性网页爬虫框架，能处理单个请求到大规模爬取。",
-    "updated_at": "2026-02-24"
+    "updated_at": "2026-02-24",
+    "model": "Legacy"
   },
   "adolfousier/opencrabs": {
     "summary": "OpenCrabs 是一个用 Rust 编写的 AI 终端原生编排层，用于软件开发。",
-    "updated_at": "2026-02-24"
+    "updated_at": "2026-02-24",
+    "model": "Legacy"
   },
   "zeroclaw-labs/zeroclaw": {
     "summary": "快速、轻量、全自主的AI助手基础设施，支持随处部署和自由切换。",
-    "updated_at": "2026-02-25"
+    "updated_at": "2026-02-25",
+    "model": "Legacy"
   },
   "pgdogdev/pgdog": {
     "summary": "PostgreSQL 连接池、负载均衡和数据库分片工具。",
-    "updated_at": "2026-02-25"
+    "updated_at": "2026-02-25",
+    "model": "Legacy"
   },
   "zarazhangrui/frontend-slides": {
     "summary": "该项目使用前端技术创建漂亮的网页幻灯片。",
-    "updated_at": "2026-02-26"
+    "updated_at": "2026-02-26",
+    "model": "Legacy"
   },
   "clockworklabs/SpacetimeDB": {
     "summary": "该项目是一个快速开发平台，旨在加速开发速度。",
-    "updated_at": "2026-02-26"
+    "updated_at": "2026-02-26",
+    "model": "Legacy"
   },
   "ruvnet/ruvector": {
     "summary": "RuVector 是一个高性能的向量和图数据库，用于人工智能和实时分析。",
-    "updated_at": "2026-02-26"
+    "updated_at": "2026-02-26",
+    "model": "Legacy"
   },
   "hesamsheikh/awesome-openclaw-usecases": {
     "summary": "一个社区驱动的项目，收集OpenClaw的用例，旨在简化生活。",
-    "updated_at": "2026-02-27"
+    "updated_at": "2026-02-27",
+    "model": "Legacy"
   },
   "abhigyanpatwari/GitNexus": {
     "summary": "GitNexus：一个浏览器内运行的代码智能引擎，生成交互式知识图谱。",
-    "updated_at": "2026-02-27"
+    "updated_at": "2026-02-27",
+    "model": "Legacy"
   },
   "peteromallet/dataclaw": {
     "summary": "Dataclaw 是一个开源数据抓取工具，帮助用户从网站中提取数据。",
-    "updated_at": "2026-02-27"
+    "updated_at": "2026-02-27",
+    "model": "Legacy"
   },
   "Polymarket/polymarket-cli": {
     "summary": "Polymarket-cli 是一个命令行工具，用于与 Polymarket 预测市场进行交互。",
-    "updated_at": "2026-02-27"
+    "updated_at": "2026-02-27",
+    "model": "Legacy"
   },
   "anthropics/financial-services-plugins": {
     "summary": "该项目提供金融服务插件，扩展金融功能。",
-    "updated_at": "2026-02-28"
+    "updated_at": "2026-02-28",
+    "model": "Legacy"
   },
   "Wei-Shaw/sub2api": {
     "summary": "Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。",
-    "updated_at": "2026-02-28"
+    "updated_at": "2026-02-28",
+    "model": "Legacy"
   },
   "RightNow-AI/openfang": {
     "summary": "开源智能代理操作系统，实现自动化任务处理。",
-    "updated_at": "2026-03-01"
+    "updated_at": "2026-03-01",
+    "model": "Legacy"
   },
   "xpzouying/xiaohongshu-mcp": {
     "summary": "小红书的内容管理平台。",
-    "updated_at": "2026-03-01"
+    "updated_at": "2026-03-01",
+    "model": "Legacy"
   },
   "rtk-ai/rtk": {
     "summary": "该项目是一款命令行代理，能减少大语言模型的令牌消耗。",
-    "updated_at": "2026-03-01"
+    "updated_at": "2026-03-01",
+    "model": "Legacy"
   },
   "agentscope-ai/CoPaw": {
     "summary": "CoPaw 是一个个人 AI 助手，支持多个聊天应用，易于安装和部署。",
-    "updated_at": "2026-03-02"
+    "updated_at": "2026-03-02",
+    "model": "Legacy"
   },
   "taigrr/spank": {
     "summary": "这个项目可以让MacBook感知到物理冲击，并发出声音反馈。",
-    "updated_at": "2026-03-02"
+    "updated_at": "2026-03-02",
+    "model": "Legacy"
   },
   "alibaba/OpenSandbox": {
     "summary": "OpenSandbox是一个通用AI沙箱平台，提供多语言SDK和统一API。",
-    "updated_at": "2026-03-02"
+    "updated_at": "2026-03-02",
+    "model": "Legacy"
   },
   "pinchtab/pinchtab": {
     "summary": "该项目是一个高性能的浏览器自动化工具，支持多实例管理和实时监控。",
-    "updated_at": "2026-03-03"
+    "updated_at": "2026-03-03",
+    "model": "Legacy"
   },
   "maderix/ANE": {
     "summary": "该项目通过逆向工程的私有API，在苹果神经引擎上训练神经网络。",
-    "updated_at": "2026-03-04"
+    "updated_at": "2026-03-04",
+    "model": "Legacy"
   },
   "msitarzewski/agency-agents": {
     "summary": "一个提供多种AI专家代理的平台，每个代理都有独特的个性和技能。",
-    "updated_at": "2026-03-05"
+    "updated_at": "2026-03-05",
+    "model": "Legacy"
   },
   "openai/symphony": {
     "summary": "Symphony 将项目工作转化为独立的实现运行，帮助团队管理工作。",
-    "updated_at": "2026-03-06"
+    "updated_at": "2026-03-06",
+    "model": "Legacy"
   },
   "moeru-ai/airi": {
     "summary": "这是一个自托管的AI伴侣项目，支持实时语音聊天、游戏等功能。",
-    "updated_at": "2026-03-06"
+    "updated_at": "2026-03-06",
+    "model": "Legacy"
   },
   "ruvnet/RuView": {
     "summary": "RuView：利用WiFi信号实现人体姿势估计、生命体征监测和存在检测，无需摄像头。",
-    "updated_at": "2026-03-06"
+    "updated_at": "2026-03-06",
+    "model": "Legacy"
   },
   "paperclipai/paperclip": {
     "summary": "Paperclipai/paperclip 是一个开源项目，旨在实现零人工公司的自动化编排。",
-    "updated_at": "2026-03-07"
+    "updated_at": "2026-03-07",
+    "model": "Legacy"
   },
   "QwenLM/Qwen-Agent": {
     "summary": "Qwen-Agent 是一个基于 Qwen 的智能代理框架，支持函数调用、代码解释等功能。",
-    "updated_at": "2026-03-07"
+    "updated_at": "2026-03-07",
+    "model": "Legacy"
   },
   "pingdotgg/t3code": {
     "summary": "T3code 是一个开源的代码生成工具，帮助开发者快速生成后端 API 代码。",
-    "updated_at": "2026-03-08"
+    "updated_at": "2026-03-08",
+    "model": "Legacy"
   },
   "googleworkspace/cli": {
     "summary": "Google Workspace CLI 是一个命令行工具，集成了 Google 多个服务，如 Drive、Gmail、Calendar 等。",
-    "updated_at": "2026-03-08"
+    "updated_at": "2026-03-08",
+    "model": "Legacy"
   },
   "Ed1s0nZ/CyberStrikeAI": {
     "summary": "CyberStrikeAI是一个集成多种安全工具的AI安全测试平台。",
-    "updated_at": "2026-03-08"
+    "updated_at": "2026-03-08",
+    "model": "Legacy"
   },
   "openclaw/openclaw": {
     "summary": "这是一个个人AI助手项目，支持任何操作系统和平台。",
-    "updated_at": "2026-03-10"
+    "updated_at": "2026-03-10",
+    "model": "Legacy"
   },
   "m1k1o/neko": {
     "summary": "一个自托管的虚拟浏览器，使用Docker和WebRTC技术。",
-    "updated_at": "2026-03-10"
+    "updated_at": "2026-03-10",
+    "model": "Legacy"
   },
   "nikopueringer/CorridorKey": {
     "summary": "该项目为视频提供完美的绿幕抠图功能。",
-    "updated_at": "2026-03-10"
+    "updated_at": "2026-03-10",
+    "model": "Legacy"
   },
   "andrewyng/context-hub": {
     "summary": "Context Hub 是一个开源项目，提供了一个集中式的上下文管理系统。",
-    "updated_at": "2026-03-11"
+    "updated_at": "2026-03-11",
+    "model": "Legacy"
   },
   "jundot/omlx": {
     "summary": "该项目是一个LLM推理服务器，支持连续批处理和SSD缓存，适用于苹果芯片设备。",
-    "updated_at": "2026-03-11"
+    "updated_at": "2026-03-11",
+    "model": "Legacy"
   },
   "alirezarezvani/claude-skills": {
     "summary": "该项目提供169个可用的技能和插件，用于Claude Code、OpenAI Codex和OpenClaw。",
-    "updated_at": "2026-03-11"
+    "updated_at": "2026-03-11",
+    "model": "Legacy"
   },
   "AlexsJones/llmfit": {
     "summary": "该项目提供一个命令，帮助用户快速找到适合其硬件的模型和服务提供商。",
-    "updated_at": "2026-03-11"
+    "updated_at": "2026-03-11",
+    "model": "Legacy"
   },
   "NousResearch/hermes-agent": {
     "summary": "Hermes-agent 是一个智能代理项目，能够随着用户的成长而不断学习和适应。",
-    "updated_at": "2026-03-12"
+    "updated_at": "2026-03-12",
+    "model": "Legacy"
   },
   "karpathy/nanochat": {
     "summary": "一个低成本的ChatGPT聊天机器人项目。",
-    "updated_at": "2026-03-12"
+    "updated_at": "2026-03-12",
+    "model": "Legacy"
   },
   "AstrBotDevs/AstrBot": {
     "summary": "AstrBot 是一个集成多个即时通讯平台、语言模型和插件的聊天机器人框架。",
-    "updated_at": "2026-03-13"
+    "updated_at": "2026-03-13",
+    "model": "Legacy"
   },
   "guohuiyuan/go-music-dl": {
     "summary": "这是一个基于Go语言的全网音乐搜索与下载工具，支持多平台搜索和下载。",
-    "updated_at": "2026-03-13"
+    "updated_at": "2026-03-13",
+    "model": "Legacy"
   },
   "karpathy/autoresearch": {
     "summary": "该项目实现了自动化的AI研究，使用单个GPU训练对话模型。",
-    "updated_at": "2026-03-14"
+    "updated_at": "2026-03-14",
+    "model": "Legacy"
   },
   "pbakaus/impeccable": {
     "summary": "该项目是一个设计语言，帮助人工智能更好地理解设计。",
-    "updated_at": "2026-03-14"
+    "updated_at": "2026-03-14",
+    "model": "Legacy"
   },
   "lightpanda-io/browser": {
     "summary": "Lightpanda是一个无头浏览器，用于AI和自动化。",
-    "updated_at": "2026-03-15"
+    "updated_at": "2026-03-15",
+    "model": "Legacy"
   },
   "chenhg5/cc-connect": {
     "summary": "连接本地AI编码工具到多个聊天平台，让您随处与AI开发助手交流。",
-    "updated_at": "2026-03-15"
+    "updated_at": "2026-03-15",
+    "model": "Legacy"
   },
   "Compresr-ai/Context-Gateway": {
     "summary": "Context Gateway 是一个代理工具，优化 AI 工作流程，提供实时历史压缩和上下文优化功能。",
-    "updated_at": "2026-03-15"
+    "updated_at": "2026-03-15",
+    "model": "Legacy"
   },
   "dev-protocol/polymarket-ai-synth-trading-bot-telegram": {
     "summary": "该项目是一个自动化交易机器人，用于在Polymarket平台进行交易和套利。",
-    "updated_at": "2026-03-15"
+    "updated_at": "2026-03-15",
+    "model": "Legacy"
   },
   "langchain-ai/deepagents": {
     "summary": "该项目是一个智能代理框架，能够处理复杂任务，并具备规划、文件存储和子代理创建等功能。",
-    "updated_at": "2026-03-17"
+    "updated_at": "2026-03-17",
+    "model": "Legacy"
   },
   "calesthio/Crucix": {
     "summary": "Crucix 是一个个人智能助手，监控多个数据源，当发生变化时通知您。",
-    "updated_at": "2026-03-18"
+    "updated_at": "2026-03-18",
+    "model": "Legacy"
   },
   "fengshao1227/ccg-workflow": {
     "summary": "多模型协作开发系统，实现一键安装零配置的开发流程。",
-    "updated_at": "2026-03-18"
+    "updated_at": "2026-03-18",
+    "model": "Legacy"
   },
   "Infatoshi/OpenSquirrel": {
     "summary": "该项目是一个原生Rust控制面板，用于同时运行多个AI模型，帮助用户集中注意力。",
-    "updated_at": "2026-03-18"
+    "updated_at": "2026-03-18",
+    "model": "Legacy"
   },
   "THU-MAIC/OpenMAIC": {
     "summary": "OpenMAIC是一个多智能体交互式教室，提供沉浸式学习体验。",
-    "updated_at": "2026-03-19"
+    "updated_at": "2026-03-19",
+    "model": "Legacy"
   },
   "aiming-lab/AutoResearchClaw": {
     "summary": "该项目实现从想法到论文的全自动化和自我进化的研究。",
-    "updated_at": "2026-03-19"
+    "updated_at": "2026-03-19",
+    "model": "Legacy"
   },
   "gsd-build/get-shit-done": {
     "summary": "这是一个轻量级的代码开发辅助系统，帮助提高编码效率。",
-    "updated_at": "2026-03-19"
+    "updated_at": "2026-03-19",
+    "model": "Legacy"
   },
   "shareAI-lab/learn-claude-code": {
     "summary": "该项目是一个使用Bash构建的微型Claude Code智能代理。",
-    "updated_at": "2026-03-19"
+    "updated_at": "2026-03-19",
+    "model": "Legacy"
   },
   "gofr-dev/gofr": {
     "summary": "gofr 是一个 Go 语言微服务开发框架，内置数据库和可观察性支持。",
-    "updated_at": "2026-03-19"
+    "updated_at": "2026-03-19",
+    "model": "Legacy"
   },
   "mukul975/Anthropic-Cybersecurity-Skills": {
     "summary": "该项目提供700多项结构化的网络安全技能，用于AI代理。",
-    "updated_at": "2026-03-19"
+    "updated_at": "2026-03-19",
+    "model": "Legacy"
   },
   "mattpocock/skills": {
     "summary": "该项目是一个技能管理系统，用于记录和展示个人技能。",
-    "updated_at": "2026-03-20"
+    "updated_at": "2026-03-20",
+    "model": "Legacy"
   },
   "jarrodwatts/claude-hud": {
     "summary": "Claude HUD 插件显示代码上下文、工具、代理和待办事项进度。",
-    "updated_at": "2026-03-20"
+    "updated_at": "2026-03-20",
+    "model": "Legacy"
   },
   "c0m4r/kula": {
     "summary": "一个轻量级的Linux服务器监控工具，用于监测服务器性能和状态。",
-    "updated_at": "2026-03-20"
+    "updated_at": "2026-03-20",
+    "model": "Legacy"
   },
   "opendataloader-project/opendataloader-pdf": {
     "summary": "该项目是一个开源的PDF解析器，旨在自动化PDF文件的可访问性，提取AI可用的数据。",
-    "updated_at": "2026-03-21"
+    "updated_at": "2026-03-21",
+    "model": "Legacy"
   },
   "KittenML/KittenTTS": {
     "summary": "KittenML/KittenTTS 是一个小于 25MB 的高级语音合成模型。",
-    "updated_at": "2026-03-21"
+    "updated_at": "2026-03-21",
+    "model": "Legacy"
   },
   "louis-e/arnis": {
     "summary": "该项目可以在Minecraft中生成现实世界中的任何地点，具有高细节度。",
-    "updated_at": "2026-03-21"
+    "updated_at": "2026-03-21",
+    "model": "Legacy"
   },
   "Crosstalk-Solutions/project-nomad": {
     "summary": "项目N.O.M.A.D是一款离线生存电脑，内置关键工具、知识和AI，随时随地提供信息和支持。",
-    "updated_at": "2026-03-22"
+    "updated_at": "2026-03-22",
+    "model": "Legacy"
   },
   "TauricResearch/TradingAgents": {
     "summary": "该项目是一个多智能体金融交易框架，用于研究和开发人工智能交易策略。",
-    "updated_at": "2026-03-22"
+    "updated_at": "2026-03-22",
+    "model": "Legacy"
   },
   "lucija8320nhung4/HacxGPT": {
     "summary": "HacxGPT 是一个开源的命令行界面，用于访问无限制的 AI 模型。",
-    "updated_at": "2026-03-22"
+    "updated_at": "2026-03-22",
+    "model": "Legacy"
   },
   "zerobootdev/zeroboot": {
     "summary": "该项目创建了微秒级别的虚拟机沙盒，用于AI代理的运行。",
-    "updated_at": "2026-03-22"
+    "updated_at": "2026-03-22",
+    "model": "Legacy"
   },
   "bytedance/deer-flow": {
     "summary": "该项目是一个开源的超级智能代理框架，能够处理不同级别的任务。",
-    "updated_at": "2026-03-23"
+    "updated_at": "2026-03-23",
+    "model": "Legacy"
   },
   "FujiwaraChoki/MoneyPrinterV2": {
     "summary": "该项目旨在自动化在线赚钱的过程。",
-    "updated_at": "2026-03-23"
+    "updated_at": "2026-03-23",
+    "model": "Legacy"
   },
   "pascalorg/editor": {
     "summary": "PascalORG/editor 是一个基于网页的代码编辑器。",
-    "updated_at": "2026-03-24"
+    "updated_at": "2026-03-24",
+    "model": "Legacy"
   },
   "tiajinsha/JKVideo": {
     "summary": "这是一个基于React Native的第三方B站客户端，支持多平台和直播功能。",
-    "updated_at": "2026-03-25"
+    "updated_at": "2026-03-25",
+    "model": "Legacy"
   },
   "hesreallyhim/awesome-claude-code": {
     "summary": "该项目为Claude Code提供了一个精选的技能、插件和应用列表。",
-    "updated_at": "2026-03-25"
+    "updated_at": "2026-03-25",
+    "model": "Legacy"
   },
   "mvanhorn/last30days-skill": {
     "summary": "该项目是一个AI智能助手，能够在多个平台上搜索信息并总结关键内容。",
-    "updated_at": "2026-03-26"
+    "updated_at": "2026-03-26",
+    "model": "Legacy"
   },
   "Donchitos/Claude-Code-Game-Studios": {
     "summary": "将Claude Code打造为全功能游戏开发工作室，拥有48个AI代理、36项工作流技能和完整的协调系统。",
-    "updated_at": "2026-03-27"
+    "updated_at": "2026-03-27",
+    "model": "Legacy"
   },
   "MiniMax-AI/skills": {
     "summary": "MiniMax-AI/skills 项目是一个实现 Minimax 算法的开源项目，用于开发人工智能游戏策略。",
-    "updated_at": "2026-03-27"
+    "updated_at": "2026-03-27",
+    "model": "Legacy"
   },
   "cacggghp/vk-turn-proxy": {
     "summary": "该项目是一个VK（Vkontakte）转发代理，帮助用户访问VK。",
-    "updated_at": "2026-03-27"
+    "updated_at": "2026-03-27",
+    "model": "Legacy"
   },
   "AgentsMesh/AgentsMesh": {
     "summary": "AgentsMesh是一个AI智能代理指挥中心，用于管理和控制AI代理的行为。",
-    "updated_at": "2026-03-27"
+    "updated_at": "2026-03-27",
+    "model": "Legacy"
   },
   "t8/hypura": {
     "summary": "该项目允许运行超出Mac内存限制的模型。",
-    "updated_at": "2026-03-27"
+    "updated_at": "2026-03-27",
+    "model": "Legacy"
   },
   "Yeachan-Heo/oh-my-claudecode": {
     "summary": "该项目实现多智能体编排，优化 Claude Code 的团队协作功能。",
-    "updated_at": "2026-03-28"
+    "updated_at": "2026-03-28",
+    "model": "Legacy"
   },
   "fastclaw-ai/fastclaw": {
     "summary": "Fastclaw-ai/fastclaw 是一个更快、更好的开源项目，旨在替代 OpenClaw。",
-    "updated_at": "2026-03-28"
+    "updated_at": "2026-03-28",
+    "model": "Legacy"
   },
   "luongnv89/claude-howto": {
     "summary": "该项目提供 Claude Code 的视觉化教程和示例，涵盖基础到高级内容。",
-    "updated_at": "2026-03-28"
+    "updated_at": "2026-03-28",
+    "model": "Legacy"
   },
   "golutra/golutra": {
     "summary": "golutra/golutra 是一个基于 Go 语言的终端模拟器。",
-    "updated_at": "2026-03-28"
+    "updated_at": "2026-03-28",
+    "model": "Legacy"
   },
   "datalab-to/chandra": {
     "summary": "该项目是一个OCR模型，能够识别复杂表格、表单、手写体，并保留原来的布局。",
-    "updated_at": "2026-03-29"
+    "updated_at": "2026-03-29",
+    "model": "Legacy"
   },
   "onyx-dot-app/onyx": {
     "summary": "开源AI平台，支持多种LLM，实现高级聊天功能。",
-    "updated_at": "2026-03-29"
+    "updated_at": "2026-03-29",
+    "model": "Legacy"
   },
   "microsoft/RustTraining": {
     "summary": "微软的Rust编程语言培训材料，包含初级、中级和高级内容。",
-    "updated_at": "2026-03-29"
+    "updated_at": "2026-03-29",
+    "model": "Legacy"
   },
   "Panniantong/Agent-Reach": {
     "summary": "该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。",
-    "updated_at": "2026-03-30"
+    "updated_at": "2026-03-30",
+    "model": "Legacy"
   },
   "samber/cc-skills-golang": {
     "summary": "该项目是一个Go语言技能库，提供多种技能函数。",
-    "updated_at": "2026-03-30"
+    "updated_at": "2026-03-30",
+    "model": "Legacy"
   },
   "yologdev/yoyo-evolve": {
     "summary": "该项目是一个每天自动提交代码的智能代理，通过不断演化提高自身能力。",
-    "updated_at": "2026-03-30"
+    "updated_at": "2026-03-30",
+    "model": "Legacy"
   },
   "Tght1211/lan-proxy-gateway": {
     "summary": "让Mac变成局域网透明代理网关，帮助其他设备科学上网。",
-    "updated_at": "2026-03-31"
+    "updated_at": "2026-03-31",
+    "model": "Legacy"
   },
   "TheTom/turboquant_plus": {
     "summary": "Turboquant_plus 是一个量化交易平台，提供高性能的回测和实时交易功能。",
-    "updated_at": "2026-03-31"
+    "updated_at": "2026-03-31",
+    "model": "Legacy"
   },
   "electrikmilk/cherri": {
     "summary": "这是一个Siri快捷方式的编程语言。",
-    "updated_at": "2026-03-31"
+    "updated_at": "2026-03-31",
+    "model": "Legacy"
   },
   "anthropics/claude-code": {
     "summary": "Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。",
-    "updated_at": "2026-04-02"
+    "updated_at": "2026-04-02",
+    "model": "Legacy"
   },
   "Yeachan-Heo/oh-my-codex": {
     "summary": "该项目为代码库添加钩子、智能代理、HUD等功能，增强代码管理和开发体验。",
-    "updated_at": "2026-04-02"
+    "updated_at": "2026-04-02",
+    "model": "Legacy"
   },
   "siddharthvaddem/openscreen": {
     "summary": "开源屏幕录制工具，免费创建演示，无水印，无订阅，无商用限制。",
-    "updated_at": "2026-04-02"
+    "updated_at": "2026-04-02",
+    "model": "Legacy"
   },
   "ssrajadh/sentrysearch": {
     "summary": "该项目实现视频语义搜索，利用Gemini Embedding 2或Qwen3-VL技术。",
-    "updated_at": "2026-04-02"
+    "updated_at": "2026-04-02",
+    "model": "Legacy"
   },
   "frogansol/polymarket-arbitrage-trading-bot-sports-crypto": {
     "summary": "该项目是一个基于Rust的Polymarket交易机器人，用于预测市场交易。",
-    "updated_at": "2026-04-02"
+    "updated_at": "2026-04-02",
+    "model": "Legacy"
   },
   "openai/codex-plugin-cc": {
     "summary": "利用Codex代码审查和任务委托工具，提高编码效率。",
-    "updated_at": "2026-04-03"
+    "updated_at": "2026-04-03",
+    "model": "Legacy"
   },
   "Kocoro-lab/Shannon": {
     "summary": "Kocoro-lab/Shannon 是一个多智能体编排框架，用于生产环境下的任务协调。",
-    "updated_at": "2026-04-03"
+    "updated_at": "2026-04-03",
+    "model": "Legacy"
   },
   "surge-downloader/Surge": {
     "summary": "Surge 是一个快速的命令行下载管理工具，使用 Go 语言开发。",
-    "updated_at": "2026-04-03"
+    "updated_at": "2026-04-03",
+    "model": "Legacy"
   },
   "nashsu/opencli-rs": {
     "summary": "Opencli-rs 是一个快速、安全的命令行工具，用于从多个网站和应用程序中获取信息。",
-    "updated_at": "2026-04-03"
+    "updated_at": "2026-04-03",
+    "model": "Legacy"
   },
   "codeany-ai/codeany": {
     "summary": "这是一个开源的AI终端代理，使用Go语言开发。",
-    "updated_at": "2026-04-04"
+    "updated_at": "2026-04-04",
+    "model": "Legacy"
   },
   "dmtrKovalenko/fff.nvim": {
     "summary": "这是一个超快的文件搜索工具，支持多种编程语言和编辑器。",
-    "updated_at": "2026-04-04"
+    "updated_at": "2026-04-04",
+    "model": "Legacy"
   },
   "0xGF/boneyard": {
     "summary": "自动生成骨架屏加载框架，优化页面加载速度。",
-    "updated_at": "2026-04-05"
+    "updated_at": "2026-04-05",
+    "model": "Legacy"
   },
   "masterking32/MasterDnsVPN": {
     "summary": "该项目是一个高级的DNS隧道VPN，用于突破网络审查。",
-    "updated_at": "2026-04-05"
+    "updated_at": "2026-04-05",
+    "model": "Legacy"
   },
   "k2-fsa/OmniVoice": {
     "summary": "该项目实现了高质量的语音克隆和文本转语音（TTS）功能，支持600多种语言。",
-    "updated_at": "2026-04-05"
+    "updated_at": "2026-04-05",
+    "model": "Legacy"
   },
   "VoltAgent/awesome-design-md": {
     "summary": "该项目收集了流行网站的设计系统文档，方便开发者快速构建匹配的UI界面。",
-    "updated_at": "2026-04-06"
+    "updated_at": "2026-04-06",
+    "model": "Legacy"
   },
   "addyosmani/agent-skills": {
     "summary": "该项目为AI编码代理提供生产级工程技能。",
-    "updated_at": "2026-04-06"
+    "updated_at": "2026-04-06",
+    "model": "Legacy"
   },
   "superplanehq/superplane": {
     "summary": "开源的DevOps控制平面，用于管理事件驱动的工作流程。",
-    "updated_at": "2026-04-06"
+    "updated_at": "2026-04-06",
+    "model": "Legacy"
   },
   "JuliusBrussee/caveman": {
     "summary": "该项目是一个代码优化工具，通过简化代码语句，减少代码中的令牌数量。",
-    "updated_at": "2026-04-07"
+    "updated_at": "2026-04-07",
+    "model": "Legacy"
   },
   "maaslalani/sheets": {
     "summary": "终端基于的电子表格工具。",
-    "updated_at": "2026-04-07"
+    "updated_at": "2026-04-07",
+    "model": "Legacy"
   }
 }
