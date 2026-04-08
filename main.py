@@ -62,11 +62,11 @@ def fetch_trending(language, period, limit=10):
         print(f"❌ 抓取失败: {e}")
         return []
 
-def fetch_collection(collection_id, limit=10):
+def fetch_collection(collection_id, limit=10, period="past_month"):
     url = f"https://api.ossinsight.io/v1/collections/{collection_id}/repos/"
-    params = {"format": "json"}
+    params = {"format": "json", "period": period}
     try:
-        print(f"📡 正在抓取 Collection ID: {collection_id}...")
+        print(f"📡 正在抓取 Collection ID: {collection_id} ({period})...")
         resp = requests.get(url, params=params, timeout=30)
         resp.raise_for_status()
         data = resp.json()
@@ -231,7 +231,8 @@ def main():
         limit = settings.get('top_list_limit', 10)
         
         if 'collection_id' in col:
-            repos = fetch_collection(col['collection_id'], limit=limit)
+            period = col.get('period', 'past_month')
+            repos = fetch_collection(col['collection_id'], limit=limit, period=period)
         else:
             repos = fetch_trending(col['language'], col['period'], limit=limit)
         
