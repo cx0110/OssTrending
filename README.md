@@ -1,7 +1,7 @@
 # 📈 OSSInsight 每日精选
 
 每日自动更新 GitHub 热门项目精选，由 AI (MiniMax-M2.7 / Llama 3) 辅助分析。
-> 更新时间: 2026-04-08 16:27 UTC
+> 更新时间: 2026-04-08 16:33 UTC
 
 ## 🧠 Coding Agents (28d)
 
@@ -45,24 +45,24 @@
 | 5 | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 🔥 132 | 🤖 [Legacy] PersonaPlex 是一个开源项目，提供人工智能驱动的个性化交互技术。 |
 | 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 122 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
 | 7 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 🔥 105 | Open-Source Frontier Voice AI |
-| 8 | [ArcReel/ArcReel](https://github.com/ArcReel/ArcReel) | 🔥 1432 | AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 \| Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok /... |
-| 9 | [therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill) | 🔥 3505 | 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）.  |
-| 10 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 🔥 6226 | Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews an... |
+| 8 | [ArcReel/ArcReel](https://github.com/ArcReel/ArcReel) | 🔥 1433 | AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 \| Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok /... |
+| 9 | [therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill) | 🔥 3508 | 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）.  |
+| 10 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 🔥 6233 | Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews an... |
 
 ## 🐹 Go (24h)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 24015 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
-| 2 | [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) | 🔥 2201 | GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale w... |
+| 1 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 24017 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 2 | [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) | 🔥 2202 | GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale w... |
 | 3 | [GoogleCloudPlatform/scion](https://github.com/GoogleCloudPlatform/scion) | 🔥 30 | ⛔ [无描述]  |
-| 4 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 10919 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 4 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 10924 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
 | 5 | [maaslalani/sheets](https://github.com/maaslalani/sheets) | 🔥 1595 | 🤖 [Legacy] 终端基于的电子表格工具。 |
 | 6 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 27838 | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
-| 7 | [xoai/sage-wiki](https://github.com/xoai/sage-wiki) | 🔥 211 | An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — w... |
+| 7 | [xoai/sage-wiki](https://github.com/xoai/sage-wiki) | 🔥 212 | An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — w... |
 | 8 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 4555 | Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LIN... |
 | 9 | [gastownhall/gastown](https://github.com/gastownhall/gastown) | 🔥 13688 | Gas Town - multi-agent workspace manager |
-| 10 | [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | 🔥 11849 | Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys. |
+| 10 | [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | 🔥 11850 | Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys. |
 
 ## 📜 TypeScript (24h)
 
