@@ -76,8 +76,18 @@ def fetch_by_collection_name(collection_name, period, limit=10):
         print(f"❌ Collection 抓取失败: {e}")
         return []
 
+def get_github_total_stars(repo_name):
+    try:
+        url = f"https://api.github.com/repos/{repo_name}"
+        resp = requests.get(url, timeout=10)
+        if resp.status_code == 200:
+            return resp.json().get('stargazers_count', 0)
+    except:
+        pass
+    return 0
+
 # === 4. 过滤规则 ===
-def should_filter(repo, filters):
+def should_filter(repo, filters, total_stars_cache={}):
     desc = repo.get('description', '').strip().lower()
     if filters.get('skip_no_description', False):
         if not desc or desc in ['无描述', 'no description', '']:
@@ -85,8 +95,18 @@ def should_filter(repo, filters):
 
     stars = repo.get('stars', 0)
     min_total = filters.get('min_total_stars', 0)
-    if min_total > 0 and stars < min_total:
-        return True, f"星数不足 {stars}"
+    
+    if min_total > 0:
+        if stars >= min_total:
+            return False, ""
+        repo_name = repo.get('repo_name', '')
+        if repo_name not in total_stars_cache:
+            print(f"🔍 获取总星数: {repo_name}")
+            total_stars_cache[repo_name] = get_github_total_stars(repo_name)
+        total_stars = total_stars_cache[repo_name]
+        if total_stars >= min_total:
+            return False, ""
+        return True, f"星数不足 (增量{stars}/总数{total_stars})"
 
     return False, ""
 
@@ -136,6 +156,7 @@ def build_markdown_section(title, repos, settings, history, llm_clients, model_n
     section += "| :--- | :--- | :--- | :--- |\n"
 
     filters = settings.get('filters', {})
+    total_stars_cache = {}
 
     for idx, repo in enumerate(repos, 1):
         name = repo['repo_name']
@@ -143,15 +164,20 @@ def build_markdown_section(title, repos, settings, history, llm_clients, model_n
         stars = repo.get('stars', 0)
         raw_desc = repo.get('description', '').replace('|', r'\|').replace('\n', ' ')
         
+        display_stars = stars
         final_desc = raw_desc
-        is_filtered, filter_reason = should_filter(repo, filters)
+        is_filtered, filter_reason = should_filter(repo, filters, total_stars_cache)
         
         if is_filtered:
             final_desc = f"⛔ [{filter_reason}] {final_desc}"
         else:
+            if name in total_stars_cache and total_stars_cache[name] > stars:
+                display_stars = total_stars_cache[name]
+            
             if settings['enable_llm'] and idx <= settings.get('llm_top_n', 5):
                 if name in history:
-                    final_desc = f"🤖 {history[name]['summary']}"
+                    model = history[name].get('model', 'Unknown')
+                    final_desc = f"🤖 [{model}] {history[name]['summary']}"
                 elif any(llm_clients):
                     ai_sum, model_used = generate_ai_summary(llm_clients, repo, model_names)
                     if ai_sum:
@@ -166,7 +192,7 @@ def build_markdown_section(title, repos, settings, history, llm_clients, model_n
         if len(final_desc) > 150:
             final_desc = final_desc[:147] + "..."
 
-        section += f"| {idx} | [{name}]({url}) | 🔥 {stars} | {final_desc} |\n"
+        section += f"| {idx} | [{name}]({url}) | 🔥 {display_stars} | {final_desc} |\n"
     
     return section
 
