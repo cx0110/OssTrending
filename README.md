@@ -1,7 +1,7 @@
 # 📈 OSSInsight 每日精选
 
 每日自动更新 GitHub 热门项目精选，由 AI (MiniMax-M2.7 / Llama 3) 辅助分析。
-> 更新时间: 2026-04-08 20:35 UTC
+> 更新时间: 2026-04-08 20:37 UTC
 
 ## 🧠 Coding Agents (28d)
 
@@ -49,28 +49,28 @@
 | 5 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 🔥 164 | 🤖 [qwen/qwen3-32b] <think>
 好的，我现在需要帮用户用中文一句话概括这个项目的核心功能，不超过50字。首先，我得仔细看看项目描述。项目名称是tirth8205/code-review-graph，描述里提到是Local knowledge graph for Claud... |
 | 6 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 🔥 152 | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
-| 7 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 🔥 6834 | VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning |
-| 8 | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 🔥 8239 | PersonaPlex code. |
+| 7 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 🔥 6837 | VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning |
+| 8 | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 🔥 8241 | PersonaPlex code. |
 | 9 | [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) | 🔥 1178 |  Advanced TradingView MCP Server for AI-powered market analysis. Real-time crypto & stock screening, technical indicators, Bollinger Band intellige... |
-| 10 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 🔥 29326 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| 10 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 🔥 29328 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
 
 ## 🐹 Go (24h)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
 | 1 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 24088 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
-| 2 | [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) | 🔥 2232 | 🤖 [qwen/qwen3-32b] <think>
+| 2 | [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) | 🔥 2233 | 🤖 [qwen/qwen3-32b] <think>
 好的，我现在要帮用户用中文一句话概括这个项目的核心功能，不超过50字。首先，我需要仔细理解项目描述。
 
 项目名称是GoClaw，是OpenClaw用Go重写的版本。描述中提到多租户隔离、五层安全、原生并发，可以大规模部署AI代理团队而不影响... |
 | 3 | [GoogleCloudPlatform/scion](https://github.com/GoogleCloudPlatform/scion) | 🔥 30 | ⛔ [无描述]  |
-| 4 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 10960 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 4 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 10962 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
 | 5 | [maaslalani/sheets](https://github.com/maaslalani/sheets) | 🔥 1602 | 🤖 [Legacy] 终端基于的电子表格工具。 |
-| 6 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 27857 | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
+| 6 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 27859 | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
 | 7 | [xoai/sage-wiki](https://github.com/xoai/sage-wiki) | 🔥 226 | An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — w... |
 | 8 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 4573 | Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LIN... |
 | 9 | [gastownhall/gastown](https://github.com/gastownhall/gastown) | 🔥 13703 | Gas Town - multi-agent workspace manager |
-| 10 | [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | 🔥 11856 | Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys. |
+| 10 | [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | 🔥 11857 | Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys. |
 
 ## 📜 TypeScript (24h)
 
