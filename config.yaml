@@ -3,7 +3,7 @@ settings:
   llm_top_n: 5
   top_list_limit: 10
   ai_model: "MiniMax-M2.7"
-  ai_model_backup: "qwen/qwen3-32b"
+  ai_model_backup: "llama-3.3-70b-versatile"
   
   filters:
     min_total_stars: 100
