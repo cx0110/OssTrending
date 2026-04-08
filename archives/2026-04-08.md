@@ -1,7 +1,7 @@
 # 📈 OSSInsight 每日精选
 
 每日自动更新 GitHub 热门项目精选，由 AI (MiniMax-M2.7 / Llama 3) 辅助分析。
-> 更新时间: 2026-04-08 16:33 UTC
+> 更新时间: 2026-04-08 17:51 UTC
 
 ## 🧠 Coding Agents (28d)
 
@@ -38,31 +38,31 @@
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 652 | Claude Code skill. Drop code, papers, images, or notes into a folder and get a knowledge graph with community detection, god nodes, and honest audi... |
-| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🔥 413 | 🤖 [Legacy] Hermes-agent 是一个智能代理项目，能够随着用户的成长而不断学习和适应。 |
-| 3 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🔥 454 | 🤖 [Legacy] 该项目是一个代码优化工具，通过简化代码语句，减少代码中的令牌数量。 |
-| 4 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 🔥 223 | 🤖 [Legacy] 该项目提供 Claude Code 的视觉化教程和示例，涵盖基础到高级内容。 |
-| 5 | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 🔥 132 | 🤖 [Legacy] PersonaPlex 是一个开源项目，提供人工智能驱动的个性化交互技术。 |
-| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 122 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
-| 7 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 🔥 105 | Open-Source Frontier Voice AI |
-| 8 | [ArcReel/ArcReel](https://github.com/ArcReel/ArcReel) | 🔥 1433 | AI Agent 驱动的开源视频生成工作台 — 小说→角色/场景/道具设计→剧本→分镜图→视频，跨镜头角色与场景一致 \| Open-source AI video workspace powered by AI Agents, Nano Banana 2 & Veo 3.1 / Grok /... |
-| 9 | [therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill) | 🔥 3508 | 把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）.  |
-| 10 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 🔥 6233 | Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews an... |
+| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🔥 891 | 🤖 [Legacy] Hermes-agent 是一个智能代理项目，能够随着用户的成长而不断学习和适应。 |
+| 2 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 820 | Claude Code skill. Drop code, papers, images, or notes into a folder and get a knowledge graph with community detection, god nodes, and honest audi... |
+| 3 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🔥 275 | 🤖 [Legacy] 该项目是一个代码优化工具，通过简化代码语句，减少代码中的令牌数量。 |
+| 4 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 193 | 🤖 [Legacy] DeepTutor是一个人工智能驱动的个性化学习助手。 |
+| 5 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 🔥 164 | Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews an... |
+| 6 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 🔥 152 | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
+| 7 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 🔥 6781 | VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning |
+| 8 | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 🔥 8184 | PersonaPlex code. |
+| 9 | [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) | 🔥 1131 |  Advanced TradingView MCP Server for AI-powered market analysis. Real-time crypto & stock screening, technical indicators, Bollinger Band intellige... |
+| 10 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 🔥 29283 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
 
 ## 🐹 Go (24h)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 24017 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
-| 2 | [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) | 🔥 2202 | GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale w... |
+| 1 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 24053 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 2 | [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) | 🔥 2214 | GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale w... |
 | 3 | [GoogleCloudPlatform/scion](https://github.com/GoogleCloudPlatform/scion) | 🔥 30 | ⛔ [无描述]  |
-| 4 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 10924 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
-| 5 | [maaslalani/sheets](https://github.com/maaslalani/sheets) | 🔥 1595 | 🤖 [Legacy] 终端基于的电子表格工具。 |
-| 6 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 27838 | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
-| 7 | [xoai/sage-wiki](https://github.com/xoai/sage-wiki) | 🔥 212 | An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — w... |
-| 8 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 4555 | Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LIN... |
-| 9 | [gastownhall/gastown](https://github.com/gastownhall/gastown) | 🔥 13688 | Gas Town - multi-agent workspace manager |
-| 10 | [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | 🔥 11850 | Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys. |
+| 4 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 10932 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 5 | [maaslalani/sheets](https://github.com/maaslalani/sheets) | 🔥 1599 | 🤖 [Legacy] 终端基于的电子表格工具。 |
+| 6 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 27844 | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
+| 7 | [xoai/sage-wiki](https://github.com/xoai/sage-wiki) | 🔥 215 | An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — w... |
+| 8 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 4561 | Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LIN... |
+| 9 | [gastownhall/gastown](https://github.com/gastownhall/gastown) | 🔥 13694 | Gas Town - multi-agent workspace manager |
+| 10 | [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | 🔥 11852 | Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys. |
 
 ## 📜 TypeScript (24h)
 
