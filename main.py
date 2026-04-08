@@ -62,6 +62,28 @@ def fetch_trending(language, period, limit=10):
         print(f"❌ 抓取失败: {e}")
         return []
 
+def fetch_collection(collection_id, limit=10):
+    url = f"https://api.ossinsight.io/v1/collections/{collection_id}/repos/"
+    params = {"format": "json"}
+    try:
+        print(f"📡 正在抓取 Collection ID: {collection_id}...")
+        resp = requests.get(url, params=params, timeout=30)
+        resp.raise_for_status()
+        data = resp.json()
+        rows = data.get("data", {}).get("rows", [])
+        repos = []
+        for row in rows[:limit]:
+            repos.append({
+                "repo_name": row.get("repo_name", ""),
+                "description": row.get("description", ""),
+                "stars": row.get("stars", 0),
+                "forks": row.get("forks", 0)
+            })
+        return repos
+    except Exception as e:
+        print(f"❌ Collection 抓取失败: {e}")
+        return []
+
 # === 4. 过滤规则 ===
 def should_filter(repo, filters):
     desc = repo.get('description', '').strip().lower()
@@ -206,9 +228,12 @@ def main():
 
     # 遍历集合抓取数据
     for col in config['collections']:
-        # 传入 limit 参数
         limit = settings.get('top_list_limit', 10)
-        repos = fetch_trending(col['language'], col['period'], limit=limit)
+        
+        if 'collection_id' in col:
+            repos = fetch_collection(col['collection_id'], limit=limit)
+        else:
+            repos = fetch_trending(col['language'], col['period'], limit=limit)
         
         if repos:
             section_md = build_markdown_section(col['title'], repos, settings, history, llm_clients, model_names)

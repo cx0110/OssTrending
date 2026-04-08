@@ -17,9 +17,10 @@ settings:
     
     每日自动更新 GitHub 热门项目精选，由 AI (MiniMax M2 / OpenAI) 辅助分析。
 
-# language: 编程语言 (All, JavaScript, Java, Python, PHP, C++, C#, TypeScript, Shell, C, Ruby, Rust, Go, Kotlin, HCL, PowerShell, etc.)
-# period: 时间范围 (past_24_hours, past_week, past_month, past_year)
+# language + period: 按编程语言 trending 抓取
+# collection_id: 按 OSSInsight 分类抓取 (AI Agent Frameworks=10098, CICD=10020, Coding Agents=10106 等)
 collections:
+  # 编程语言
   - title: "🔥 全球热榜 (24h)"
     language: "All"
     period: "past_24_hours"
@@ -35,3 +36,16 @@ collections:
   - title: "📜 TypeScript (24h)"
     language: "TypeScript"
     period: "past_24_hours"
+
+  # 热门分类
+  - title: "🤖 AI Agent Frameworks"
+    collection_id: 10098
+
+  - title: "⚙️ CI/CD"
+    collection_id: 10020
+
+  - title: "🧠 Coding Agents"
+    collection_id: 10106
+
+  - title: "🎨 Artificial Intelligence"
+    collection_id: 10010
