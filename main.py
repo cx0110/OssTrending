@@ -62,24 +62,16 @@ def fetch_trending(language, period, limit=10):
         print(f"❌ 抓取失败: {e}")
         return []
 
-def fetch_collection(collection_id, limit=10, period="past_month"):
-    url = f"https://api.ossinsight.io/v1/collections/{collection_id}/repos/"
-    params = {"format": "json", "period": period}
+def fetch_by_collection_name(collection_name, period, limit=10):
+    url = "https://api.ossinsight.io/q/trending-repos"
+    params = {"language": "All", "period": period, "format": "json"}
     try:
-        print(f"📡 正在抓取 Collection ID: {collection_id} ({period})...")
+        print(f"📡 正在抓取 Collection: {collection_name} ({period})...")
         resp = requests.get(url, params=params, timeout=30)
         resp.raise_for_status()
-        data = resp.json()
-        rows = data.get("data", {}).get("rows", [])
-        repos = []
-        for row in rows[:limit]:
-            repos.append({
-                "repo_name": row.get("repo_name", ""),
-                "description": row.get("description", ""),
-                "stars": row.get("stars", 0),
-                "forks": row.get("forks", 0)
-            })
-        return repos
+        data = resp.json().get("data", [])
+        filtered = [r for r in data if collection_name in (r.get('collection_names') or '')]
+        return filtered[:limit]
     except Exception as e:
         print(f"❌ Collection 抓取失败: {e}")
         return []
@@ -230,9 +222,9 @@ def main():
     for col in config['collections']:
         limit = settings.get('top_list_limit', 10)
         
-        if 'collection_id' in col:
+        if 'collection_name' in col:
             period = col.get('period', 'past_month')
-            repos = fetch_collection(col['collection_id'], limit=limit, period=period)
+            repos = fetch_by_collection_name(col['collection_name'], period, limit)
         else:
             repos = fetch_trending(col['language'], col['period'], limit=limit)
         

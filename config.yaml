@@ -18,43 +18,43 @@ settings:
     每日自动更新 GitHub 热门项目精选，由 AI (MiniMax M2 / OpenAI) 辅助分析。
 
 # language + period: 按编程语言 trending 抓取 (past_24_hours, past_week, past_month, past_year)
-# collection_id + period: 按 OSSInsight 分类抓取 (period 用于 AI 分类的 28d 增长)
+# collection_name + period: 按 OSSInsight 分类名过滤 (period 用于 AI 分类的 28d 增长)
 collections:
   # AI 分类 (近 28 天增长，来自 ossinsight.io/trending/ai)
   - title: "🤖 AI Agents (28d)"
-    collection_id: 10098
+    collection_name: "AI Agents"
     period: past_month
 
   - title: "🛠️ LLM Tools (28d)"
-    collection_id: 10076
+    collection_name: "LLM Tools"
     period: past_month
 
   - title: "🔌 MCP Servers (28d)"
-    collection_id: 10105
+    collection_name: "MCP Servers"
     period: past_month
 
   - title: "🧠 Coding Agents (28d)"
-    collection_id: 10106
+    collection_name: "Coding Agents"
     period: past_month
 
   - title: "📚 RAG (28d)"
-    collection_id: 10108
+    collection_name: "RAG"
     period: past_month
 
   - title: "⚡ Inference (28d)"
-    collection_id: 10109
+    collection_name: "LLM Inference Engines"
     period: past_month
 
   - title: "🗃️ Vector DB (28d)"
-    collection_id: 10077
+    collection_name: "Vector Search Engine"
     period: past_month
 
   - title: "✨ Vibe Coding (28d)"
-    collection_id: 10107
+    collection_name: "Vibe Coding Tools"
     period: past_month
 
   - title: "🤖 AI Assistants (28d)"
-    collection_id: 10112
+    collection_name: "AI Coding Assistants"
     period: past_month
 
   # 编程语言 (每日热点)
