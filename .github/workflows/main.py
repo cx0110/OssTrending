@@ -63,10 +63,11 @@ def fetch_trending(language, period):
         return []
 
 # === 4. AI 摘要生成 ===
-def generate_ai_summary(client, repo_info, model_name):
+def generate_ai_summary(client, repo_info, model_name, backup_model=None):
     """
     生成单个项目的精简评价
     返回 (summary_text, model_name)
+    如果主模型失败且提供了备份模型，会自动尝试备份模型
     """
     if not client: return ("", model_name)
 
@@ -81,23 +82,34 @@ def generate_ai_summary(client, repo_info, model_name):
         "请用中文一句话概括这个项目的核心价值或用途，不要超过50个字。"
     )
 
-    try:
-        # print(f"🤖 AI 分析中: {name}...")
-        response = client.chat.completions.create(
-            model=model_name,
-            messages=[
-                {"role": "system", "content": "你是一个开源技术专家。"},
-                {"role": "user", "content": prompt}
-            ],
-            max_tokens=100
-        )
-        return (response.choices[0].message.content.strip(), model_name)
-    except Exception as e:
-        print(f"⚠️ AI Error: {e}")
-        return ("", model_name)
+    models_to_try = [(model_name, model_name)]
+    if backup_model:
+        models_to_try.append((backup_model, backup_model))
+
+    last_error = None
+    for try_model, try_name in models_to_try:
+        try:
+            response = client.chat.completions.create(
+                model=try_model,
+                messages=[
+                    {"role": "system", "content": "你是一个开源技术专家。"},
+                    {"role": "user", "content": prompt}
+                ],
+                max_tokens=100
+            )
+            return (response.choices[0].message.content.strip(), try_name)
+        except Exception as e:
+            last_error = e
+            print(f"⚠️ [{try_name}] 接口错误: {e}")
+            if try_model == backup_model or not backup_model:
+                break
+            # 继续尝试备份模型
+
+    print(f"⚠️ [{model_name}] AI 生成失败: {last_error}")
+    return ("", model_name)
 
 # === 5. Markdown 内容构建 ===
-def build_markdown_section(title, repos, settings, history, llm_client, ai_model):
+def build_markdown_section(title, repos, settings, history, llm_client, ai_model, backup_model=None):
     section = f"## {title}\n\n"
     section += "| 排名 | 项目 | Stars | 简介 |\n"
     section += "| :--- | :--- | :--- | :--- |\n"
@@ -119,7 +131,7 @@ def build_markdown_section(title, repos, settings, history, llm_client, ai_model
                 final_desc = f"🤖 [{model_in_summary}] {cached['summary']}"
             else:
                 # 调用 AI
-                ai_summary, used_model = generate_ai_summary(llm_client, repo, ai_model)
+                ai_summary, used_model = generate_ai_summary(llm_client, repo, ai_model, backup_model)
                 if ai_summary:
                     final_desc = f"🤖 [{used_model}] {ai_summary}"
                     # 更新缓存
@@ -128,6 +140,7 @@ def build_markdown_section(title, repos, settings, history, llm_client, ai_model
                         "model": used_model,
                         "updated_at": datetime.datetime.now().strftime("%Y-%m-%d")
                     }
+                    time.sleep(0.5)  # 防止 API 限流
 
         # 截断过长描述防止表格炸裂
         if len(final_desc) > 150:
@@ -164,6 +177,7 @@ def main():
     # 初始化 LLM
     llm_client = None
     ai_model = os.environ.get("AI_MODEL", settings.get("ai_model", "gpt-4o-mini"))
+    backup_model = os.environ.get("AI_MODEL_BACKUP", settings.get("ai_model_backup", None))
     if settings['enable_llm']:
         api_key = os.environ.get("OPENAI_API_KEY")
         base_url = os.environ.get("OPENAI_BASE_URL")
@@ -182,7 +196,7 @@ def main():
     for col in config['collections']:
         repos = fetch_trending(col['language'], col['period'])
         if repos:
-            section_md = build_markdown_section(col['title'], repos, settings, history, llm_client, ai_model)
+            section_md = build_markdown_section(col['title'], repos, settings, history, llm_client, ai_model, backup_model)
             report_content += section_md + "\n"
         time.sleep(1) # 礼貌请求，防止限流
 
