@@ -18,7 +18,7 @@ settings:
     每日自动更新 GitHub 热门项目精选，由 AI (MiniMax M2 / OpenAI) 辅助分析。
 
 # language + period: 按编程语言 trending 抓取
-# collection_id: 按 OSSInsight 分类抓取 (AI Agent Frameworks=10098, CICD=10020, Coding Agents=10106 等)
+# collection_id: 按 OSSInsight 分类抓取
 collections:
   # 编程语言
   - title: "🔥 全球热榜 (24h)"
@@ -37,15 +37,30 @@ collections:
     language: "TypeScript"
     period: "past_24_hours"
 
-  # 热门分类
-  - title: "🤖 AI Agent Frameworks"
+  # AI 分类 (来自 ossinsight.io/trending/ai)
+  - title: "🤖 AI Agents"
     collection_id: 10098
 
-  - title: "⚙️ CI/CD"
-    collection_id: 10020
+  - title: "🛠️ LLM Tools"
+    collection_id: 10076
+
+  - title: "🔌 MCP Servers"
+    collection_id: 10105
 
   - title: "🧠 Coding Agents"
     collection_id: 10106
 
-  - title: "🎨 Artificial Intelligence"
-    collection_id: 10010
+  - title: "📚 RAG"
+    collection_id: 10108
+
+  - title: "⚡ Inference"
+    collection_id: 10109
+
+  - title: "🗃️ Vector DB"
+    collection_id: 10077
+
+  - title: "✨ Vibe Coding"
+    collection_id: 10107
+
+  - title: "🤖 AI Assistants"
+    collection_id: 10112
