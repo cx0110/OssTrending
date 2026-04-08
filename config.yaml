@@ -24,58 +24,14 @@ collections:
     language: "All"
     period: "past_24_hours"
 
-  - title: "🗓️ 全球周榜"
-    language: "All"
-    period: "past_week"
-
-  - title: "🦀 Rust (24h)"
-    language: "Rust"
+  - title: "🐍 Python (24h)"
+    language: "Python"
     period: "past_24_hours"
 
   - title: "🐹 Go (24h)"
     language: "Go"
     period: "past_24_hours"
 
-  - title: "🐍 Python (24h)"
-    language: "Python"
-    period: "past_24_hours"
-
-  - title: "☕ Java (24h)"
-    language: "Java"
-    period: "past_24_hours"
-
   - title: "📜 TypeScript (24h)"
     language: "TypeScript"
-    period: "past_24_hours"
-
-  - title: "⚡ JavaScript (24h)"
-    language: "JavaScript"
-    period: "past_24_hours"
-
-  - title: "🔷 C# (24h)"
-    language: "C#"
-    period: "past_24_hours"
-
-  - title: "➕ C++ (24h)"
-    language: "C++"
-    period: "past_24_hours"
-
-  - title: "🔹 C (24h)"
-    language: "C"
-    period: "past_24_hours"
-
-  - title: "💎 Ruby (24h)"
-    language: "Ruby"
-    period: "past_24_hours"
-
-  - title: "🐘 PHP (24h)"
-    language: "PHP"
-    period: "past_24_hours"
-
-  - title: "🟢 Kotlin (24h)"
-    language: "Kotlin"
-    period: "past_24_hours"
-
-  - title: "💜 Others (24h)"
-    language: "Others"
     period: "past_24_hours"
