@@ -146,6 +146,7 @@ def generate_ai_summary(clients, repo, model_names):
             text = response.choices[0].message.content.strip()
             if text:
                 return text, model_name
+            print(f"⚠️ [{model_name}] 返回内容为空，尝试其他模型")
         except Exception as e:
             print(f"⚠️ [{model_name}] 接口错误: {e}")
             continue
