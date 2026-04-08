@@ -6,7 +6,7 @@ settings:
   ai_model_backup: "gpt-3.5-turbo"
   
   filters:
-    min_total_stars: 0
+    min_total_stars: 100
     skip_no_description: true
   
   history_file: "data/history.json"

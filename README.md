@@ -1,7 +1,7 @@
 # 📈 OSSInsight 每日精选
 
 每日自动更新 GitHub 热门项目精选，由 AI (MiniMax M2 / OpenAI) 辅助分析。
-> 更新时间: 2026-04-08 11:09 UTC
+> 更新时间: 2026-04-08 11:19 UTC
 
 ## 🧠 Coding Agents (28d)
 

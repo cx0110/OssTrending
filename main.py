@@ -96,14 +96,14 @@ def should_filter(repo, filters, total_stars_cache={}):
     stars = repo.get('stars', 0)
     min_total = filters.get('min_total_stars', 0)
     
-    if min_total > 0:
-        if stars >= min_total:
-            return False, ""
+    if min_total > 0 and stars < min_total:
         repo_name = repo.get('repo_name', '')
         if repo_name not in total_stars_cache:
             print(f"🔍 获取总星数: {repo_name}")
             total_stars_cache[repo_name] = get_github_total_stars(repo_name)
         total_stars = total_stars_cache[repo_name]
+        if total_stars == 0:
+            return False, ""
         if total_stars >= min_total:
             return False, ""
         return True, f"星数不足 (增量{stars}/总数{total_stars})"
