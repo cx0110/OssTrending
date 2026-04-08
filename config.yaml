@@ -13,27 +13,69 @@ settings:
   archive_dir: "archives"
   readme_file: "README.md"
   readme_header: |
-    # 📈 OSSInsight 每日精选 (Top 10)
+    # 📈 OSSInsight 每日精选
     
-    每日自动更新 GitHub 热门项目，由 AI (MiniMax M2 / OpenAI) 辅助分析。
+    每日自动更新 GitHub 热门项目精选，由 AI (MiniMax M2 / OpenAI) 辅助分析。
 
-# 这里定义你需要抓取的列表
-# language: 编程语言 (All, Python, Go, Java, Rust, JavaScript, TypeScript, C++, etc.)
+# language: 编程语言 (All, JavaScript, Java, Python, PHP, C++, C#, TypeScript, Shell, C, Ruby, Rust, Go, Kotlin, HCL, PowerShell, etc.)
 # period: 时间范围 (past_24_hours, past_week, past_month, past_year)
 collections:
   - title: "🔥 全球热榜 (24h)"
     language: "All"
     period: "past_24_hours"
 
-  - title: "🐹 Go 语言精选 (24h)"
+  - title: "🗓️ 全球周榜"
+    language: "All"
+    period: "past_week"
+
+  - title: "🦀 Rust (24h)"
+    language: "Rust"
+    period: "past_24_hours"
+
+  - title: "🐹 Go (24h)"
     language: "Go"
     period: "past_24_hours"
 
-  - title: "🐍 Python 热门 (24h)"
+  - title: "🐍 Python (24h)"
     language: "Python"
     period: "past_24_hours"
-   # period: "past_week"
-    
-  - title: "🦀 Rust 新秀 (24h)"
-    language: "Rust"
+
+  - title: "☕ Java (24h)"
+    language: "Java"
+    period: "past_24_hours"
+
+  - title: "📜 TypeScript (24h)"
+    language: "TypeScript"
+    period: "past_24_hours"
+
+  - title: "⚡ JavaScript (24h)"
+    language: "JavaScript"
+    period: "past_24_hours"
+
+  - title: "🔷 C# (24h)"
+    language: "C#"
+    period: "past_24_hours"
+
+  - title: "➕ C++ (24h)"
+    language: "C++"
+    period: "past_24_hours"
+
+  - title: "🔹 C (24h)"
+    language: "C"
+    period: "past_24_hours"
+
+  - title: "💎 Ruby (24h)"
+    language: "Ruby"
+    period: "past_24_hours"
+
+  - title: "🐘 PHP (24h)"
+    language: "PHP"
+    period: "past_24_hours"
+
+  - title: "🟢 Kotlin (24h)"
+    language: "Kotlin"
+    period: "past_24_hours"
+
+  - title: "💜 Others (24h)"
+    language: "Others"
     period: "past_24_hours"
