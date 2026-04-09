@@ -2138,5 +2138,15 @@
     "summary": "<think>\n好的，我现在需要帮用户用中文一句话概括这个项目的核心功能，不超过50字。首先，我得仔细看看项目名称和描述。项目名称是JCodesMore/ai-website-cloner-template，描述是“Clone any website with one command using AI coding agents”。用户要求用中文，简洁，不废话。\n\n首先，核心功能是克隆网站，用AI编码代理，一条命令。我需要把这些关键点翻译成中文，并且组织成",
     "model": "qwen/qwen3-32b",
     "updated_at": "2026-04-08"
+  },
+  "multica-ai/multica": {
+    "summary": "Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-04-10"
+  },
+  "rowboatlabs/rowboat": {
+    "summary": "开源人工智能协作工具，具备记忆功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-04-10"
   }
 }
