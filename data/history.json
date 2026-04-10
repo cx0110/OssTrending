@@ -2148,5 +2148,15 @@
     "summary": "开源人工智能协作工具，具备记忆功能。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-04-10"
+  },
+  "OpenBMB/VoxCPM": {
+    "summary": "VoxCPM：无需分词器的语音合成和真实语音克隆技术。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-04-11"
+  },
+  "webadderall/Recordly": {
+    "summary": "Recordly是一款开源的屏幕录制和编辑工具，支持自动缩放、摄像头叠加、光标动画等功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-04-11"
   }
 }
