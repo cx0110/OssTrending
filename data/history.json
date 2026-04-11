@@ -2158,5 +2158,20 @@
     "summary": "Recordly是一款开源的屏幕录制和编辑工具，支持自动缩放、摄像头叠加、光标动画等功能。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-04-11"
+  },
+  "coleam00/Archon": {
+    "summary": "Archon OS是一个知识和任务管理系统，作为AI编码助手的骨干。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-04-12"
+  },
+  "gastownhall/gastown": {
+    "summary": "Gas Town是一个多智能体工作空间管理器，用于管理和协调多个智能体的工作流程。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-04-12"
+  },
+  "gastownhall/beads": {
+    "summary": "Beads是一个内存升级工具，用于增强编码代理的记忆能力。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-04-12"
   }
 }
