@@ -2173,5 +2173,25 @@
     "summary": "Beads是一个内存升级工具，用于增强编码代理的记忆能力。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-04-12"
+  },
+  "alchaincyf/zhangxuefeng-skill": {
+    "summary": "张雪峰的认知操作系统，提供高考志愿、考研、职业规划的实战思维框架。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-04-13"
+  },
+  "alchaincyf/nuwa-skill": {
+    "summary": "该项目旨在提取和模拟任何人的思维方式，包括心智模型、决策启发式和表达特征。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-04-13"
+  },
+  "QuantumNous/new-api": {
+    "summary": "该项目是一个统一的AI模型中心，支持将多种LLM模型转换为兼容OpenAI、Claude或Gemini格式。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-04-13"
+  },
+  "getpaseo/paseo": {
+    "summary": "远程管理代理人，支持手机、桌面和命令行界面。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-04-13"
   }
 }
