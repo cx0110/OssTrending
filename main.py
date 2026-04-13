@@ -145,15 +145,14 @@ def generate_ai_summary(clients, repo, model_names):
                 timeout=20
             )
             text = response.choices[0].message.content.strip()
-            text = re.sub(r'<think>[\s\S]*?</think>',
- '', text).strip()
-            text = re.sub(r'<think>.*$', '', text, flags=re.MULTILINE).strip()
-            text = text.replace('\n', ' ').replace('\r', '')
+            text = re.sub(r'<[^>]*think[^>]*>[\s\S]*?</[^>]*>', '', text)
+            text = re.sub(r'<[^>]*think[^>]*>.*', '', text, flags=re.DOTALL)
+            text = text.replace('\n', ' ').replace('\r', '').strip()
             if text:
-                return text, model_name
-            print(f"⚠️ [{model_name}] 返回内容为空，尝试其他模型")
+                return text, config_model_name
+            print(f"⚠️ [{config_model_name}] 返回内容为空，尝试其他模型")
         except Exception as e:
-            print(f"⚠️ [{model_name}] 接口错误: {e}")
+            print(f"⚠️ [{config_model_name}] 接口错误: {e}")
             time.sleep(0.5)  # 失败后稍等再试下一个
             continue
     
@@ -189,8 +188,8 @@ def build_markdown_section(title, repos, settings, history, llm_clients, model_n
                     hist = history[name]
                     model = hist.get('model', 'Legacy') or 'Legacy'
                     summary = hist['summary']
-                    summary = re.sub(r'<think>[\s\S]*?</think>', '', summary)
-                    summary = re.sub(r'<think>.*$', '', summary, flags=re.MULTILINE).strip()
+                    summary = re.sub(r'<[^>]*think[^>]*>[\s\S]*?</[^>]*>', '', summary)
+                    summary = re.sub(r'<[^>]*think[^>]*>.*', '', summary, flags=re.DOTALL).strip()
                     final_desc = f"🤖 [{model}] {summary}"
                 elif any(llm_clients):
                     ai_sum, model_used = generate_ai_summary(llm_clients, repo, model_names)
@@ -242,13 +241,13 @@ def main():
         minimax_url = os.environ.get("MINIMAX_BASE_URL", "https://api.minimaxi.com/anthropic")
         if minimax_key:
             llm_clients[0] = OpenAI(api_key=minimax_key, base_url=minimax_url)
-            model_names[0] = os.getenv("LLM_MODEL", "MiniMax-M2.7")
+            model_names[0] = settings.get('ai_model', 'MiniMax-M2.7')
         
-        openai_key = os.environ.get("OPENAI_API_KEY")
-        openai_url = os.environ.get("OPENAI_BASE_URL")
-        if openai_key:
-            llm_clients[1] = OpenAI(api_key=openai_key, base_url=openai_url)
-            model_names[1] = settings.get('ai_model_backup', 'gpt-3.5-turbo')
+        groq_key = os.environ.get("GROQ_API_KEY")
+        groq_url = os.environ.get("GROQ_BASE_URL", "https://api.groq.com/openai/v1")
+        if groq_key:
+            llm_clients[1] = OpenAI(api_key=groq_key, base_url=groq_url)
+            model_names[1] = settings.get('ai_model_backup', 'llama-3.3-70b-versatile')
 
     # 2. 生成今日报告内容
     today_str = datetime.datetime.now().strftime("%Y-%m-%d")
