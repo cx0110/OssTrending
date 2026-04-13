@@ -1,4 +1,5 @@
 import os
+import re
 import json
 import yaml
 import time
@@ -187,7 +188,10 @@ def build_markdown_section(title, repos, settings, history, llm_clients, model_n
                 if name in history:
                     hist = history[name]
                     model = hist.get('model', 'Legacy') or 'Legacy'
-                    final_desc = f"🤖 [{model}] {hist['summary']}"
+                    summary = hist['summary']
+                    summary = re.sub(r'<think>[\s\S]*?</think>', '', summary)
+                    summary = re.sub(r'<think>.*$', '', summary, flags=re.MULTILINE).strip()
+                    final_desc = f"🤖 [{model}] {summary}"
                 elif any(llm_clients):
                     ai_sum, model_used = generate_ai_summary(llm_clients, repo, model_names)
                     if ai_sum:
