@@ -1,7 +1,7 @@
 # 📈 OSSInsight 每日精选
 
 每日自动更新 GitHub 热门项目精选，由 AI (MiniMax-M2.7 / Llama 3) 辅助分析。
-> 更新时间: 2026-04-13 15:19 UTC
+> 更新时间: 2026-04-13 15:43 UTC
 
 ## 🧠 Coding Agents (28d)
 
@@ -11,13 +11,13 @@
 | 2 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 3850 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
 | 3 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 🔥 2138 | 🤖 [Legacy] 这是一个人工智能代理工具包，提供命令行界面、API和图形界面等功能。 |
 | 4 | [block/goose](https://github.com/block/goose) | 🔥 1738 | 🤖 [Legacy] block/goose 是一个开源的 AI 代理，能够自动安装、执行、编辑和测试代码，支持多种大型语言模型。 |
-| 5 | [openai/codex](https://github.com/openai/codex) | 🔥 1522 | 🤖 [qwen/qwen3-32b] 好的，用户让我用中文一句话概括openai/codex项目的核心功能，不超过50字。首先，我需要确认这个项目到底是什么。根据描述，是“Lightweight coding agent that runs in your terminal”，也就是一个轻量级... |
+| 5 | [openai/codex](https://github.com/openai/codex) | 🔥 1522 | 🤖 [qwen/qwen3-32b]  |
 
 ## 🤖 AI Assistants (28d)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 🔥 1631 | 🤖 [qwen/qwen3-32b] 好的，用户让我用中文一句话概括Fission-AI/OpenSpec项目的核心功能，不超过50字。首先，我需要理解项目描述中的关键词：Spec-driven development (SDD) for AI coding assistants。SDD是规格... |
+| 1 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 🔥 1631 | 🤖 [qwen/qwen3-32b]  |
 
 ## 🔥 全球热榜 (24h)
 
@@ -40,7 +40,7 @@
 | :--- | :--- | :--- | :--- |
 | 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🔥 2134 | 🤖 [Legacy] Hermes-agent 是一个智能代理项目，能够随着用户的成长而不断学习和适应。 |
 | 2 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🔥 1249 | 🤖 [Legacy] 该项目是一个代码优化工具，通过简化代码语句，减少代码中的令牌数量。 |
-| 3 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 509 | 🤖 [qwen/qwen3-32b] 好的，用户让我用中文一句话概括safishamsi/graphify项目的核心功能，不超过50字。首先，我需要仔细阅读项目描述。项目名称是graphify，描述中提到Claude Code skill，可以拖放代码、论文、图片或笔记到文件夹，生成知识图谱，... |
+| 3 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 509 | 🤖 [qwen/qwen3-32b]  |
 | 4 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 🔥 319 | 🤖 [llama-3.3-70b-versatile] 该项目旨在提取和模拟任何人的思维方式，包括心智模型、决策启发式和表达特征。 |
 | 5 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 🔥 319 | 🤖 [llama-3.3-70b-versatile] VoxCPM：无需分词器的语音合成和真实语音克隆技术。 |
 | 6 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 240 | "DeepTutor: Agent-Native Personalized Learning Assistant" |
@@ -53,18 +53,16 @@
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 25500 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
-| 2 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 12103 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
-| 3 | [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) | 🔥 2632 | 🤖 [qwen/qwen3-32b] 好的，我现在要帮用户用中文一句话概括这个项目的核心功能，不超过50字。首先，我需要仔细理解项目描述。
-
-项目名称是GoClaw，是OpenClaw用Go重写的版本。描述中提到多租户隔离、五层安全、原生并发，可以大规模部署AI代理团队而不影响安全。核心功能应... |
-| 4 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 5038 | 🤖 [Legacy] 连接本地AI编码工具到多个聊天平台，让您随处与AI开发助手交流。 |
-| 5 | [PacificStudio/openase](https://github.com/PacificStudio/openase) | 🔥 190 | 🤖 [llama-3.3-70b-versatile] OpenASE是一个自动化软件工程平台，使用AI代理自动执行工作流，将票据转化为可运行的代码。 |
+| 1 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 25505 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 2 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 12116 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 3 | [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) | 🔥 2633 | 🤖 [qwen/qwen3-32b]  |
+| 4 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 5043 | 🤖 [Legacy] 连接本地AI编码工具到多个聊天平台，让您随处与AI开发助手交流。 |
+| 5 | [PacificStudio/openase](https://github.com/PacificStudio/openase) | 🔥 191 | 🤖 [llama-3.3-70b-versatile] OpenASE是一个自动化软件工程平台，使用AI代理自动执行工作流，将票据转化为可运行的代码。 |
 | 6 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 22916 | Glamourous agentic coding for all 💘 |
-| 7 | [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | 🔥 11866 | Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys. |
-| 8 | [ProjectBarks/gopher-code](https://github.com/ProjectBarks/gopher-code) | 🔥 518 | Claude Code, rewritten from scratch in Go. Zero Node.js. Zero Electron. One binary. |
-| 9 | [gastownhall/beads](https://github.com/gastownhall/beads) | 🔥 20647 | Beads - A memory upgrade for your coding agent |
-| 10 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 28077 | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
+| 7 | [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | 🔥 11868 | Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys. |
+| 8 | [ProjectBarks/gopher-code](https://github.com/ProjectBarks/gopher-code) | 🔥 519 | Claude Code, rewritten from scratch in Go. Zero Node.js. Zero Electron. One binary. |
+| 9 | [gastownhall/beads](https://github.com/gastownhall/beads) | 🔥 20649 | Beads - A memory upgrade for your coding agent |
+| 10 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 28079 | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
 
 ## 📜 TypeScript (24h)
 
