@@ -144,9 +144,10 @@ def generate_ai_summary(clients, repo, model_names):
                 timeout=20
             )
             text = response.choices[0].message.content.strip()
+            text = re.sub(r'<think>[\s\S]*?</think>',
+ '', text).strip()
+            text = re.sub(r'<think>.*$', '', text, flags=re.MULTILINE).strip()
             text = text.replace('\n', ' ').replace('\r', '')
-            # 过滤思维链标记
-            text = text.replace('<think>', '').replace('</think>', '')
             if text:
                 return text, model_name
             print(f"⚠️ [{model_name}] 返回内容为空，尝试其他模型")
@@ -184,8 +185,9 @@ def build_markdown_section(title, repos, settings, history, llm_clients, model_n
             
             if settings['enable_llm'] and idx <= settings.get('llm_top_n', 5):
                 if name in history:
-                    model = history[name].get('model', 'Unknown')
-                    final_desc = f"🤖 [{model}] {history[name]['summary']}"
+                    hist = history[name]
+                    model = hist.get('model', 'Legacy') or 'Legacy'
+                    final_desc = f"🤖 [{model}] {hist['summary']}"
                 elif any(llm_clients):
                     ai_sum, model_used = generate_ai_summary(llm_clients, repo, model_names)
                     if ai_sum:
