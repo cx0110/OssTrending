@@ -2104,41 +2104,6 @@
     "updated_at": "2026-04-07",
     "model": "Legacy"
   },
-  "openai/codex": {
-    "summary": "<think>\n好的，用户让我用中文一句话概括openai/codex项目的核心功能，不超过50字。首先，我需要确认这个项目到底是什么。根据描述，是“Lightweight coding agent that runs in your terminal”，也就是一个轻量级的代码代理，运行在终端里。\n\n用户可能希望简洁明了地传达项目的主要用途，所以需要抓住关键点：轻量级、终端运行、代码代理。可能的功能包括代码生成、调试、自动",
-    "model": "qwen/qwen3-32b",
-    "updated_at": "2026-04-08"
-  },
-  "Fission-AI/OpenSpec": {
-    "summary": "<think>\n好的，用户让我用中文一句话概括Fission-AI/OpenSpec项目的核心功能，不超过50字。首先，我需要理解项目描述中的关键词：Spec-driven development (SDD) for AI coding assistants。SDD是规格驱动开发，而AI coding assistants指的是AI编程助手，比如GitHub Copilot之类的工具。\n\n所以，这个项目应该是将规格驱动开发应用到AI编程助手中，可能是指通过规范或文档来指导AI生成代码，确保代码",
-    "model": "qwen/qwen3-32b",
-    "updated_at": "2026-04-08"
-  },
-  "safishamsi/graphify": {
-    "summary": "<think>\n好的，用户让我用中文一句话概括safishamsi/graphify项目的核心功能，不超过50字。首先，我需要仔细阅读项目描述。项目名称是graphify，描述中提到Claude Code skill，可以拖放代码、论文、图片或笔记到文件夹，生成知识图谱，包含社区检测、god节点和诚实的审计追踪。\n\n核心功能应该包括输入内容（代码、论文、图片、笔记）、处理方式（生成知识",
-    "model": "qwen/qwen3-32b",
-    "updated_at": "2026-04-08"
-  },
-  "tirth8205/code-review-graph": {
-    "summary": "<think>\n好的，我现在需要帮用户用中文一句话概括这个项目的核心功能，不超过50字。首先，我得仔细看看项目描述。项目名称是tirth8205/code-review-graph，描述里提到是Local knowledge graph for Claude Code，构建一个持久化的代码库地图，让Claude只读取相关内容，减少6.8倍的token在审查中，日常任务最多49倍。\n\n用户要求的是核心功能，所以需要抓住关键点",
-    "model": "qwen/qwen3-32b",
-    "updated_at": "2026-04-08"
-  },
-  "nextlevelbuilder/goclaw": {
-    "summary": "<think>\n好的，我现在要帮用户用中文一句话概括这个项目的核心功能，不超过50字。首先，我需要仔细理解项目描述。\n\n项目名称是GoClaw，是OpenClaw用Go重写的版本。描述中提到多租户隔离、五层安全、原生并发，可以大规模部署AI代理团队而不影响安全。核心功能应该围绕这些点。\n\n用户需要一句话，所以得抓住最关键的信息。多租户隔离和五层安全是",
-    "model": "qwen/qwen3-32b",
-    "updated_at": "2026-04-08"
-  },
-  "chenglou/pretext": {
-    "summary": "<think>\n好的，用户让我用中文一句话概括“chenglou/pretext”项目的核心功能，不超过50字。首先，我需要理解这个项目的名字和描述。项目名是pretext，描述是“Fast, accurate & comprehensive text measurement & layout”。看起来这是一个关于文本测量和布局的工具，强调速度快、准确且全面。\n\n用户需要的是核心功能的简洁概括，所以我要抓住关键点：文本测量、布局计算，以及它的优势：快速、",
-    "model": "qwen/qwen3-32b",
-    "updated_at": "2026-04-08"
-  },
-  "JCodesMore/ai-website-cloner-template": {
-    "summary": "<think>\n好的，我现在需要帮用户用中文一句话概括这个项目的核心功能，不超过50字。首先，我得仔细看看项目名称和描述。项目名称是JCodesMore/ai-website-cloner-template，描述是“Clone any website with one command using AI coding agents”。用户要求用中文，简洁，不废话。\n\n首先，核心功能是克隆网站，用AI编码代理，一条命令。我需要把这些关键点翻译成中文，并且组织成",
-    "model": "qwen/qwen3-32b",
-    "updated_at": "2026-04-08"
-  },
   "multica-ai/multica": {
     "summary": "Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。",
     "model": "llama-3.3-70b-versatile",

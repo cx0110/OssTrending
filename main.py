@@ -190,7 +190,7 @@ def build_markdown_section(title, repos, settings, history, llm_clients, model_n
                     summary = hist['summary']
                     summary = re.sub(r'<[^>]*think[^>]*>[\s\S]*?</[^>]*>', '', summary)
                     summary = re.sub(r'<[^>]*think[^>]*>.*', '', summary, flags=re.DOTALL).strip()
-                    final_desc = f"🤖 [{model}] {summary}"
+                    final_desc = f"🤖 [{model}] {summary}" if summary else raw_desc
                 elif any(llm_clients):
                     ai_sum, model_used = generate_ai_summary(llm_clients, repo, model_names)
                     if ai_sum:

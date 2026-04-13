@@ -1,33 +1,33 @@
 # 📈 OSSInsight 每日精选
 
 每日自动更新 GitHub 热门项目精选，由 AI (MiniMax-M2.7 / Llama 3) 辅助分析。
-> 更新时间: 2026-04-13 15:47 UTC
+> 更新时间: 2026-04-13 15:49 UTC
 
 ## 🧠 Coding Agents (28d)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 5354 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
-| 2 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 3850 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
-| 3 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 🔥 2138 | 🤖 [Legacy] 这是一个人工智能代理工具包，提供命令行界面、API和图形界面等功能。 |
-| 4 | [block/goose](https://github.com/block/goose) | 🔥 1738 | 🤖 [Legacy] block/goose 是一个开源的 AI 代理，能够自动安装、执行、编辑和测试代码，支持多种大型语言模型。 |
-| 5 | [openai/codex](https://github.com/openai/codex) | 🔥 1522 | 🤖 [qwen/qwen3-32b]  |
+| 1 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 5354 | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks,... |
+| 2 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 3850 | The open source coding agent. |
+| 3 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 🔥 2138 | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
+| 4 | [block/goose](https://github.com/block/goose) | 🔥 1738 | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| 5 | [openai/codex](https://github.com/openai/codex) | 🔥 1522 | Lightweight coding agent that runs in your terminal |
 
 ## 🤖 AI Assistants (28d)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 🔥 1631 | 🤖 [qwen/qwen3-32b]  |
+| 1 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 🔥 1631 | Spec-driven development (SDD) for AI coding assistants. |
 
 ## 🔥 全球热榜 (24h)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🔥 2170 | 🤖 [Legacy] Hermes-agent 是一个智能代理项目，能够随着用户的成长而不断学习和适应。 |
-| 2 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🔥 1266 | 🤖 [Legacy] 该项目是一个代码优化工具，通过简化代码语句，减少代码中的令牌数量。 |
+| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🔥 2170 | The agent that grows with you |
+| 2 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🔥 1266 | 🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman |
 | 3 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 🔥 619 | ⛔ [无描述]  |
-| 4 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 🔥 546 | 🤖 [llama-3.3-70b-versatile] 张雪峰的认知操作系统，提供高考志愿、考研、职业规划的实战思维框架。 |
-| 5 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 🔥 567 | 🤖 [Legacy] 该项目收集了流行网站的设计系统文档，方便开发者快速构建匹配的UI界面。 |
+| 4 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 🔥 546 | 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。 |
+| 5 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 🔥 567 | Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI. |
 | 6 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 559 | Multica turns coding agents into real teammates. Assign issues to an agent like you'd assign to a colleague — they'll pick up the work, write code,... |
 | 7 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 519 | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers,... |
 | 8 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 🔥 431 | practice made claude perfect |
@@ -38,11 +38,11 @@
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🔥 2134 | 🤖 [Legacy] Hermes-agent 是一个智能代理项目，能够随着用户的成长而不断学习和适应。 |
-| 2 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🔥 1249 | 🤖 [Legacy] 该项目是一个代码优化工具，通过简化代码语句，减少代码中的令牌数量。 |
-| 3 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 509 | 🤖 [qwen/qwen3-32b]  |
-| 4 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 🔥 319 | 🤖 [llama-3.3-70b-versatile] 该项目旨在提取和模拟任何人的思维方式，包括心智模型、决策启发式和表达特征。 |
-| 5 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 🔥 319 | 🤖 [llama-3.3-70b-versatile] VoxCPM：无需分词器的语音合成和真实语音克隆技术。 |
+| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 🔥 2134 | The agent that grows with you |
+| 2 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 🔥 1249 | 🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman |
+| 3 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 509 | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers,... |
+| 4 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 🔥 319 | 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks. |
+| 5 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 🔥 319 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
 | 6 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 240 | "DeepTutor: Agent-Native Personalized Learning Assistant" |
 | 7 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 🔥 199 | Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews an... |
 | 8 | [coleam00/Archon](https://github.com/coleam00/Archon) | 🔥 181 | Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants. |
@@ -53,11 +53,11 @@
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 25506 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
-| 2 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 12117 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
-| 3 | [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) | 🔥 2633 | 🤖 [qwen/qwen3-32b]  |
-| 4 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 5043 | 🤖 [Legacy] 连接本地AI编码工具到多个聊天平台，让您随处与AI开发助手交流。 |
-| 5 | [PacificStudio/openase](https://github.com/PacificStudio/openase) | 🔥 191 | 🤖 [llama-3.3-70b-versatile] OpenASE是一个自动化软件工程平台，使用AI代理自动执行工作流，将票据转化为可运行的代码。 |
+| 1 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 25507 | Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to... |
+| 2 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 12118 | Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 3 | [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) | 🔥 2633 | GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale w... |
+| 4 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 5043 | Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LIN... |
+| 5 | [PacificStudio/openase](https://github.com/PacificStudio/openase) | 🔥 191 | Ticket-Driven Automated Software Engineering. OpenASE is an all-in-one platform that turns tickets into working code — AI agents automatically pick... |
 | 6 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 22916 | Glamourous agentic coding for all 💘 |
 | 7 | [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | 🔥 11869 | Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys. |
 | 8 | [ProjectBarks/gopher-code](https://github.com/ProjectBarks/gopher-code) | 🔥 519 | Claude Code, rewritten from scratch in Go. Zero Node.js. Zero Electron. One binary. |
@@ -68,11 +68,11 @@
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 🔥 531 | 🤖 [Legacy] Claude Mem 插件自动记录和压缩代码编辑过程，并在未来会话中提供相关上下文。 |
-| 2 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 443 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
-| 3 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 🔥 183 | 🤖 [Legacy] 开源屏幕录制工具，免费创建演示，无水印，无订阅，无商用限制。 |
-| 4 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 🔥 157 | 🤖 [Legacy] 该项目为代码库添加钩子、智能代理、HUD等功能，增强代码管理和开发体验。 |
-| 5 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 🔥 141 | 🤖 [Legacy] 该项目是一个使用Bash构建的微型Claude Code智能代理。 |
+| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 🔥 531 | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sd... |
+| 2 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 443 | Multica turns coding agents into real teammates. Assign issues to an agent like you'd assign to a colleague — they'll pick up the work, write code,... |
+| 3 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 🔥 183 | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  |
+| 4 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 🔥 157 | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. |
+| 5 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 🔥 141 | Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1 |
 | 6 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 150 | The open-source voice synthesis studio |
 | 7 | [snarktank/ralph](https://github.com/snarktank/ralph) | 🔥 145 | Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.  |
 | 8 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 🔥 136 | Clone any website with one command using AI coding agents |
