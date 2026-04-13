@@ -1,7 +1,7 @@
 # 📈 OSSInsight 每日精选
 
 每日自动更新 GitHub 热门项目精选，由 AI (MiniMax-M2.7 / Llama 3) 辅助分析。
-> 更新时间: 2026-04-13 15:43 UTC
+> 更新时间: 2026-04-13 15:47 UTC
 
 ## 🧠 Coding Agents (28d)
 
@@ -53,13 +53,13 @@
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 25505 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
-| 2 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 12116 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 1 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 25506 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 2 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 12117 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
 | 3 | [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) | 🔥 2633 | 🤖 [qwen/qwen3-32b]  |
 | 4 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 5043 | 🤖 [Legacy] 连接本地AI编码工具到多个聊天平台，让您随处与AI开发助手交流。 |
 | 5 | [PacificStudio/openase](https://github.com/PacificStudio/openase) | 🔥 191 | 🤖 [llama-3.3-70b-versatile] OpenASE是一个自动化软件工程平台，使用AI代理自动执行工作流，将票据转化为可运行的代码。 |
 | 6 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 22916 | Glamourous agentic coding for all 💘 |
-| 7 | [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | 🔥 11868 | Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys. |
+| 7 | [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | 🔥 11869 | Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys. |
 | 8 | [ProjectBarks/gopher-code](https://github.com/ProjectBarks/gopher-code) | 🔥 519 | Claude Code, rewritten from scratch in Go. Zero Node.js. Zero Electron. One binary. |
 | 9 | [gastownhall/beads](https://github.com/gastownhall/beads) | 🔥 20649 | Beads - A memory upgrade for your coding agent |
 | 10 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 28079 | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
