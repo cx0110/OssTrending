@@ -1,7 +1,7 @@
 # 📈 OSSInsight 每日精选
 
 每日自动更新 GitHub 热门项目精选，由 AI (MiniMax-M2.7 / Llama 3) 辅助分析。
-> 更新时间: 2026-04-13 02:33 UTC
+> 更新时间: 2026-04-13 14:59 UTC
 
 ## 🧠 Coding Agents (28d)
 
@@ -56,35 +56,34 @@
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 25331 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
-| 2 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 11965 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
-| 3 | [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | 🔥 26317 | 🤖 [llama-3.3-70b-versatile] 该项目是一个统一的AI模型中心，支持将多种LLM模型转换为兼容OpenAI、Claude或Gemini格式。 |
-| 4 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 4993 | 🤖 [Legacy] 连接本地AI编码工具到多个聊天平台，让您随处与AI开发助手交流。 |
-| 5 | [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) | 🔥 2596 | 🤖 [qwen/qwen3-32b] <think>
+| 1 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 25492 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
+| 2 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 12091 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
+| 3 | [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) | 🔥 2632 | 🤖 [qwen/qwen3-32b] <think>
 好的，我现在要帮用户用中文一句话概括这个项目的核心功能，不超过50字。首先，我需要仔细理解项目描述。
 
 项目名称是GoClaw，是OpenClaw用Go重写的版本。描述中提到多租户隔离、五层安全、原生并发，可以大规模部署AI代理团队而不影响... |
-| 6 | [steipete/wacli](https://github.com/steipete/wacli) | 🔥 909 | WhatsApp CLI |
-| 7 | [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) | 🔥 14457 | MCP Toolbox for Databases is an open source MCP server for databases. |
-| 8 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 🔥 544 | Nornicdb is a low-latency, Graph + Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and writes. Uses Neo4j Bolt/Cypher and qdran... |
-| 9 | [gastownhall/gastown](https://github.com/gastownhall/gastown) | 🔥 13910 | Gas Town - multi-agent workspace manager |
-| 10 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 28059 | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
+| 4 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 5035 | 🤖 [Legacy] 连接本地AI编码工具到多个聊天平台，让您随处与AI开发助手交流。 |
+| 5 | [PacificStudio/openase](https://github.com/PacificStudio/openase) | 🔥 190 | 🤖 [llama-3.3-70b-versatile] OpenASE是一个自动化软件工程平台，使用AI代理自动执行工作流，将票据转化为可运行的代码。 |
+| 6 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | 🔥 22914 | Glamourous agentic coding for all 💘 |
+| 7 | [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) | 🔥 11863 | Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys. |
+| 8 | [ProjectBarks/gopher-code](https://github.com/ProjectBarks/gopher-code) | 🔥 518 | Claude Code, rewritten from scratch in Go. Zero Node.js. Zero Electron. One binary. |
+| 9 | [gastownhall/beads](https://github.com/gastownhall/beads) | 🔥 20645 | Beads - A memory upgrade for your coding agent |
+| 10 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | 🔥 28078 | Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity |
 
 ## 📜 TypeScript (24h)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 512 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
-| 2 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 🔥 184 | 🤖 [qwen/qwen3-32b] <think>
-好的，我现在需要帮用户用中文一句话概括这个项目的核心功能，不超过50字。首先，我得仔细看看项目名称和描述。项目名称是JCodesMore/ai-website-cloner-template，描述是“Clone any website wi... |
-| 3 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 🔥 193 | 🤖 [Legacy] Claude Mem 插件自动记录和压缩代码编辑过程，并在未来会话中提供相关上下文。 |
-| 4 | [getpaseo/paseo](https://github.com/getpaseo/paseo) | 🔥 191 | 🤖 [llama-3.3-70b-versatile] 远程管理代理人，支持手机、桌面和命令行界面。 |
-| 5 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 🔥 151 | 🤖 [Legacy] 开源屏幕录制工具，免费创建演示，无水印，无订阅，无商用限制。 |
-| 6 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 🔥 137 | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. |
-| 7 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 🔥 101 | GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Dr... |
-| 8 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 🔥 34776 | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
-| 9 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 🔥 52152 | Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1 |
-| 10 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 🔥 2620 | OmniRoute is an AI gateway for multi-provider LLMs: an OpenAI-compatible endpoint with smart routing, load balancing, retries, and fallbacks. Add p... |
+| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 🔥 531 | 🤖 [Legacy] Claude Mem 插件自动记录和压缩代码编辑过程，并在未来会话中提供相关上下文。 |
+| 2 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 443 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
+| 3 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 🔥 183 | 🤖 [Legacy] 开源屏幕录制工具，免费创建演示，无水印，无订阅，无商用限制。 |
+| 4 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 🔥 157 | 🤖 [Legacy] 该项目为代码库添加钩子、智能代理、HUD等功能，增强代码管理和开发体验。 |
+| 5 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 🔥 141 | 🤖 [Legacy] 该项目是一个使用Bash构建的微型Claude Code智能代理。 |
+| 6 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔥 150 | The open-source voice synthesis studio |
+| 7 | [snarktank/ralph](https://github.com/snarktank/ralph) | 🔥 145 | Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.  |
+| 8 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 🔥 136 | Clone any website with one command using AI coding agents |
+| 9 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 🔥 120 | Chrome DevTools for coding agents |
+| 10 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 🔥 106 | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
 
 
 

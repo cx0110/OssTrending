@@ -2193,5 +2193,10 @@
     "summary": "远程管理代理人，支持手机、桌面和命令行界面。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-04-13"
+  },
+  "PacificStudio/openase": {
+    "summary": "OpenASE是一个自动化软件工程平台，使用AI代理自动执行工作流，将票据转化为可运行的代码。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-04-13"
   }
 }
