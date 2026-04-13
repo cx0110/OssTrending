@@ -200,6 +200,8 @@ def build_markdown_section(title, repos, settings, history, llm_clients, model_n
                             "model": model_used,
                             "updated_at": datetime.datetime.now().strftime("%Y-%m-%d")
                         }
+                    else:
+                        final_desc = raw_desc
                     time.sleep(1.5)
         
         if len(final_desc) > 150:
