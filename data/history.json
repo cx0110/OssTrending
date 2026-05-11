@@ -2163,5 +2163,55 @@
     "summary": "OpenASE是一个自动化软件工程平台，使用AI代理自动执行工作流，将票据转化为可运行的代码。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-04-13"
+  },
+  "openai/codex": {
+    "summary": "该项目是一个轻量级的编码代理，能够在终端运行，提供编码辅助功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-11"
+  },
+  "Fission-AI/OpenSpec": {
+    "summary": "该项目实现了基于规格的开发，用于AI编码助手，提高代码质量和效率。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-11"
+  },
+  "CloakHQ/CloakBrowser": {
+    "summary": "CloakHQ/CloakBrowser是一个隐身的Chromium浏览器，能通过所有机器人检测测试。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-11"
+  },
+  "decolua/9router": {
+    "summary": "该项目提供免费的AI编码服务，连接多个AI工具，实现自动fallback和RTK优化，避免限额限制。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-11"
+  },
+  "HKUDS/AI-Trader": {
+    "summary": "AI-Trader是一个100%全自动的智能交易系统，实现无人干预的交易操作。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-11"
+  },
+  "AIDC-AI/Pixelle-Video": {
+    "summary": "该项目是一款AI全自动短视频引擎，能够自动生成短视频。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-11"
+  },
+  "hyperion-cs/dpi-checkers": {
+    "summary": "该项目提供工具检查互联网服务提供商是否存在审查和封锁。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-11"
+  },
+  "ruvnet/ruflo": {
+    "summary": "该项目是一个智能多代理编排平台，支持部署智能代理群、协调自主工作流和构建对话式AI系统。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-11"
+  },
+  "rohitg00/agentmemory": {
+    "summary": "该项目为AI编码代理提供了基于真实世界基准的持久内存。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-11"
+  },
+  "fathah/hermes-desktop": {
+    "summary": "Hermes桌面伴侣是一个为Hermes智能代理提供的桌面应用程序。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-11"
   }
 }
