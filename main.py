@@ -7,11 +7,9 @@ import requests
 import datetime
 from pathlib import Path
 from openai import OpenAI
-import anthropic
 
 # === 1. 配置与初始化 ===
 def load_config():
-    # 如果配置文件不存在，提供默认值
     if not os.path.exists("config.yaml"):
         return {
             "settings": {
@@ -24,15 +22,14 @@ def load_config():
             },
             "collections": []
         }
-        
+
     with open("config.yaml", "r", encoding="utf-8") as f:
         config = yaml.safe_load(f)
-    
-    # 环境变量覆盖 (支持 GitHub Actions)
+
     env_enable_llm = os.environ.get("ENABLE_LLM")
     if env_enable_llm is not None:
         config['settings']['enable_llm'] = (env_enable_llm.lower() == 'true')
-        
+
     return config
 
 # === 2. 历史缓存管理 (省钱核心) ===
@@ -115,8 +112,8 @@ def should_filter(repo, filters, total_stars_cache={}):
 
     return False, ""
 
-# === 5. AI 摘要生成 (MiniMax 优先，失败则用 OpenAI/Groq) ===
-def generate_ai_summary(minimax_client, minimax_model, openai_client, openai_model, repo):
+# === 5. AI 摘要生成 (Groq 多模型轮询，失败自动切换) ===
+def generate_ai_summary(client, models, repo):
     name = repo['repo_name']
     desc = repo.get('description', '')
     prompt = (
@@ -125,28 +122,10 @@ def generate_ai_summary(minimax_client, minimax_model, openai_client, openai_mod
         "请用中文一句话概括这个项目的核心功能，不要废话，不超过50字。"
     )
 
-    if minimax_client and minimax_model:
+    for model in models:
         try:
-            message = minimax_client.messages.create(
-                model=minimax_model,
-                max_tokens=100,
-                system="你是一个技术专家。",
-                messages=[{"role": "user", "content": prompt}],
-                timeout=20
-            )
-            text = message.content[0].text.strip()
-            text = re.sub(r'<[^>]*think[^>]*>[\s\S]*?</[^>]*>', '', text)
-            text = re.sub(r'<[^>]*think[^>]*>.*', '', text, flags=re.DOTALL)
-            text = text.replace('\n', ' ').replace('\r', '').strip()
-            if text:
-                return text, minimax_model
-        except Exception as e:
-            print(f"⚠️ [{minimax_model}] 接口错误: {e}")
-
-    if openai_client and openai_model:
-        try:
-            response = openai_client.chat.completions.create(
-                model=openai_model,
+            response = client.chat.completions.create(
+                model=model,
                 messages=[
                     {"role": "system", "content": "你是一个技术专家。"},
                     {"role": "user", "content": prompt}
@@ -160,14 +139,15 @@ def generate_ai_summary(minimax_client, minimax_model, openai_client, openai_mod
             text = re.sub(r'<[^>]*think[^>]*>.*', '', text, flags=re.DOTALL)
             text = text.replace('\n', ' ').replace('\r', '').strip()
             if text:
-                return text, openai_model
+                return text, model
+            print(f"⚠️ [{model}] 返回内容为空，尝试下一个模型")
         except Exception as e:
-            print(f"⚠️ [{openai_model}] 接口错误: {e}")
+            print(f"⚠️ [{model}] 接口错误: {e}")
 
     return "", ""
 
 # === 6. Markdown 内容构建 ===
-def build_markdown_section(title, repos, settings, history, minimax_client, minimax_model, openai_client, openai_model):
+def build_markdown_section(title, repos, settings, history, groq_client, groq_models):
     section = f"## {title}\n\n"
     section += "| 排名 | 项目 | Stars | 简介 (AI/Raw) |\n"
     section += "| :--- | :--- | :--- | :--- |\n"
@@ -199,8 +179,8 @@ def build_markdown_section(title, repos, settings, history, minimax_client, mini
                     summary = re.sub(r'<[^>]*think[^>]*>[\s\S]*?</[^>]*>', '', summary)
                     summary = re.sub(r'<[^>]*think[^>]*>.*', '', summary, flags=re.DOTALL).strip()
                     final_desc = f"🤖 [{model}] {summary}" if summary else raw_desc
-                elif minimax_client or openai_client:
-                    ai_sum, model_used = generate_ai_summary(minimax_client, minimax_model, openai_client, openai_model, repo)
+                elif groq_client and groq_models:
+                    ai_sum, model_used = generate_ai_summary(groq_client, groq_models, repo)
                     if ai_sum:
                         final_desc = f"🤖 [{model_used}] {ai_sum}"
                         history[name] = {
@@ -243,28 +223,15 @@ def main():
     settings = config['settings']
     history = load_history(settings['history_file'])
 
-    minimax_client = None
-    minimax_model = ""
-    openai_client = None
-    openai_model = ""
+    groq_client = None
+    groq_models = []
 
     if settings['enable_llm']:
-        minimax_api_key = os.environ.get("MINIMAX_API_KEY")
-        if minimax_api_key:
-            minimax_client = anthropic.Anthropic(
-                api_key=minimax_api_key,
-                base_url=os.environ.get("ANTHROPIC_BASE_URL", "https://api.minimaxi.com/anthropic")
-            )
-            minimax_model = os.getenv("LLM_MODEL", "MiniMax-M2.7")
-
-        openai_api_key = os.environ.get("OPENAI_API_KEY")
-        openai_base_url = os.environ.get("OPENAI_BASE_URL")
-        if openai_api_key:
-            openai_kwargs = {"api_key": openai_api_key}
-            if openai_base_url:
-                openai_kwargs["base_url"] = openai_base_url
-            openai_client = OpenAI(**openai_kwargs)
-            openai_model = settings.get('ai_model_backup', 'llama-3.3-70b-versatile')
+        groq_api_key = os.environ.get("OPENAI_API_KEY")
+        groq_base_url = os.environ.get("OPENAI_BASE_URL")
+        if groq_api_key and groq_base_url:
+            groq_client = OpenAI(api_key=groq_api_key, base_url=groq_base_url)
+        groq_models = settings.get('groq_models', ['llama-3.3-70b-versatile'])
 
     # 2. 生成今日报告内容
     today_str = datetime.datetime.now().strftime("%Y-%m-%d")
@@ -285,7 +252,7 @@ def main():
             repos = fetch_trending(col['language'], col['period'], limit=limit)
         
         if repos:
-            section_md = build_markdown_section(col['title'], repos, settings, history, minimax_client, minimax_model, openai_client, openai_model)
+            section_md = build_markdown_section(col['title'], repos, settings, history, groq_client, groq_models)
             report_content += section_md + "\n"
         time.sleep(1)
 

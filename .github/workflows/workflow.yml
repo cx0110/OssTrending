@@ -26,12 +26,9 @@ jobs:
       - name: Run Script
         env:
           TZ: 'Asia/Shanghai'
-          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
-          ANTHROPIC_BASE_URL: ${{ secrets.ANTHROPIC_BASE_URL }}
+          ENABLE_LLM: ${{ vars.ENABLE_LLM || 'true' }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
-          LLM_MODEL: ${{ vars.LLM_MODEL || 'MiniMax-M2.7' }}
-          ENABLE_LLM: ${{ vars.ENABLE_LLM || 'true' }}
         run: python main.py
 
       - name: Commit & Push
