@@ -27,9 +27,10 @@ jobs:
         env:
           TZ: 'Asia/Shanghai'
           MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
-          MINIMAX_BASE_URL: ${{ secrets.MINIMAX_BASE_URL }}
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          GROQ_BASE_URL: ${{ secrets.GROQ_BASE_URL }}
+          ANTHROPIC_BASE_URL: ${{ secrets.ANTHROPIC_BASE_URL }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
+          LLM_MODEL: ${{ vars.LLM_MODEL || 'MiniMax-M2.7' }}
           ENABLE_LLM: ${{ vars.ENABLE_LLM || 'true' }}
         run: python main.py
 

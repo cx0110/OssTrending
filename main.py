@@ -7,6 +7,7 @@ import requests
 import datetime
 from pathlib import Path
 from openai import OpenAI
+import anthropic
 
 # === 1. 配置与初始化 ===
 def load_config():
@@ -114,10 +115,8 @@ def should_filter(repo, filters, total_stars_cache={}):
 
     return False, ""
 
-# === 5. AI 摘要生成 (随机顺序调用) ===
-def generate_ai_summary(clients, repo, model_names):
-    import random
-    
+# === 5. AI 摘要生成 (MiniMax 优先，失败则用 OpenAI/Groq) ===
+def generate_ai_summary(minimax_client, minimax_model, openai_client, openai_model, repo):
     name = repo['repo_name']
     desc = repo.get('description', '')
     prompt = (
@@ -125,17 +124,29 @@ def generate_ai_summary(clients, repo, model_names):
         f"描述: {desc}\n"
         "请用中文一句话概括这个项目的核心功能，不要废话，不超过50字。"
     )
-    
-    available = [(c, m) for c, m in zip(clients, model_names) if c]
-    if not available:
-        return "", ""
-    
-    random.shuffle(available)
-    
-    for client, model_name in available:
+
+    if minimax_client and minimax_model:
         try:
-            response = client.chat.completions.create(
-                model=model_name,
+            message = minimax_client.messages.create(
+                model=minimax_model,
+                max_tokens=100,
+                system="你是一个技术专家。",
+                messages=[{"role": "user", "content": prompt}],
+                timeout=20
+            )
+            text = message.content[0].text.strip()
+            text = re.sub(r'<[^>]*think[^>]*>[\s\S]*?</[^>]*>', '', text)
+            text = re.sub(r'<[^>]*think[^>]*>.*', '', text, flags=re.DOTALL)
+            text = text.replace('\n', ' ').replace('\r', '').strip()
+            if text:
+                return text, minimax_model
+        except Exception as e:
+            print(f"⚠️ [{minimax_model}] 接口错误: {e}")
+
+    if openai_client and openai_model:
+        try:
+            response = openai_client.chat.completions.create(
+                model=openai_model,
                 messages=[
                     {"role": "system", "content": "你是一个技术专家。"},
                     {"role": "user", "content": prompt}
@@ -149,17 +160,14 @@ def generate_ai_summary(clients, repo, model_names):
             text = re.sub(r'<[^>]*think[^>]*>.*', '', text, flags=re.DOTALL)
             text = text.replace('\n', ' ').replace('\r', '').strip()
             if text:
-                return text, config_model_name
-            print(f"⚠️ [{config_model_name}] 返回内容为空，尝试其他模型")
+                return text, openai_model
         except Exception as e:
-            print(f"⚠️ [{config_model_name}] 接口错误: {e}")
-            time.sleep(0.5)  # 失败后稍等再试下一个
-            continue
-    
+            print(f"⚠️ [{openai_model}] 接口错误: {e}")
+
     return "", ""
 
 # === 6. Markdown 内容构建 ===
-def build_markdown_section(title, repos, settings, history, llm_clients, model_names):
+def build_markdown_section(title, repos, settings, history, minimax_client, minimax_model, openai_client, openai_model):
     section = f"## {title}\n\n"
     section += "| 排名 | 项目 | Stars | 简介 (AI/Raw) |\n"
     section += "| :--- | :--- | :--- | :--- |\n"
@@ -172,17 +180,17 @@ def build_markdown_section(title, repos, settings, history, llm_clients, model_n
         url = f"https://github.com/{name}"
         stars = repo.get('stars', 0)
         raw_desc = repo.get('description', '').replace('|', r'\|').replace('\n', ' ')
-        
+
         display_stars = stars
         final_desc = raw_desc
         is_filtered, filter_reason = should_filter(repo, filters, total_stars_cache)
-        
+
         if is_filtered:
             final_desc = f"⛔ [{filter_reason}] {final_desc}"
         else:
             if name in total_stars_cache and total_stars_cache[name] > stars:
                 display_stars = total_stars_cache[name]
-            
+
             if settings['enable_llm'] and idx <= settings.get('llm_top_n', 5):
                 if name in history:
                     hist = history[name]
@@ -191,8 +199,8 @@ def build_markdown_section(title, repos, settings, history, llm_clients, model_n
                     summary = re.sub(r'<[^>]*think[^>]*>[\s\S]*?</[^>]*>', '', summary)
                     summary = re.sub(r'<[^>]*think[^>]*>.*', '', summary, flags=re.DOTALL).strip()
                     final_desc = f"🤖 [{model}] {summary}" if summary else raw_desc
-                elif any(llm_clients):
-                    ai_sum, model_used = generate_ai_summary(llm_clients, repo, model_names)
+                elif minimax_client or openai_client:
+                    ai_sum, model_used = generate_ai_summary(minimax_client, minimax_model, openai_client, openai_model, repo)
                     if ai_sum:
                         final_desc = f"🤖 [{model_used}] {ai_sum}"
                         history[name] = {
@@ -203,12 +211,12 @@ def build_markdown_section(title, repos, settings, history, llm_clients, model_n
                     else:
                         final_desc = raw_desc
                     time.sleep(1.5)
-        
+
         if len(final_desc) > 150:
             final_desc = final_desc[:147] + "..."
 
         section += f"| {idx} | [{name}]({url}) | 🔥 {display_stars} | {final_desc} |\n"
-    
+
     return section
 
 
@@ -234,22 +242,29 @@ def main():
     config = load_config()
     settings = config['settings']
     history = load_history(settings['history_file'])
-    
-    llm_clients = [None, None]
-    model_names = ["", ""]
-    
+
+    minimax_client = None
+    minimax_model = ""
+    openai_client = None
+    openai_model = ""
+
     if settings['enable_llm']:
-        minimax_key = os.environ.get("MINIMAX_API_KEY")
-        minimax_url = os.environ.get("MINIMAX_BASE_URL", "https://api.minimaxi.com/anthropic")
-        if minimax_key:
-            llm_clients[0] = OpenAI(api_key=minimax_key, base_url=minimax_url)
-            model_names[0] = settings.get('ai_model', 'MiniMax-M2.7')
-        
-        groq_key = os.environ.get("GROQ_API_KEY")
-        groq_url = os.environ.get("GROQ_BASE_URL", "https://api.groq.com/openai/v1")
-        if groq_key:
-            llm_clients[1] = OpenAI(api_key=groq_key, base_url=groq_url)
-            model_names[1] = settings.get('ai_model_backup', 'llama-3.3-70b-versatile')
+        minimax_api_key = os.environ.get("MINIMAX_API_KEY")
+        if minimax_api_key:
+            minimax_client = anthropic.Anthropic(
+                api_key=minimax_api_key,
+                base_url=os.environ.get("ANTHROPIC_BASE_URL", "https://api.minimaxi.com/anthropic")
+            )
+            minimax_model = os.getenv("LLM_MODEL", "MiniMax-M2.7")
+
+        openai_api_key = os.environ.get("OPENAI_API_KEY")
+        openai_base_url = os.environ.get("OPENAI_BASE_URL")
+        if openai_api_key:
+            openai_kwargs = {"api_key": openai_api_key}
+            if openai_base_url:
+                openai_kwargs["base_url"] = openai_base_url
+            openai_client = OpenAI(**openai_kwargs)
+            openai_model = settings.get('ai_model_backup', 'llama-3.3-70b-versatile')
 
     # 2. 生成今日报告内容
     today_str = datetime.datetime.now().strftime("%Y-%m-%d")
@@ -270,7 +285,7 @@ def main():
             repos = fetch_trending(col['language'], col['period'], limit=limit)
         
         if repos:
-            section_md = build_markdown_section(col['title'], repos, settings, history, llm_clients, model_names)
+            section_md = build_markdown_section(col['title'], repos, settings, history, minimax_client, minimax_model, openai_client, openai_model)
             report_content += section_md + "\n"
         time.sleep(1)
 
