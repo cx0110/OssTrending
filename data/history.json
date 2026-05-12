@@ -2213,5 +2213,25 @@
     "summary": "Hermes桌面伴侣是一个为Hermes智能代理提供的桌面应用程序。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-05-11"
+  },
+  "floci-io/floci": {
+    "summary": "Floci是一个轻量级的本地AWS模拟器，用于测试和开发AWS应用程序。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-13"
+  },
+  "crynta/terax-ai": {
+    "summary": "这是一个基于Rust、Tauri和React的轻量级（7MB）AI终端模拟器。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-13"
+  },
+  "safishamsi/graphify": {
+    "summary": "将代码、文档、论文或图片转化为可查询的知识图谱。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-13"
+  },
+  "kunchenguid/no-mistakes": {
+    "summary": "该项目“no-mistakes”旨在防止Git推送错误。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-13"
   }
 }
