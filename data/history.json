@@ -2248,5 +2248,25 @@
     "summary": "利用人工智能技术赚取收益。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-05-14"
+  },
+  "K-Dense-AI/scientific-agent-skills": {
+    "summary": "该项目提供一套可用的智能代理技能，用于研究、科学、工程、分析、金融和写作等领域。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-15"
+  },
+  "tracewayapp/traceway": {
+    "summary": "该项目是一个问题追踪和解决工具，帮助用户了解问题发生的原因并提供解决方案。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-15"
+  },
+  "CJackHwang/ds2api": {
+    "summary": "Deepseek客户端转API全栈开源工具，支持多账号轮询和多接口格式兼容。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-15"
+  },
+  "millionco/react-doctor": {
+    "summary": "该项目让编码代理诊断和修复React代码。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-15"
   }
 }
