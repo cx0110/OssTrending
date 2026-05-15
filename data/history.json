@@ -2268,5 +2268,35 @@
     "summary": "该项目让编码代理诊断和修复React代码。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-05-15"
+  },
+  "Hmbown/DeepSeek-TUI": {
+    "summary": "DeepSeek-TUI是一个终端用户界面，用于运行DeepSeek模型的编码代理。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-16"
+  },
+  "antirez/ds4": {
+    "summary": "DeepSeek 4 是一个本地推理引擎，支持 Metal 和 CUDA，用于闪存。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-16"
+  },
+  "debpalash/OmniVoice-Studio": {
+    "summary": "这是一个开源的本地语音克隆、设计、创作、配音和听写的桌面应用。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-16"
+  },
+  "Yuan1z0825/nature-skills": {
+    "summary": "该项目提供符合nature论文学术表达和科研绘图的技能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-16"
+  },
+  "dograh-hq/dograh": {
+    "summary": "开源语音代理平台，提供语音交互和控制功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-16"
+  },
+  "larksuite/cli": {
+    "summary": "Lark/Feishu官方CLI工具，涵盖Messenger、Docs、Base等核心业务域，提供200+命令和20+AI技能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-16"
   }
 }
