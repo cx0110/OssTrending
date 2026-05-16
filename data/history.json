@@ -2298,5 +2298,35 @@
     "summary": "Lark/Feishu官方CLI工具，涵盖Messenger、Docs、Base等核心业务域，提供200+命令和20+AI技能。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-05-16"
+  },
+  "neilsonnn/image-blaster": {
+    "summary": "该项目是一个图像到现实世界的技能集，用于Claude，实现图像识别和处理。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-17"
+  },
+  "jackwener/OpenCLI": {
+    "summary": "该项目可以将任何网站或工具转化为标准的命令行接口。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-17"
+  },
+  "joeseesun/qiaomu-anything-to-notebooklm": {
+    "summary": "该项目是一个多源内容处理器，支持多种格式的内容转换为NotebookLM格式。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-17"
+  },
+  "Imbad0202/academic-research-skills": {
+    "summary": "该项目旨在指导学术研究技能，包括研究、写作、审查、修订和最终完成。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-17"
+  },
+  "bruin-data/dac": {
+    "summary": "dac 是一个基于 YAML 和 JSX 的仪表板构建工具，提供交互式仪表板和内置语义层。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-17"
+  },
+  "colbymchenry/codegraph": {
+    "summary": "该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-17"
   }
 }
