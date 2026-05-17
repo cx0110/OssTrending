@@ -2328,5 +2328,15 @@
     "summary": "该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-05-17"
+  },
+  "compozy/compozy": {
+    "summary": "Compozy是一个AI辅助开发平台，驱动从想法到发布代码的整个生命周期。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-18"
+  },
+  "Tencent/TencentDB-Agent-Memory": {
+    "summary": "腾讯智能代理内存项目，为AI代理提供四层进阶管道的本地长期内存，实现零外部API依赖。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-18"
   }
 }
