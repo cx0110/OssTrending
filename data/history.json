@@ -2338,5 +2338,30 @@
     "summary": "腾讯智能代理内存项目，为AI代理提供四层进阶管道的本地长期内存，实现零外部API依赖。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-05-18"
+  },
+  "MinishLab/semble": {
+    "summary": "MinishLab/semble是一个快速准确的代码搜索工具，使用令牌数远少于传统的grep+read方法。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-19"
+  },
+  "rmyndharis/OpenWA": {
+    "summary": "OpenWA 是一个免费、开源的自托管 WhatsApp API 网关。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-19"
+  },
+  "HKUDS/CLI-Anything": {
+    "summary": "CLI-Anything是一个开源项目，旨在将所有软件转化为命令行界面（CLI）形式，实现无缝集成和控制。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-19"
+  },
+  "BigBodyCobain/Shadowbroker": {
+    "summary": "该项目是一个开源情报平台，统一跟踪全球私人飞机、间谍卫星和地震事件等信息。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-19"
+  },
+  "tech-leads-club/agent-skills": {
+    "summary": "该项目是一个安全、验证的技能注册表，用于专业AI编码代理，扩展多个AI工具的功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-19"
   }
 }
