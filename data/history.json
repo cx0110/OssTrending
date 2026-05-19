@@ -2363,5 +2363,10 @@
     "summary": "该项目是一个安全、验证的技能注册表，用于专业AI编码代理，扩展多个AI工具的功能。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-05-19"
+  },
+  "harnessclaw/harnessclaw-engine": {
+    "summary": "该项目是一个LLM编程助手引擎，支持WebSocket、多轮对话、工具调用、权限控制和技能扩展。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-20"
   }
 }
