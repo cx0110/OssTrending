@@ -2368,5 +2368,15 @@
     "summary": "该项目是一个LLM编程助手引擎，支持WebSocket、多轮对话、工具调用、权限控制和技能扩展。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-05-20"
+  },
+  "wiltodelta/remove-ai-watermarks": {
+    "summary": "该项目是一个CLI工具和库，用于从图像中删除可见和不可见的AI水印。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-21"
+  },
+  "tashfeenahmed/freellmapi": {
+    "summary": "该项目是一个聚合了14个AI提供商免费版密钥的OpenAI兼容代理，具有自动故障转移功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-21"
   }
 }
