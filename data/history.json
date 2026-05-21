@@ -2378,5 +2378,25 @@
     "summary": "该项目是一个聚合了14个AI提供商免费版密钥的OpenAI兼容代理，具有自动故障转移功能。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-05-21"
+  },
+  "rohitg00/ai-engineering-from-scratch": {
+    "summary": "该项目旨在从零开始学习、构建和部署人工智能工程。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-22"
+  },
+  "DioCrafts/OpenFoundry": {
+    "summary": "连接任意数据源，构建本体，创建管道，数据可视化，并进行AI决策。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-22"
+  },
+  "ShahabSL/Skirk": {
+    "summary": "ShahabSL/Skirk项目实现了通过Google Drive作为中继，建立安全的SOCKS代理连接。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-22"
+  },
+  "Lum1104/Understand-Anything": {
+    "summary": "该项目可以将任何代码转化为交互式知识图谱，支持搜索和提问。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-22"
   }
 }
