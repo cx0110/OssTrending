@@ -2398,5 +2398,10 @@
     "summary": "该项目可以将任何代码转化为交互式知识图谱，支持搜索和提问。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-05-22"
+  },
+  "BenedictKing/ccx": {
+    "summary": "CCX是一个API代理，支持Claude、Codex和Gemini等AI模型的访问和代理。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-23"
   }
 }
