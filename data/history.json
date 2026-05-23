@@ -2403,5 +2403,15 @@
     "summary": "CCX是一个API代理，支持Claude、Codex和Gemini等AI模型的访问和代理。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-05-23"
+  },
+  "mvanhorn/cli-printing-press": {
+    "summary": "该项目旨在创建一个功能强大的CLI工具，集成多个竞争对手的功能，支持SQLite同步、离线搜索和复合命令。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-24"
+  },
+  "simplifaisoul/osiris": {
+    "summary": "开源全球情报平台，实时开放源情报（OSINT）仪表盘，替代Palantir。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-24"
   }
 }
