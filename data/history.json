@@ -2413,5 +2413,10 @@
     "summary": "开源全球情报平台，实时开放源情报（OSINT）仪表盘，替代Palantir。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-05-24"
+  },
+  "google/ax": {
+    "summary": "Google/ax 是一个开源的分布式智能体运行时环境。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-25"
   }
 }
