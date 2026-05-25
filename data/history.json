@@ -2418,5 +2418,10 @@
     "summary": "Google/ax 是一个开源的分布式智能体运行时环境。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-05-25"
+  },
+  "kiwifs/kiwifs": {
+    "summary": "这是一个基于Markdown的文件系统，用于为代理和团队提供文件管理和协作功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-26"
   }
 }
