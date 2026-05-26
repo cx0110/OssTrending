@@ -2423,5 +2423,15 @@
     "summary": "这是一个基于Markdown的文件系统，用于为代理和团队提供文件管理和协作功能。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-05-26"
+  },
+  "Leonxlnx/taste-skill": {
+    "summary": "Taste-Skill项目旨在赋予AI独特的审美能力，避免生成枯燥的内容。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-27"
+  },
+  "kubernetes-sigs/agent-sandbox": {
+    "summary": "agent-sandbox 项目实现了隔离、有状态、单例工作负载的易管理，适用于 AI agent 运行时等场景。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-27"
   }
 }
