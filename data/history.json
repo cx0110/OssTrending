@@ -2433,5 +2433,20 @@
     "summary": "agent-sandbox 项目实现了隔离、有状态、单例工作负载的易管理，适用于 AI agent 运行时等场景。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-05-27"
+  },
+  "russellromney/honker": {
+    "summary": "该项目为SQLite和Postgres提供了持久队列、流、发布/订阅和调度器功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-28"
+  },
+  "microsoft/agent-governance-toolkit": {
+    "summary": "AI代理治理工具包，实现政策执行、零信任身份、沙盒执行和可靠性工程。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-28"
+  },
+  "yuanzhongqiao/deep-printfilm": {
+    "summary": "该项目是一个AI短剧平台，用于生成动态漫画和视频。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-05-28"
   }
 }
