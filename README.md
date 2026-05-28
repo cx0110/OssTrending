@@ -1,79 +1,7 @@
 # 📈 OSSInsight 每日精选
 
 每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
-> 更新时间: 2026-05-28 03:59 UTC
-
-## 🧠 Coding Agents (28d)
-
-| 排名 | 项目 | Stars | 简介 (AI/Raw) |
-| :--- | :--- | :--- | :--- |
-| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 1573 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
-
-## 🤖 AI Assistants (28d)
-
-| 排名 | 项目 | Stars | 简介 (AI/Raw) |
-| :--- | :--- | :--- | :--- |
-| 1 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 🔥 716 | 🤖 [llama-3.3-70b-versatile] 该项目实现了基于规格的开发，用于AI编码助手，提高代码质量和效率。 |
-
-## 🔥 全球热榜 (24h)
-
-| 排名 | 项目 | Stars | 简介 (AI/Raw) |
-| :--- | :--- | :--- | :--- |
-| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 🔥 231 | 🤖 [llama-3.3-70b-versatile] 该项目可以将任何代码转化为交互式知识图谱，支持搜索和提问。 |
-| 2 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 🔥 174 | 🤖 [llama-3.3-70b-versatile] Taste-Skill项目旨在赋予AI独特的审美能力，避免生成枯燥的内容。 |
-| 3 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 112 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
-| 4 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 109 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
-| 5 | [russellromney/honker](https://github.com/russellromney/honker) | 🔥 2244 | 🤖 [llama-3.3-70b-versatile] 该项目为SQLite和Postgres提供了持久队列、流、发布/订阅和调度器功能。 |
-| 6 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 🔥 28794 | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
-| 7 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 🔥 17166 | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
-| 8 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 22713 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
-| 9 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 🔥 10835 | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentsk... |
-| 10 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 🔥 2948 | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. ... |
-
-## 🐍 Python (24h)
-
-| 排名 | 项目 | Stars | 简介 (AI/Raw) |
-| :--- | :--- | :--- | :--- |
-| 1 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 108 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
-| 2 | [russellromney/honker](https://github.com/russellromney/honker) | 🔥 2244 | 🤖 [llama-3.3-70b-versatile] 该项目为SQLite和Postgres提供了持久队列、流、发布/订阅和调度器功能。 |
-| 3 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 🔥 17166 | 🤖 [Legacy] 该项目提供知识工作者在Claude Cowork中使用的开源插件集合。 |
-| 4 | [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 🔥 2948 | 🤖 [llama-3.3-70b-versatile] AI代理治理工具包，实现政策执行、零信任身份、沙盒执行和可靠性工程。 |
-| 5 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 22713 | 🤖 [llama-3.3-70b-versatile] 该项目旨在指导学术研究技能，包括研究、写作、审查、修订和最终完成。 |
-| 6 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 🔥 10835 | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentsk... |
-| 7 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 🔥 26838 | Kronos: A Foundation Model for the Language of Financial Markets |
-| 8 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 🔥 54900 | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scri... |
-| 9 | [Video-Reason/VBVR-EvalKit](https://github.com/Video-Reason/VBVR-EvalKit) | 🔥 297 | This is a framework for evaluating reasoning in foundational Video Models.  |
-| 10 | [Zafer-Liu/Data-Analysis-Agent](https://github.com/Zafer-Liu/Data-Analysis-Agent) | 🔥 1224 | 面向商业分析师的智能数据分析体。Intelligent Data Analysis Agent for Business Analysts. |
-
-## 🐹 Go (24h)
-
-| 排名 | 项目 | Stars | 简介 (AI/Raw) |
-| :--- | :--- | :--- | :--- |
-| 1 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | 🔥 35075 | 🤖 [Legacy] 该项目提供一个兼容OpenAI等模型的API服务，允许用户免费使用高级语言模型。 |
-| 2 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 23891 | 🤖 [Legacy] Sub2API-CRS2 是一站式开源中转服务，统一接入多个 AI 订阅服务。 |
-| 3 | [BenedictKing/ccx](https://github.com/BenedictKing/ccx) | 🔥 2139 | 🤖 [llama-3.3-70b-versatile] CCX是一个API代理，支持Claude、Codex和Gemini等AI模型的访问和代理。 |
-| 4 | [google/ax](https://github.com/google/ax) | 🔥 1155 | 🤖 [llama-3.3-70b-versatile] Google/ax 是一个开源的分布式智能体运行时环境。 |
-| 5 | [larksuite/cli](https://github.com/larksuite/cli) | 🔥 12879 | 🤖 [llama-3.3-70b-versatile] Lark/Feishu官方CLI工具，涵盖Messenger、Docs、Base等核心业务域，提供200+命令和20+AI技能。 |
-| 6 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 🔥 10780 | Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LIN... |
-| 7 | [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) | 🔥 4 | ⛔ [无描述]  |
-| 8 | [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | 🔥 2596 | agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes. |
-| 9 | [james-6-23/codex2api](https://github.com/james-6-23/codex2api) | 🔥 1311 | Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目 |
-| 10 | [gastownhall/beads](https://github.com/gastownhall/beads) | 🔥 24141 | Beads - A memory upgrade for your coding agent |
-
-## 📜 TypeScript (24h)
-
-| 排名 | 项目 | Stars | 简介 (AI/Raw) |
-| :--- | :--- | :--- | :--- |
-| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 🔥 277 | 🤖 [llama-3.3-70b-versatile] 该项目可以将任何代码转化为交互式知识图谱，支持搜索和提问。 |
-| 2 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 194 | 🤖 [llama-3.3-70b-versatile] 该项目创建了预索引的代码知识图谱，减少令牌和工具调用，实现100%本地化。 |
-| 3 | [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) | 🔥 8071 | 🤖 [llama-3.3-70b-versatile] Hermes桌面伴侣是一个为Hermes智能代理提供的桌面应用程序。 |
-| 4 | [yuanzhongqiao/deep-printfilm](https://github.com/yuanzhongqiao/deep-printfilm) | 🔥 1402 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI短剧平台，用于生成动态漫画和视频。 |
-| 5 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 33630 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
-| 6 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 🔥 18579 | #1 Persistent memory for AI coding agents based on real-world benchmarks |
-| 7 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | 🔥 19393 | Garry's Opinionated OpenClaw/Hermes Agent Brain |
-| 8 | [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | 🔥 6814 | Harness engineering official style beginner tutorial, from 0 to 1 |
-| 9 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 🔥 63055 | Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1 |
-| 10 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 🔥 7820 | ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more |
+> 更新时间: 2026-05-29 04:05 UTC
 
 
 
@@ -81,6 +9,7 @@
 
 | 日期 | 报告 |
 | :--- | :--- |
+| 2026-05-29 | [查看报告](./archives/2026-05-29.md) |
 | 2026-05-28 | [查看报告](./archives/2026-05-28.md) |
 | 2026-05-27 | [查看报告](./archives/2026-05-27.md) |
 | 2026-05-26 | [查看报告](./archives/2026-05-26.md) |
@@ -94,5 +23,4 @@
 | 2026-05-18 | [查看报告](./archives/2026-05-18.md) |
 | 2026-05-17 | [查看报告](./archives/2026-05-17.md) |
 | 2026-05-16 | [查看报告](./archives/2026-05-16.md) |
-| 2026-05-15 | [查看报告](./archives/2026-05-15.md) |
 | ... | [更多历史](./archives) |
