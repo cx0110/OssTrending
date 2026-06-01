@@ -2448,5 +2448,50 @@
     "summary": "该项目是一个AI短剧平台，用于生成动态漫画和视频。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-05-28"
+  },
+  "nesquena/hermes-webui": {
+    "summary": "Hermes WebUI是一个网页界面，允许用户从网页或手机访问Hermes Agent。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-02"
+  },
+  "chopratejas/headroom": {
+    "summary": "该项目压缩工具输出、日志、文件和RAG块，以减少LLM的输入tokens。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-02"
+  },
+  "Gentleman-Programming/engram": {
+    "summary": "该项目是一个用于AI编码代理的持久性内存系统，支持SQLite和FTS5数据库。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-02"
+  },
+  "microsoft/waza": {
+    "summary": "微软Waza项目是一个CLI框架，用于创建、测试、衡量和改进智能代理技能的质量和有效性。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-02"
+  },
+  "mathomhaus/guild": {
+    "summary": "该项目实现了共享上下文、内存和任务协调，支持混合关键词和语义搜索。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-02"
+  },
+  "Gridea-Pro/gridea-pro": {
+    "summary": "Gridea Pro 是一款桌面静态博客写作客户端，提供类似 Notion 的写作体验。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-02"
+  },
+  "can1357/oh-my-pi": {
+    "summary": "该项目是一个终端AI编码代理，提供hash锚点编辑、工具集成、LSP等功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-02"
+  },
+  "garrytan/gbrain": {
+    "summary": "Garry的OpenClaw/Hermes智能代理大脑项目，实现智能决策和自动化。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-02"
+  },
+  "webadderallorg/Recordly": {
+    "summary": "Recordly是一款跨平台屏幕录制工具，支持Mac、Windows和Linux系统，能够无需编辑即可创建精致的屏幕录像。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-02"
   }
 }
