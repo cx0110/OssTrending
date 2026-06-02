@@ -2493,5 +2493,30 @@
     "summary": "Recordly是一款跨平台屏幕录制工具，支持Mac、Windows和Linux系统，能够无需编辑即可创建精致的屏幕录像。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-06-02"
+  },
+  "KKKKhazix/khazix-skills": {
+    "summary": "数字生命卡兹克开源的AI技能合集，提供多种智能功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-03"
+  },
+  "usewhale/DeepSeek-Code-Whale": {
+    "summary": "Whale 是为 DeepSeek 模型优化的终端 AI 编码助手，支持多种优化功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-03"
+  },
+  "DEEIX-AI/DEEIX-Chat": {
+    "summary": "DEEIX-AI/DEEIX-Chat是一个企业级AI工作空间，集成模型路由、多模态聊天、文件管理等功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-03"
+  },
+  "voocel/ainovel-cli": {
+    "summary": "该项目实现全自动AI小说生成，采用多agent协同工作。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-03"
+  },
+  "heygen-com/hyperframes": {
+    "summary": "该项目是一个用于渲染视频的HTML框架，专门为代理商设计。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-03"
   }
 }
