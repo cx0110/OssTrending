@@ -2518,5 +2518,15 @@
     "summary": "该项目是一个用于渲染视频的HTML框架，专门为代理商设计。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-06-03"
+  },
+  "pewdiepie-archdaemon/odysseus": {
+    "summary": "Odysseus是一个自托管的AI工作空间，提供人工智能工具和环境。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-04"
+  },
+  "steipete/sag": {
+    "summary": "该项目提供一个类似macOS系统“say”命令的功能，但使用现代语音。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-04"
   }
 }
