@@ -2528,5 +2528,25 @@
     "summary": "该项目提供一个类似macOS系统“say”命令的功能，但使用现代语音。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-06-04"
+  },
+  "unicity-astrid/astrid": {
+    "summary": "Astrid是一个为AI代理设计的操作系统。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-05"
+  },
+  "HKUDS/Vibe-Trading": {
+    "summary": "Vibe-Trading是一个个人交易代理，帮助用户进行智能交易决策和管理。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-05"
+  },
+  "Lingtai-AI/lingtai": {
+    "summary": "LingTai AI是一个智能语言处理平台，提供自然语言理解和生成能力。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-05"
+  },
+  "MadsLorentzen/ai-job-search": {
+    "summary": "该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-05"
   }
 }
