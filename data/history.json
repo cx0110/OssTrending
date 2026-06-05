@@ -2548,5 +2548,10 @@
     "summary": "该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-06-05"
+  },
+  "betterleaks/betterleaks": {
+    "summary": "该项目扫描全球网络，寻找并揭露秘密信息。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-06"
   }
 }
