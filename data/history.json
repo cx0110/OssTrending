@@ -2553,5 +2553,15 @@
     "summary": "该项目扫描全球网络，寻找并揭露秘密信息。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-06-06"
+  },
+  "chrissnell/graywolf": {
+    "summary": "一个具有现代Web界面的全功能APRS（自动位置报告系统）栈。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-07"
+  },
+  "palemoky/fight-the-landlord": {
+    "summary": "该项目旨在创建一个无控牌、真公平的斗地主游戏。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-07"
   }
 }
