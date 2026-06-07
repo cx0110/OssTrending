@@ -2563,5 +2563,15 @@
     "summary": "该项目旨在创建一个无控牌、真公平的斗地主游戏。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-06-07"
+  },
+  "next-1688/1688-shopkeeper": {
+    "summary": "该项目是一个AI版的开店助手，帮助1688店主自动化管理店铺。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-08"
+  },
+  "AIEraDev/Clypra": {
+    "summary": "AIEraDev/Clypra是一个现代视频编辑器，模仿CapCut的高级功能，使用Tauri、React和TypeScript构建。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-08"
   }
 }
