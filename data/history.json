@@ -2573,5 +2573,25 @@
     "summary": "AIEraDev/Clypra是一个现代视频编辑器，模仿CapCut的高级功能，使用Tauri、React和TypeScript构建。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-06-08"
+  },
+  "RyanCodrai/turbovec": {
+    "summary": "TurboVec是一个基于TurboQuant的向量索引，使用Rust编写并提供Python绑定。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-09"
+  },
+  "roboflow/supervision": {
+    "summary": "该项目提供可重用的计算机视觉工具。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-09"
+  },
+  "alibaba/open-code-review": {
+    "summary": "阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-09"
+  },
+  "Renhuai123/ziwei-doushu": {
+    "summary": "紫微斗数开源排盘引擎，基于倪海夏《天纪》体系，实现排盘算法、四化系统等功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-09"
   }
 }
