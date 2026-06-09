@@ -2593,5 +2593,25 @@
     "summary": "紫微斗数开源排盘引擎，基于倪海夏《天纪》体系，实现排盘算法、四化系统等功能。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-06-09"
+  },
+  "epoko77-ai/im-not-ai": {
+    "summary": "该项目的核心功能是润色文本，使其看起来不像由AI生成。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-10"
+  },
+  "appshubcc/Bettbox": {
+    "summary": "该项目是一个更好的Mihomo客户端，提供更好的用户体验和功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-10"
+  },
+  "XingYu-Zhong/DeepSeek-GUI": {
+    "summary": "DeepSeek-GUI是一个AI智能工作空间，集成了Code和Claw两种模式，用于DeepSeek模型的开发和应用。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-10"
+  },
+  "refactoringhq/tolaria": {
+    "summary": "该项目是一个桌面应用，用于管理基于Markdown的知识库。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-10"
   }
 }
