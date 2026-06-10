@@ -2613,5 +2613,15 @@
     "summary": "该项目是一个桌面应用，用于管理基于Markdown的知识库。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-06-10"
+  },
+  "santifer/career-ops": {
+    "summary": "基于Claude Code的AI职位搜索系统，具有14种技能模式、Go仪表盘、PDF生成和批处理功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-11"
+  },
+  "rorkai/App-Store-Connect-CLI": {
+    "summary": "该项目是一个快速的、可脚本化的App Store Connect API命令行工具，用于自动化TestFlight、构建、提交等操作。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-11"
   }
 }
