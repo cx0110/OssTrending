@@ -2623,5 +2623,30 @@
     "summary": "该项目是一个快速的、可脚本化的App Store Connect API命令行工具，用于自动化TestFlight、构建、提交等操作。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-06-11"
+  },
+  "apple/container": {
+    "summary": "该项目是一个工具，用于在Mac上创建和运行Linux容器，利用轻量级虚拟机在苹果芯片上运行。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-13"
+  },
+  "kenn-io/agentsview": {
+    "summary": "该项目提供本地优先的会话智能和分析功能，支持超过20种编码代理。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-13"
+  },
+  "maziyarpanahi/openmed": {
+    "summary": "该项目是一个开源的医疗人工智能平台，旨在开发和应用AI技术改善医疗保健。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-13"
+  },
+  "butterbase-ai/butterbase": {
+    "summary": "开源后端服务，提供Postgres、认证、存储、函数、AI网关等功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-13"
+  },
+  "ZenNotes/zennotes": {
+    "summary": "ZenNotes是一个本地Markdown笔记应用，支持Vim快捷键、图表和MCP集成。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-13"
   }
 }
