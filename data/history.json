@@ -2648,5 +2648,10 @@
     "summary": "ZenNotes是一个本地Markdown笔记应用，支持Vim快捷键、图表和MCP集成。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-06-13"
+  },
+  "tinyfish-io/bigset": {
+    "summary": "该项目旨在处理和管理大量数据，提供海量数据的存储和分析解决方案。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-14"
   }
 }
