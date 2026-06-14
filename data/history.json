@@ -2653,5 +2653,15 @@
     "summary": "该项目旨在处理和管理大量数据，提供海量数据的存储和分析解决方案。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-06-14"
+  },
+  "GoogleCloudPlatform/knowledge-catalog": {
+    "summary": "Google Cloud 知识目录工具和示例项目，提供数据管理和发现功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-15"
+  },
+  "KunAgent/Kun": {
+    "summary": "KunAgent/Kun是一个集成代码和写作模式的AI智能代理工作空间。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-15"
   }
 }
