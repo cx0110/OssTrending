@@ -2663,5 +2663,15 @@
     "summary": "KunAgent/Kun是一个集成代码和写作模式的AI智能代理工作空间。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-06-15"
+  },
+  "DietrichGebert/ponytail": {
+    "summary": "该项目使AI代理像懒惰的资深开发人员一样思考，尽量减少代码编写。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-16"
+  },
+  "omnigent-ai/omnigent": {
+    "summary": "Omnigent是一个元层框架，集成管理多个AI代理，支持混合搭配、策略控制和实时协作。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-16"
   }
 }
