@@ -2673,5 +2673,20 @@
     "summary": "Omnigent是一个元层框架，集成管理多个AI代理，支持混合搭配、策略控制和实时协作。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-06-16"
+  },
+  "regent-vcs/re_gent": {
+    "summary": "该项目为AI编码代理提供版本控制功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-17"
+  },
+  "yuanzhongqiao/ai-interview-platform": {
+    "summary": "该项目是一个基于人工智能的面试平台，实现智能化的面试流程和评估。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-17"
+  },
+  "Gitlawb/openclaude": {
+    "summary": "该项目是一个跨平台、多语言的开源项目，实现了无处不在的运行和使用任何语言的能力。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-17"
   }
 }
