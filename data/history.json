@@ -2688,5 +2688,10 @@
     "summary": "该项目是一个跨平台、多语言的开源项目，实现了无处不在的运行和使用任何语言的能力。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-06-17"
+  },
+  "tamnd/kage": {
+    "summary": "该项目允许用户下载并离线查看网站内容，同时去除JavaScript代码。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-18"
   }
 }
