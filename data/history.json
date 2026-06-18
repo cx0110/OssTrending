@@ -2693,5 +2693,20 @@
     "summary": "该项目允许用户下载并离线查看网站内容，同时去除JavaScript代码。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-06-18"
+  },
+  "DeusData/codebase-memory-mcp": {
+    "summary": "该项目是一个高性能的代码智能服务器，能够快速索引代码库并支持毫秒级查询。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-19"
+  },
+  "Resinat/Resin": {
+    "summary": "该项目是一个高性能的代理池网关，能够将大量代理订阅转化为稳定、智能且可观察的网络，支持粘性会话。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-19"
+  },
+  "Lin-arm/GKD_subscription": {
+    "summary": "为安卓GKD提供第三方订阅规则的Fork版。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-19"
   }
 }
