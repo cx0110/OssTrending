@@ -2708,5 +2708,40 @@
     "summary": "为安卓GKD提供第三方订阅规则的Fork版。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-06-19"
+  },
+  "vercel/eve": {
+    "summary": "Eve是一个构建智能代理的框架，提供了一套开发工具和库，用于创建自主决策和交互的代理。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-20"
+  },
+  "Alishahryar1/free-claude-code": {
+    "summary": "该项目允许用户在终端、VSCode扩展和Discord中免费使用Claude代码和Codex，支持语音输入。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-20"
+  },
+  "nudgebee/nudgebee": {
+    "summary": "Nudgebee是一个统一的云运营平台，集成了AI-SRE、AI-FinOps、AI-K8sOps等功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-20"
+  },
+  "valkey-io/valkey-operator": {
+    "summary": "该项目是一个Kubernetes操作员，用于在Kubernetes上管理Valkey。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-20"
+  },
+  "dzcmemory-web/bazi-ziwei-skill": {
+    "summary": "八字和紫微斗数排盘与综合印证，提供三种分析模式和水墨风HTML命盘海报生成。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-20"
+  },
+  "TabularisDB/tabularis": {
+    "summary": "开源数据库客户端，支持PostgreSQL、MySQL/MariaDB和SQLite，集成SQL笔记本、可视化EXPLAIN、AI和MCP等功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-20"
+  },
+  "BuilderIO/agent-native": {
+    "summary": "BuilderIO/agent-native是一个用于构建原生智能代理应用的框架。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-20"
   }
 }
