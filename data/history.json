@@ -2743,5 +2743,35 @@
     "summary": "BuilderIO/agent-native是一个用于构建原生智能代理应用的框架。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-06-20"
+  },
+  "calesthio/OpenMontage": {
+    "summary": "该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-21"
+  },
+  "yaojingang/yao-meta-skill": {
+    "summary": "YAO是一个用于开发和管理可重用智能体技能的系统，提供工程、评估、治理和移植功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-21"
+  },
+  "perplexityai/bumblebee": {
+    "summary": "该项目是一个读取开发者端点的扫描器，用于检查软件供应链中的已知漏洞。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-21"
+  },
+  "nianzhibai/91": {
+    "summary": "该项目是一个名为“九一”的系统，可能与日期或编号相关。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-21"
+  },
+  "withastro/flue": {
+    "summary": "Flue是一个沙盒代理框架，提供隔离和管理代理的功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-21"
+  },
+  "nashsu/llm_wiki": {
+    "summary": "LLM Wiki 是一个跨平台的桌面应用，自动将文档转化为组织化的、相互链接的知识库。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-21"
   }
 }
