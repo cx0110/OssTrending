@@ -2773,5 +2773,20 @@
     "summary": "LLM Wiki 是一个跨平台的桌面应用，自动将文档转化为组织化的、相互链接的知识库。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-06-21"
+  },
+  "lvy010/X-Plore": {
+    "summary": "这是一个个人网页项目，整合了2000+博客和262个代码仓库，作为个人大学笔记的中心枢纽。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-22"
+  },
+  "sartoopjj/thefeed": {
+    "summary": "基于DNS的阅读器和即时通讯工具，支持阅读Telegram频道和X账户，并进行端到端加密消息交换。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-22"
+  },
+  "garybowers/bootimus": {
+    "summary": "该项目是一个增强版的PXE服务器，支持从ISO文件引导启动，使用Golang编写，可通过容器或二进制文件部署。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-22"
   }
 }
