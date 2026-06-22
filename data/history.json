@@ -2788,5 +2788,15 @@
     "summary": "该项目是一个增强版的PXE服务器，支持从ISO文件引导启动，使用Golang编写，可通过容器或二进制文件部署。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-06-22"
+  },
+  "StarTrail-org/PixelRAG": {
+    "summary": "StarTrail-org/PixelRAG项目实现了可扩展的像素级搜索，结束了传统的网页解析方式。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-23"
+  },
+  "Yuan-lab-LLM/ClawManager": {
+    "summary": "该项目是一个基于Kubernetes的AI代理实例管理控制平面，实现AI访问治理、运行时编排和资源复用。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-23"
   }
 }
