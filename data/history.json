@@ -2798,5 +2798,45 @@
     "summary": "该项目是一个基于Kubernetes的AI代理实例管理控制平面，实现AI访问治理、运行时编排和资源复用。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-06-23"
+  },
+  "xbtlin/ai-berkshire": {
+    "summary": "基于Claude Code的价值投资研究框架，集四大师方法论，实现多Agent并行研究。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-25"
+  },
+  "kunchenguid/treehouse": {
+    "summary": "该项目帮助用户在不直接管理工作树的情况下管理工作树。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-25"
+  },
+  "samueltuyizere/oc-go-cc": {
+    "summary": "该项目用于将OpenCode Go订阅与Claude Code集成。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-25"
+  },
+  "songloft-org/songloft": {
+    "summary": "Songloft 是一个自托管音乐服务器，允许个人用户管理和播放自己的音乐库。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-25"
+  },
+  "Nigh/show-me-the-story": {
+    "summary": "自托管AI小说生成器，支持中英文，提供章节撰写、预测、事实核查和润色等功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-25"
+  },
+  "laishiwen/sven-family": {
+    "summary": "Sven Family是一个集创作、协作、发布和运营于一体的AI原生产品套件。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-25"
+  },
+  "JCodesMore/ai-website-cloner-template": {
+    "summary": "使用人工智能编码代理，一条命令即可克隆任意网站。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-25"
+  },
+  "stablyai/orca": {
+    "summary": "Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-25"
   }
 }
