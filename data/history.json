@@ -2838,5 +2838,20 @@
     "summary": "Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-06-25"
+  },
+  "zhaoxuya520/reverse-skill": {
+    "summary": "该项目是一个AI驱动的安全技能路由包，支持多种AI代码客户端，实现自动路由和自举工具链。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-26"
+  },
+  "interviewstreet/hiring-agent": {
+    "summary": "该项目是一个AI智能代理，用于评估和评分简历。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-26"
+  },
+  "openclaw/gogcli": {
+    "summary": "该项目提供了一个终端命令行界面，用于访问和管理Google Workspace服务。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-26"
   }
 }
