@@ -2853,5 +2853,25 @@
     "summary": "该项目提供了一个终端命令行界面，用于访问和管理Google Workspace服务。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-06-26"
+  },
+  "topoteretes/cognee": {
+    "summary": "Cognee是一个开源的AI记忆平台，为智能体提供持久的长期记忆和自托管的知识图谱引擎。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-28"
+  },
+  "geekjourneyx/md2wechat-skill": {
+    "summary": "一键排版发布到微信公众号，支持多种排版样式和AI配图。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-28"
+  },
+  "mauriceboe/TREK": {
+    "summary": "自托管旅行计划工具，支持实时协作、交互地图、预算和打包清单等功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-28"
+  },
+  "every-app/open-seo": {
+    "summary": "开源的SEO优化工具，替代Semrush和Ahrefs，提供网站分析和优化功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-06-28"
   }
 }
