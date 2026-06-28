@@ -1,73 +1,7 @@
 # 📈 OSSInsight 每日精选
 
 每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
-> 更新时间: 2026-06-28 03:03 UTC
-
-## 📚 RAG (28d)
-
-| 排名 | 项目 | Stars | 简介 (AI/Raw) |
-| :--- | :--- | :--- | :--- |
-| 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 🔥 130 | 🤖 [llama-3.3-70b-versatile] Cognee是一个开源的AI记忆平台，为智能体提供持久的长期记忆和自托管的知识图谱引擎。 |
-
-## 🔥 全球热榜 (24h)
-
-| 排名 | 项目 | Stars | 简介 (AI/Raw) |
-| :--- | :--- | :--- | :--- |
-| 1 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 25034 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。 |
-| 2 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 🔥 17169 | 🤖 [llama-3.3-70b-versatile] 该项目是一个高性能的代码智能服务器，能够快速索引代码库并支持毫秒级查询。 |
-| 3 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 43321 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
-| 4 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 🔥 21993 | 🤖 [llama-3.3-70b-versatile] 使用人工智能编码代理，一条命令即可克隆任意网站。 |
-| 5 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 🔥 3978 | 🤖 [llama-3.3-70b-versatile] 基于Claude Code的价值投资研究框架，集四大师方法论，实现多Agent并行研究。 |
-| 6 | [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb) | 🔥 28 | ⛔ [无描述]  |
-| 7 | [mauriceboe/TREK](https://github.com/mauriceboe/TREK) | 🔥 8025 | A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. |
-| 8 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 32956 | AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to... |
-| 9 | [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) | 🔥 3753 | git push no-mistakes |
-| 10 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 🔥 51959 | Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"  |
-
-## 🐍 Python (24h)
-
-| 排名 | 项目 | Stars | 简介 (AI/Raw) |
-| :--- | :--- | :--- | :--- |
-| 1 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 25034 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。 |
-| 2 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🔥 43321 | 🤖 [Legacy] 该项目是一个命令行工具，允许AI代理访问和搜索多个平台的内容。 |
-| 3 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 🔥 3978 | 🤖 [llama-3.3-70b-versatile] 基于Claude Code的价值投资研究框架，集四大师方法论，实现多Agent并行研究。 |
-| 4 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 32956 | 🤖 [llama-3.3-70b-versatile] 该项目使用AI生成可编辑的PPTX文件，使用真正的PowerPoint形状，而不是图片。 |
-| 5 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🔥 50480 | 🤖 [Legacy] 该项目是一个 AI 驱动的 A 股智能分析器，提供实时数据和新闻分析。 |
-| 6 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 🔥 34867 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
-| 7 | [Tejas-TA/predikit](https://github.com/Tejas-TA/predikit) | 🔥 393 | The missing bridge between your ML models and your AI agents. |
-| 8 | [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) | 🔥 9496 | SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-g... |
-| 9 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 🔥 37269 | Use claude code and codex for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported) |
-| 10 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | 🔥 7751 | A feed-forward 3D foundation model for reconstructing scenes from streaming data |
-
-## 🐹 Go (24h)
-
-| 排名 | 项目 | Stars | 简介 (AI/Raw) |
-| :--- | :--- | :--- | :--- |
-| 1 | [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) | 🔥 3753 | 🤖 [llama-3.3-70b-versatile] 该项目“no-mistakes”旨在防止Git推送错误。 |
-| 2 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 17419 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
-| 3 | [multica-ai/multica](https://github.com/multica-ai/multica) | 🔥 38242 | 🤖 [llama-3.3-70b-versatile] Multica项目让编码代理像真实团队成员一样工作，自动完成任务、编写代码、报告阻塞和更新状态。 |
-| 4 | [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) | 🔥 3003 | 🤖 [llama-3.3-70b-versatile] 一键排版发布到微信公众号，支持多种排版样式和AI配图。 |
-| 5 | [larksuite/cli](https://github.com/larksuite/cli) | 🔥 14764 | 🤖 [llama-3.3-70b-versatile] Lark/Feishu官方CLI工具，涵盖Messenger、Docs、Base等核心业务域，提供200+命令和20+AI技能。 |
-| 6 | [openclaw/crabbox](https://github.com/openclaw/crabbox) | 🔥 931 | Crabbox: warm a box, sync the diff, run the suite. |
-| 7 | [Mininglamp-OSS/octo-server](https://github.com/Mininglamp-OSS/octo-server) | 🔥 1 | ⛔ [星数不足 (增量1/总数63)] 🐙 The Go backend powering OCTO — an open workplace built for humans × AI agents. REST & WebSocket APIs, Lobster (AI agent) orch... |
-| 8 | [Vyntral/god-eye](https://github.com/Vyntral/god-eye) | 🔥 507 | AI-powered subdomain enumeration tool with local LLM analysis via Ollama - 100% private, zero API costs |
-| 9 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 9450 | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-leve... |
-| 10 | [agentrq/agentrq](https://github.com/agentrq/agentrq) | 🔥 712 | AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. |
-
-## 📜 TypeScript (24h)
-
-| 排名 | 项目 | Stars | 简介 (AI/Raw) |
-| :--- | :--- | :--- | :--- |
-| 1 | [mauriceboe/TREK](https://github.com/mauriceboe/TREK) | 🔥 8025 | 🤖 [llama-3.3-70b-versatile] 自托管旅行计划工具，支持实时协作、交互地图、预算和打包清单等功能。 |
-| 2 | [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb) | 🔥 19 | ⛔ [无描述]  |
-| 3 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 🔥 21993 | 🤖 [llama-3.3-70b-versatile] 使用人工智能编码代理，一条命令即可克隆任意网站。 |
-| 4 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 8277 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
-| 5 | [every-app/open-seo](https://github.com/every-app/open-seo) | 🔥 3300 | 🤖 [llama-3.3-70b-versatile] 开源的SEO优化工具，替代Semrush和Ahrefs，提供网站分析和优化功能。 |
-| 6 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | 🔥 10191 | Free, Open Source, Self-Hosted WhatsApp API Gateway |
-| 7 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔥 55344 | Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool c... |
-| 8 | [Nagi-ovo/gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager) | 🔥 18983 | An all-in-one enhancement suite for Google Gemini & AI Studio - timeline navigation, folder management, prompt library, and chat export in one powe... |
-| 9 | [harborstremio/harbor](https://github.com/harborstremio/harbor) | 🔥 635 | A Custom Stremio Client Built for Adventure! |
-| 10 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | 🔥 24298 | Garry's Opinionated OpenClaw/Hermes Agent Brain |
+> 更新时间: 2026-06-29 03:02 UTC
 
 
 
@@ -75,6 +9,7 @@
 
 | 日期 | 报告 |
 | :--- | :--- |
+| 2026-06-29 | [查看报告](./archives/2026-06-29.md) |
 | 2026-06-28 | [查看报告](./archives/2026-06-28.md) |
 | 2026-06-27 | [查看报告](./archives/2026-06-27.md) |
 | 2026-06-26 | [查看报告](./archives/2026-06-26.md) |
@@ -88,5 +23,4 @@
 | 2026-06-18 | [查看报告](./archives/2026-06-18.md) |
 | 2026-06-17 | [查看报告](./archives/2026-06-17.md) |
 | 2026-06-16 | [查看报告](./archives/2026-06-16.md) |
-| 2026-06-15 | [查看报告](./archives/2026-06-15.md) |
 | ... | [更多历史](./archives) |
