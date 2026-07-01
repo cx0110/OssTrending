@@ -2873,5 +2873,25 @@
     "summary": "开源的SEO优化工具，替代Semrush和Ahrefs，提供网站分析和优化功能。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-06-28"
+  },
+  "XxHuberrr/Mineradio": {
+    "summary": "该项目是一款集电影镜头、粒子视觉和歌词舞台于一体的沉浸式音乐播放器。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-02"
+  },
+  "usestrix/strix": {
+    "summary": "该项目是一个开源的AI黑客工具，用于发现和修复应用程序的漏洞。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-02"
+  },
+  "workweave/router": {
+    "summary": "该项目是一个智能路由器，能够在50ms内将提示路由到合适的模型，减少40-70%的成本。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-02"
+  },
+  "vibe-coding-labs/JoyCode2Api": {
+    "summary": "该项目将JoyCode API协议翻译为Anthropic/OpenAI兼容格式，实现Claude Code直接调用JoyCode支持的模型。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-02"
   }
 }
