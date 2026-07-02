@@ -2893,5 +2893,30 @@
     "summary": "该项目将JoyCode API协议翻译为Anthropic/OpenAI兼容格式，实现Claude Code直接调用JoyCode支持的模型。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-02"
+  },
+  "erincatto/box3d": {
+    "summary": "Box3D是一个用于游戏的3D物理引擎。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-03"
+  },
+  "facebook/astryx": {
+    "summary": "Astryx是一个开源的设计系统，完全可定制且支持代理。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-03"
+  },
+  "RevylAI/greenlight": {
+    "summary": "RevylAI/greenlight是一个预提交合规扫描工具，帮助开发者检查苹果应用商店的相关规定。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-03"
+  },
+  "vllm-project/semantic-router": {
+    "summary": "该项目是一个智能路由系统，用于混合模型在云、数据中心和边缘计算之间的路由和管理。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-03"
+  },
+  "collabs-inc/collab-public": {
+    "summary": "Collaborator是一个协作平台，用户可以与智能代理合作创建内容。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-03"
   }
 }
