@@ -2918,5 +2918,35 @@
     "summary": "Collaborator是一个协作平台，用户可以与智能代理合作创建内容。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-03"
+  },
+  "langchain-ai/openwiki": {
+    "summary": "OpenWiki 是一个命令行工具，用于编写和维护代码库的代理文档。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-04"
+  },
+  "browser-use/video-use": {
+    "summary": "该项目使用编码代理编辑视频，实现视频编辑自动化。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-04"
+  },
+  "agentrq/agentrq": {
+    "summary": "AgentRQ是一个实时对话任务管理器，用于人工智能代理与人类之间的协作。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-04"
+  },
+  "hanxi/cups-web": {
+    "summary": "将家用USB打印机转换为网络打印服务，实现随时随地访问打印。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-04"
+  },
+  "diegosouzapw/OmniRoute": {
+    "summary": "该项目是一个免费的AI网关，集成了160+个提供商，支持多种AI模型和压缩算法。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-04"
+  },
+  "alibaba/page-agent": {
+    "summary": "该项目是一个JavaScript内页GUI代理，允许用户使用自然语言控制网页界面。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-04"
   }
 }
