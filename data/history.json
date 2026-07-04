@@ -2948,5 +2948,30 @@
     "summary": "该项目是一个JavaScript内页GUI代理，允许用户使用自然语言控制网页界面。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-04"
+  },
+  "Emily2040/seedance-2.0": {
+    "summary": "该项目是Seedance 2.0的四模态AI电影制作管道。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-05"
+  },
+  "AgentWrapper/agent-orchestrator": {
+    "summary": "该项目是一个智能编排器，用于并行代码代理，计划任务、生成代理，并自动处理持续集成修复、合并冲突和代码审查。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-05"
+  },
+  "tomasz-tomczyk/crit": {
+    "summary": "该项目实现了一个反馈循环系统，用于与智能代理进行交互和反馈。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-05"
+  },
+  "4ier/notion-cli": {
+    "summary": "该项目提供一个命令行工具，以便在终端中无缝地与Notion交互，支持全部Notion API功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-05"
+  },
+  "Maka-Agent/maka-agent": {
+    "summary": "Maka是一个本地优先的AI桌面助手，提供智能辅助功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-05"
   }
 }
