@@ -2973,5 +2973,30 @@
     "summary": "Maka是一个本地优先的AI桌面助手，提供智能辅助功能。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-05"
+  },
+  "elder-plinius/T3MP3ST": {
+    "summary": "该项目是一个自主的红队攻击平台，采用多智能体技术进行安全测试。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-06"
+  },
+  "teamchong/pxpipe": {
+    "summary": "该项目通过渲染文本上下文为图像来减少Fable 5的令牌使用量。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-06"
+  },
+  "Usagi-org/ai-goofish-monitor": {
+    "summary": "基于Playwright和AI的闲鱼实时/定时监控与智能分析系统，帮助用户找到心仪产品。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-06"
+  },
+  "Robbyant/lingbot-map": {
+    "summary": "该项目是一个三维基础模型，用于从流数据中重建场景。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-06"
+  },
+  "cloudflare/kumo": {
+    "summary": "Cloudflare的组件库，用于构建现代Web应用程序。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-06"
   }
 }
