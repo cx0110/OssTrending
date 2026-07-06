@@ -2998,5 +2998,20 @@
     "summary": "Cloudflare的组件库，用于构建现代Web应用程序。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-06"
+  },
+  "Trystan-SA/claude-design-system-prompt": {
+    "summary": "该项目创建了一个系统提示和技能库，能够将大语言模型转化为一个注重无障碍和抗AI噪声的设计合作工具。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-07"
+  },
+  "Kodiqa-Solutions/VaultS3": {
+    "summary": "Kodiqa-Solutions/VaultS3：轻量级、S3兼容的对象存储服务器，内置Web仪表盘，单二进制文件，低内存占用，支持静态加密。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-07"
+  },
+  "Gitlawb/zero": {
+    "summary": "Gitlawb/zero是一个编码代理，根据用户的模型、机器和规则进行编码。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-07"
   }
 }
