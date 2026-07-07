@@ -3013,5 +3013,35 @@
     "summary": "Gitlawb/zero是一个编码代理，根据用户的模型、机器和规则进行编码。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-07"
+  },
+  "bradautomates/claude-video": {
+    "summary": "该项目使Claude能够观看任何视频，通过下载、提取帧、转录等功能来实现。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-08"
+  },
+  "generative-computing/mellea": {
+    "summary": "Mellea是一个用于编写生成式程序的库。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-08"
+  },
+  "agentscope-ai/QwenPaw": {
+    "summary": "个人AI助手，支持多聊天应用，易于安装和部署，具有可扩展的能力。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-08"
+  },
+  "thobiasn/tori-cli": {
+    "summary": "该项目提供Docker服务器监控功能，通过SSH提供指标、日志和警报信息。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-08"
+  },
+  "huabeitech/agent-desk": {
+    "summary": "该项目是一个开源的AI客户支持系统，提供AI首先的支持和人类就绪的运营。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-08"
+  },
+  "ivorpad/mercadona-cli": {
+    "summary": "Mercadona 购物命令行工具，支持搜索产品、查看价格、构建购物车和结账。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-08"
   }
 }
