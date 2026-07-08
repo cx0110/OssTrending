@@ -3043,5 +3043,35 @@
     "summary": "Mercadona 购物命令行工具，支持搜索产品、查看价格、构建购物车和结账。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-08"
+  },
+  "iOfficeAI/OfficeCLI": {
+    "summary": "OfficeCLI 是一款开源工具，允许 AI 代理读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-09"
+  },
+  "Shpigford/knockoff": {
+    "summary": "该Chrome扩展程序可以过滤亚马逊上的伪品牌商品，帮助用户从真实的知名品牌购买产品。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-09"
+  },
+  "ogulcancelik/herdr": {
+    "summary": "该项目是一个终端代理多路复用器，允许同时管理多个代理。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-09"
+  },
+  "kyutai-labs/pocket-tts": {
+    "summary": "该项目是一款轻量级的文本转语音（TTS）系统，能够在CPU上运行。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-09"
+  },
+  "openlibrecommunity/olcrtc": {
+    "summary": "olcrtc项目实现了bb22功能，利用合法的会议服务访问白名单以外的网络。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-09"
+  },
+  "palemoky/chinese-poetry-api": {
+    "summary": "诗泉：提供高性能的中国古诗词API服务。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-09"
   }
 }
