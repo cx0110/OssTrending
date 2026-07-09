@@ -3073,5 +3073,20 @@
     "summary": "诗泉：提供高性能的中国古诗词API服务。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-09"
+  },
+  "halilkirazkaya/arsenal-ng": {
+    "summary": "一个快速的、基于Go语言的命令库，内置200+个网络安全作弊表。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-10"
+  },
+  "edouard-claude/snip": {
+    "summary": "该项目是一个CLI代理，通过YAML过滤器减少LLM令牌使用量，支持多种代码辅助工具。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-10"
+  },
+  "unicity-sphere/sphere": {
+    "summary": "Unicity网络的Web3钱包和代理平台，具有双层加密钱包、聊天和市场功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-10"
   }
 }
