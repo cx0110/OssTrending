@@ -3088,5 +3088,30 @@
     "summary": "Unicity网络的Web3钱包和代理平台，具有双层加密钱包、聊天和市场功能。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-10"
+  },
+  "vercel-labs/native": {
+    "summary": "Vercel Labs Native是一个工具包，用于构建原生桌面应用程序。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-11"
+  },
+  "Robbyant/lingbot-world-v2": {
+    "summary": "该项目创建了无限的虚拟世界，支持多样化的交互功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-11"
+  },
+  "Agent-Field/agentfield": {
+    "summary": "该项目允许像构建API和微服务一样构建、运行和扩展AI代理，具有可观察、可审计和身份识别的功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-11"
+  },
+  "leookun/cursor-byok": {
+    "summary": "Cursor 中的无限 BYOK 功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-11"
+  },
+  "microsoft/flint-chart": {
+    "summary": "Flint是一种可视化语言，允许AI智能体从简单的图表规格中创建出富有表现力和美观的图表。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-11"
   }
 }
