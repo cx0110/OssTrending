@@ -3113,5 +3113,40 @@
     "summary": "Flint是一种可视化语言，允许AI智能体从简单的图表规格中创建出富有表现力和美观的图表。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-11"
+  },
+  "emilkowalski/skills": {
+    "summary": "该项目为设计工程师提供技能列表。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-12"
+  },
+  "Dicklesworthstone/destructive_command_guard": {
+    "summary": "该项目阻止危险的Git和Shell命令被代理执行。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-12"
+  },
+  "walkingddd/TgtoDrive": {
+    "summary": "该项目实现网盘媒体自动化，从资源找寻到Emby播放，全流程打通。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-12"
+  },
+  "Imbad0202/academic-research-skills-codex": {
+    "summary": "该项目为人机协同学术研究工作流程提供基于Codex的学术研究技能套件。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-12"
+  },
+  "openilink/openilink-hub": {
+    "summary": "开源微信Bot管理平台，支持20+应用和7种语言SDK。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-12"
+  },
+  "imchine/FinTech-Wallet": {
+    "summary": "该项目是一个云原生微服务系统，旨在为数字金融运营提供支持。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-12"
+  },
+  "iOfficeAI/AionUi": {
+    "summary": "该项目是一个免费、开源的协同工作应用，支持20多个命令行工具，允许用户自定义助手。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-12"
   }
 }
