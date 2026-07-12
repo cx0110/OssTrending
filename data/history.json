@@ -3148,5 +3148,45 @@
     "summary": "该项目是一个免费、开源的协同工作应用，支持20多个命令行工具，允许用户自定义助手。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-12"
+  },
+  "malisper/pgrust": {
+    "summary": "该项目使用Rust重写Postgres数据库，目前已通过100%的Postgres回归测试。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-13"
+  },
+  "Hao0321/video-autopilot-kit": {
+    "summary": "该项目是一个用于YouTube/短视频自动化的框架，集成CapCut JSON和ffmpeg工具，附带入门问卷。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-13"
+  },
+  "IR-NETLIFY/zeus": {
+    "summary": "该项目是一个名为Zeus Panel的云端面板，提供各种功能和服务。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-13"
+  },
+  "docker/docker-agent": {
+    "summary": "Docker 的 AI 代理构建器和运行时环境。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-13"
+  },
+  "sortie-ai/sortie": {
+    "summary": "该项目将跟踪票转换为自主代理会话。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-13"
+  },
+  "openlibrecommunity/twl": {
+    "summary": "twl是一个大型科学项目，研究和维护白名单。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-13"
+  },
+  "liliMozi/openhanako": {
+    "summary": "一个具有记忆、个性和自主性的个人AI代理。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-13"
+  },
+  "bulwarkmail/webmail": {
+    "summary": "这是一个现代的、自托管的电子邮件客户端，支持电子邮件、日历、联系人和文件管理。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-13"
   }
 }
