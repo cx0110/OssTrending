@@ -3188,5 +3188,45 @@
     "summary": "这是一个现代的、自托管的电子邮件客户端，支持电子邮件、日历、联系人和文件管理。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-13"
+  },
+  "JuneYaooo/nihaisha-nishi-tcm": {
+    "summary": "支持中医课程检索、方证穴位辨析、学习笔记整理与板书截图证据索引。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-14"
+  },
+  "microsoft/ResearchStudio": {
+    "summary": "ResearchStudio是一个AI协同工具，帮助研究人员从问题提出到出版论文的整个过程。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-14"
+  },
+  "alvinunreal/lazyskills": {
+    "summary": "该项目为智能体技能提供任务控制中心，管理和调度技能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-14"
+  },
+  "agenvoy/Agenvoy": {
+    "summary": "该项目创建了一个个人AI代理，能够自主编写工具并自我修复。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-14"
+  },
+  "Augani/openreel-video": {
+    "summary": "OpenReel Video：专业的浏览器内视频编辑器，无需安装、云上传和水印。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-14"
+  },
+  "TestSprite/testsprite-cli": {
+    "summary": "TestSprite CLI：一款基于人工智能的自动化测试命令行工具。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-14"
+  },
+  "PDFCraftTool/pdfcraft": {
+    "summary": "PDFCraft是一个免费、注重隐私的PDF工具箱，提供90+工具，支持编辑、转换、合并、拆分和保护PDF文件。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-14"
+  },
+  "Eynzof/Hermes-CN-Desktop": {
+    "summary": "Hermes Agent CN 桌面应用，使用 Tauri、Typescript 和 Rust 开发，隔离核心功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-14"
   }
 }
