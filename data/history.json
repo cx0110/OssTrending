@@ -3228,5 +3228,45 @@
     "summary": "Hermes Agent CN 桌面应用，使用 Tauri、Typescript 和 Rust 开发，隔离核心功能。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-14"
+  },
+  "braedonsaunders/codeflow": {
+    "summary": "该项目可以生成GitHub代码的交互式架构图，展示文件间的连接关系。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-15"
+  },
+  "raroque/boop-agent": {
+    "summary": "该项目是一个iMessage个人代理，集成了Claude Agent SDK和Codex运行时，支持内存、子代理、自动化和集成。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-15"
+  },
+  "Alpha-Dojo/DojoAgents": {
+    "summary": "DojoAgents是一个全市场人工智能投资助手，帮助个人投资者做出更好的投资决策。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-15"
+  },
+  "eatmoreduck/boss-zhipin-scraper": {
+    "summary": "Boss直聘爬虫，基于Chrome CDP协议，抓取职位数据，输出薪资JSON/CSV。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-15"
+  },
+  "teest114514/chatlog_alpha": {
+    "summary": "微信数据库解密读取，提供MCP和HTTP服务，并支持实时转发消息到Clawbot。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-15"
+  },
+  "flyfish-dev/shortlink": {
+    "summary": "自托管短链接和实时二维码平台，提供所有权、审查、品牌二维码、分析和人工智能辅助运营。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-15"
+  },
+  "CharlesWiltgen/Axiom": {
+    "summary": "该项目为现代苹果操作系统（iOS、iPadOS、watchOS、tvOS）开发提供了测试过的Claude代码技能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-15"
+  },
+  "modem-dev/hunk": {
+    "summary": "终端差异查看器，用于代码比较和审查。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-15"
   }
 }
