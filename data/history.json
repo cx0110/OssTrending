@@ -3268,5 +3268,35 @@
     "summary": "终端差异查看器，用于代码比较和审查。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-15"
+  },
+  "PrismML-Eng/Bonsai-demo": {
+    "summary": "Bonsai Demo是一个机器学习项目，展示PrismML-Eng的功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-16"
+  },
+  "hasaneyldrm/exercises-dataset": {
+    "summary": "该项目提供一个包含433个健身运动的综合数据集，包括运动名称、类别、目标肌肉群等详细信息。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-16"
+  },
+  "MengTo/Skills": {
+    "summary": "该项目为设计师和开发者提供AI编码代理技能，包括Codex、Claude、Cursor等。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-16"
+  },
+  "virgiliojr94/book-to-skill": {
+    "summary": "该项目可以将技术书籍PDF转换为Claude Code技能，方便学习、参考和工作使用。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-16"
+  },
+  "HenryNdubuaku/maths-cs-ai-compendium": {
+    "summary": "该项目提供数学、计算机科学和人工智能的综合知识库，帮助研究人员成为熟练的AI/ML研究工程师。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-16"
+  },
+  "weifuwan/seatunnel-web": {
+    "summary": "该项目旨在简化Apache SeaTunnel的使用，提供更友好的界面和操作体验。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-16"
   }
 }
