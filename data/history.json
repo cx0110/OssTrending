@@ -3298,5 +3298,30 @@
     "summary": "该项目旨在简化Apache SeaTunnel的使用，提供更友好的界面和操作体验。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-16"
+  },
+  "coreyhaines31/marketingskills": {
+    "summary": "该项目为Claude Code和AI代理提供营销技能，包括转化率优化、文案写作、SEO、分析和增长工程。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-17"
+  },
+  "MDX-Tom/gpt-5.6-instruct": {
+    "summary": "该项目为gpt-5.6系列提供Codex CLI破甲提示词和测试包。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-17"
+  },
+  "github/gh-stack": {
+    "summary": "GitHub Stacked PRs 是一个管理 GitHub 分支和拉取请求的工具，支持分支堆栈式管理。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-17"
+  },
+  "mattpocock/dictionary-of-ai-coding": {
+    "summary": "该项目解释人工智能编码术语，使用简单易懂的语言。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-17"
+  },
+  "oomol-lab/open-connector": {
+    "summary": "开源认证网关，连接1000+ SaaS服务至AI代理，支持多种接入方式。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-17"
   }
 }
