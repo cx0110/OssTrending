@@ -3323,5 +3323,30 @@
     "summary": "开源认证网关，连接1000+ SaaS服务至AI代理，支持多种接入方式。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-17"
+  },
+  "Fei-Away/Codex-Dream-Skin": {
+    "summary": "Codex Dream Skin是一个虚拟皮肤项目，提供个性化的数字化皮肤设计和应用。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-18"
+  },
+  "nitrocloudofficial/nitrostack": {
+    "summary": "NitroStack是一个全栈TypeScript框架，用于构建、测试和部署MCP服务器和AI原生应用。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-18"
+  },
+  "contatomegasign/finance-account-tool": {
+    "summary": "该项目是一款财务账户工具，帮助组织评估内部控制、会计纪律和合规成熟度。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-18"
+  },
+  "xushanpei/open-file-viewer": {
+    "summary": "该项目是一个浏览器文件预览库，支持多种框架，实现文件预览嵌入页面容器。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-18"
+  },
+  "QuintinShaw/pi-dynamic-workflows": {
+    "summary": "该项目为Pi提供了动态工作流，包括代码模式子代理、模型路由、日志记录和交互式界面等功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-18"
   }
 }
