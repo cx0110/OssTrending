@@ -3348,5 +3348,20 @@
     "summary": "该项目为Pi提供了动态工作流，包括代码模式子代理、模型路由、日志记录和交互式界面等功能。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-18"
+  },
+  "OpenSenseNova/SenseNova-U1": {
+    "summary": "SenseNova-U1项目是一个基于NEO-unify的原生统一范式，实现从第一原理出发的统一解决方案。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-19"
+  },
+  "chattocorp/chatto": {
+    "summary": "一个可自托管的团队和群组聊天应用，提供全功能的聊天服务。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-19"
+  },
+  "cloudmanic/herdr-plus": {
+    "summary": "Herdr 的扩展插件，提供项目和快速操作等工具，增强 Herdr 的功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-19"
   }
 }
