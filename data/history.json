@@ -3363,5 +3363,55 @@
     "summary": "Herdr 的扩展插件，提供项目和快速操作等工具，增强 Herdr 的功能。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-19"
+  },
+  "nullclaw/nullhub": {
+    "summary": "Nullhub是一个管理控制台，用于安装、配置和监控AI代理、工作流、任务管道和系统健康。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-20"
+  },
+  "ibelick/ui-skills": {
+    "summary": "该项目为设计工程师提供技能开发和提升的工具和资源。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-20"
+  },
+  "MoonshotAI/kimi-cli": {
+    "summary": "Kimi Code CLI是一个命令行界面代理工具。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-20"
+  },
+  "yizhiyanhua-ai/fireworks-tech-graph": {
+    "summary": "该项目可以根据自然语言生成SVG+PNG格式的技术图表，支持7种风格、UML和AI/Agent工作流模式。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-20"
+  },
+  "tirth8205/code-review-graph": {
+    "summary": "该项目构建代码库的持久地图，优化AI编码工具的读取效率。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-20"
+  },
+  "gastownhall/gascity": {
+    "summary": "该项目为多智能体编码工作流提供了一套编排构建SDK。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-20"
+  },
+  "cicd-sensor/cicd-sensor": {
+    "summary": "该项目是一个开源的eBPF运行时安全传感器，用于GitHub Actions和GitLab CI/CD。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-20"
+  },
+  "IRNova/Nova-Proxy-App": {
+    "summary": "Nova-Proxy-App是一个强大的本地代理工具，支持多种技术，帮助用户绕过网络封锁和深度包检测。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-20"
+  },
+  "Walter-Sparrow/lunar-tear": {
+    "summary": "该项目是一个私人服务器研究项目，用于研究和开发某款已停服的手机游戏的服务器。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-20"
+  },
+  "cloudflare/skills": {
+    "summary": "该项目为智能代理提供Cloudflare开发技能的教学。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-20"
   }
 }
