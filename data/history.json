@@ -3413,5 +3413,20 @@
     "summary": "该项目为智能代理提供Cloudflare开发技能的教学。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-20"
+  },
+  "openclaw/crabbox": {
+    "summary": "Crabbox项目的核心功能是加热一个箱子，同步差异并运行测试套件。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-21"
+  },
+  "esengine/DeepSeek-Reasonix": {
+    "summary": "DeepSeek是一个终端AI编码代理，提供稳定的代码补全和编码辅助功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-21"
+  },
+  "microsoft/Ontology-Playground": {
+    "summary": "一个免费的开源网页应用，用于学习本体论和Microsoft Fabric IQ，支持设计和导出本体论。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-21"
   }
 }
