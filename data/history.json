@@ -3428,5 +3428,40 @@
     "summary": "一个免费的开源网页应用，用于学习本体论和Microsoft Fabric IQ，支持设计和导出本体论。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-21"
+  },
+  "lidge-jun/opencodex": {
+    "summary": "该项目是一个通用代理，允许用户使用任何大语言模型（LLM）与OpenAI Codex和Claude Code进行交互。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-22"
+  },
+  "baidu/Unlimited-OCR": {
+    "summary": "百度的Unlimited-OCR项目实现了一次性长范围解析，突破传统OCR识别限制。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-22"
+  },
+  "yaojingang/geo-citation-lab": {
+    "summary": "该项目提供GEO实验数据报告和地理学、经济学、人工智能论文库。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-22"
+  },
+  "vyrx-dev/toofan": {
+    "summary": "这是一个极简的、超快的终端打字界面工具。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-22"
+  },
+  "stupside/castor": {
+    "summary": "该项目可以实时提取网页视频、转码并投射到电视上，同时支持字幕烧录。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-22"
+  },
+  "UditAkhourii/adhd": {
+    "summary": "该项目是一个基于Claude & Codex Agent SDK的编码技能，使用树状思维和剪枝技术来产生和优化创造性和跨学科的想法。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-22"
+  },
+  "MoonshotAI/kimi-code": {
+    "summary": "Kimi Code CLI 是一个下一代智能代理的起点，提供命令行接口。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-22"
   }
 }
