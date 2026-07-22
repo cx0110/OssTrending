@@ -3463,5 +3463,20 @@
     "summary": "Kimi Code CLI 是一个下一代智能代理的起点，提供命令行接口。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-22"
+  },
+  "block/buzz": {
+    "summary": "一个集体智能的通信平台，实现群体间实时信息共享和协作。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-23"
+  },
+  "hoainho/img2threejs": {
+    "summary": "该项目将参考图像重建为Three.js代码模型，实现图像到3D的转换。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-23"
+  },
+  "microsoft/SkillOpt": {
+    "summary": "SkillOpt是一个文本优化器，通过编辑和验证更新来训练可重用的自然语言技能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-23"
   }
 }
