@@ -3478,5 +3478,20 @@
     "summary": "SkillOpt是一个文本优化器，通过编辑和验证更新来训练可重用的自然语言技能。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-23"
+  },
+  "oblien/openship": {
+    "summary": "Oblien/openship是一个自托管的部署平台。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-24"
+  },
+  "youngwoocho02/unity-cli": {
+    "summary": "该项目允许从命令行控制Unity编辑器，仅需一个二进制文件，无需其他依赖。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-24"
+  },
+  "agegr/pi-web": {
+    "summary": "该项目为pi编码代理提供了一个Web用户界面。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-24"
   }
 }
