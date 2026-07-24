@@ -3493,5 +3493,35 @@
     "summary": "该项目为pi编码代理提供了一个Web用户界面。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-24"
+  },
+  "citrolabs/ego-lite": {
+    "summary": "Ego-lite是一个支持人工智能代理并行工作的浏览器。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-25"
+  },
+  "Vincentwei1021/video-shotcraft": {
+    "summary": "该项目使用Remotion创建电影级产品视频，包含106个镜头配方卡和161个动态预览。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-25"
+  },
+  "ifixai-ai/iFixAi": {
+    "summary": "iFixAi 是一个检测人工智能错误和盲点的工具，通过 45 项检查，快速评估 AI 模型的性能和安全性。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-25"
+  },
+  "Galaxy-Dawn/claude-scholar": {
+    "summary": "该项目是一个半自动化的研究助手，支持多种代码和工具，辅助学术研究和软件开发。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-25"
+  },
+  "scalytics/kafSIEM": {
+    "summary": "该项目是一个实体图平台，用于空隙防御和关键基础设施，集成了Kafka本地OSINT、OT融合和不可变的来源证明。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-25"
+  },
+  "umputun/ralphex": {
+    "summary": "Ralphex项目是一个用于自主AI驱动计划执行的扩展循环。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-25"
   }
 }
