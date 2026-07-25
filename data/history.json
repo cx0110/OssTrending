@@ -3523,5 +3523,15 @@
     "summary": "Ralphex项目是一个用于自主AI驱动计划执行的扩展循环。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-25"
+  },
+  "makerspet/oomwoo": {
+    "summary": "开源的吸尘机器人清洁器项目，实现自动清洁功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-26"
+  },
+  "evolution-foundation/evolution-go": {
+    "summary": "Evolution Go是一个开源的WhatsApp集成API，提供WhatsApp消息交互功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-26"
   }
 }
