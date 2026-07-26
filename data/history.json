@@ -3533,5 +3533,25 @@
     "summary": "Evolution Go是一个开源的WhatsApp集成API，提供WhatsApp消息交互功能。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-26"
+  },
+  "CoreBunch/Instatic": {
+    "summary": "Instatic 是一个现代化的自托管视觉内容管理系统（CMS），可以在1分钟内部署。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-27"
+  },
+  "img2threejs/img2threejs": {
+    "summary": "该项目可以将参考图像重建为Three.js代码模型，实现图像到3D的转换。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-27"
+  },
+  "NeptuneHub/AudioMuse-AI-NV-plugin": {
+    "summary": "AudioMuse-AI Navidrome插件通过声音分析实时推荐相似歌曲，增强音乐发现体验。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-27"
+  },
+  "opengeos/GeoLibre": {
+    "summary": "一个轻量级、云原生的GIS平台，用于可视化、探索和分析地理空间数据。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-27"
   }
 }
