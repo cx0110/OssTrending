@@ -3553,5 +3553,20 @@
     "summary": "一个轻量级、云原生的GIS平台，用于可视化、探索和分析地理空间数据。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-27"
+  },
+  "OpenMinis/OpenMinis": {
+    "summary": "OpenMinis是一个跨平台的AI智能代理应用。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-28"
+  },
+  "umputun/revdiff": {
+    "summary": "该项目提供一个终端用户界面，用于查看差异、文件和文档，并支持内联注释。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-28"
+  },
+  "diggerhq/opencomputer": {
+    "summary": "为AI代理提供安全的云计算机。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-28"
   }
 }
