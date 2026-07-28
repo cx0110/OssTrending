@@ -3568,5 +3568,25 @@
     "summary": "为AI代理提供安全的云计算机。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-28"
+  },
+  "JustVugg/colibri": {
+    "summary": "该项目在25GB内存的消费级机器上运行GLM-5.2（744B MoE）模型。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-29"
+  },
+  "daimon3332/easy-proxies": {
+    "summary": "基于sing-box的代理订阅导入、测试、管理和网关工具。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-29"
+  },
+  "Mininglamp-OSS/octo-server": {
+    "summary": "OCTO的Go后端，提供REST、WebSocket API，编排Lobster AI代理，控制WuKongIM实时消息。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-29"
+  },
+  "ddcat-ai/open-ai-canvas": {
+    "summary": "开源无限画布工作台，集成多模态生成、分镜编排、素材管理与Agent工作流，用于AI影视创作。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-29"
   }
 }
