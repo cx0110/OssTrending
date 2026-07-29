@@ -3588,5 +3588,10 @@
     "summary": "开源无限画布工作台，集成多模态生成、分镜编排、素材管理与Agent工作流，用于AI影视创作。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-29"
+  },
+  "OpenNSWM-Lab/FAROS": {
+    "summary": "该项目是一个自动化研究运行时环境，用于编排人工智能研究工作流程。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-30"
   }
 }
