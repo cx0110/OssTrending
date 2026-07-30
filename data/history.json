@@ -3593,5 +3593,35 @@
     "summary": "该项目是一个自动化研究运行时环境，用于编排人工智能研究工作流程。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-30"
+  },
+  "1jehuang/jcode": {
+    "summary": "该项目旨在创建最节省内存的工具。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-31"
+  },
+  "harbor-framework/harbor": {
+    "summary": "该项目是一个用于评估和改进智能体的框架。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-31"
+  },
+  "m5stack/StackChan": {
+    "summary": "StackChan 是一个开源项目，提供一个开源的微控制器平台。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-31"
+  },
+  "ongridio/ongrid": {
+    "summary": "该项目是一个运维AI代理，能够理解基础设施，找到问题根源，并自动修复。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-31"
+  },
+  "Sir-MmD/vpn-ui": {
+    "summary": "该项目是一个增强的VPN面板，提供用户友好的界面来管理和配置VPN连接。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-31"
+  },
+  "Gu1llaum-3/sshm": {
+    "summary": "SSHM是一个命令行工具，使用Go语言开发，提供直观的TUI界面，简化SSH主机管理和连接。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-07-31"
   }
 }
