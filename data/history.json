@@ -3623,5 +3623,25 @@
     "summary": "SSHM是一个命令行工具，使用Go语言开发，提供直观的TUI界面，简化SSH主机管理和连接。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-07-31"
+  },
+  "WilonityLoader/Wilonity": {
+    "summary": "Wilonity Loader是一个游戏作弊统一库，提供各种游戏作弊功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-01"
+  },
+  "smallnest/pigo": {
+    "summary": "Smallnest/pigo 是一个用 Go 语言编写的 Pi 代理，提供轻量级的代理服务。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-01"
+  },
+  "ENTERPILOT/GoModel": {
+    "summary": "ENTERPILOT/GoModel是一个轻量级的AI网关，提供统一的OpenAI兼容API。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-01"
+  },
+  "dramaclaw/dramaclaw": {
+    "summary": "该项目是一个通用AIGC视频引擎，实现从剧本到成片的一条流水线。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-01"
   }
 }
