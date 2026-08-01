@@ -3643,5 +3643,45 @@
     "summary": "该项目是一个通用AIGC视频引擎，实现从剧本到成片的一条流水线。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-08-01"
+  },
+  "yc-software/qm": {
+    "summary": "该项目是一个多人游戏代理框架，用于工作环境下的多人协作。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-02"
+  },
+  "firecrawl/pdf-inspector": {
+    "summary": "快速的Rust库，用于PDF检查、分类和文本提取，智能检测扫描和基于文本的PDF。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-02"
+  },
+  "cwuom/NeriPlayer": {
+    "summary": "一个原生Android音频播放器，集多源在线播放、本地管理、歌词体验和自建同步功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-02"
+  },
+  "composio-community/awesome-codex-skills": {
+    "summary": "该项目提供了一份实用技能列表，用于自动化Codex CLI和API的工作流程。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-02"
+  },
+  "shy3130/tickflow-stock-panel": {
+    "summary": "TSP是一个基于TickFlow数据源的A股量化工作台，实现选股、监控、回测和个股分析等功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-02"
+  },
+  "gykim80/perfectpixel-studio": {
+    "summary": "利用AI技术，从单一文本提示生成包含8个方向和100+动作的角色精灵图。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-02"
+  },
+  "software-mansion/argent": {
+    "summary": "该项目是一个工具包，用于控制、调试和分析iOS和Android应用。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-02"
+  },
+  "miuuyy/codex-chatgpt-web": {
+    "summary": "该项目将ChatGPT Pro集成到Codex应用中，支持上下文、压缩、流媒体、图像等功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-02"
   }
 }
