@@ -3683,5 +3683,40 @@
     "summary": "该项目将ChatGPT Pro集成到Codex应用中，支持上下文、压缩、流媒体、图像等功能。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-08-02"
+  },
+  "ayghri/i-have-adhd": {
+    "summary": "该项目旨在优化代码输出，避免答案被冗余信息淹没，提供简洁的ADHD友好输出。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-03"
+  },
+  "powerycy/goutoujunshi": {
+    "summary": "该项目是一个Codex恋爱军师，提供情绪支持、关系分析和可执行策略，内置多学科知识库，支持多元关系。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-03"
+  },
+  "cosmtrek/mindwalk": {
+    "summary": "该项目是一个可视化工具，能够在3D代码库地图上回放编码代理会话。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-03"
+  },
+  "ZenGeekLabs/DJOneHub": {
+    "summary": "该项目是一个用于管理第一代DJI 4G模块的原生macOS工具。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-03"
+  },
+  "EKKOLearnAI/hermes-studio": {
+    "summary": "Hermes Studio是一个Web仪表盘，用于管理Hermes Agent的AI聊天、会话、任务和分析。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-03"
+  },
+  "Devin-AXIS/iPolloWork": {
+    "summary": "一个本地优先、可自托管的工作空间，支持代码、办公、设计、演示、网站和视频编辑。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-03"
+  },
+  "narumiruna/pi-extensions": {
+    "summary": "该项目提供独立安装的Pi编码代理扩展，支持多种编程语言和AI工作流。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-03"
   }
 }
