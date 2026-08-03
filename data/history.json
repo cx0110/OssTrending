@@ -3718,5 +3718,20 @@
     "summary": "该项目提供独立安装的Pi编码代理扩展，支持多种编程语言和AI工作流。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-08-03"
+  },
+  "TencentCloud/TencentDB-Agent-Memory": {
+    "summary": "腾讯云智能代理记忆中心，整合对话、文档、代码，生成可重用记忆资产。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-04"
+  },
+  "huangruiteng/loopx": {
+    "summary": "轻量级循环工程状态内核，支持多种AI代理，具有持久目标、自动唤醒、可执行待办事项等功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-04"
+  },
+  "Orkas-AI/Orkas": {
+    "summary": "一个开源的多智能体AI桌面客户端，通过对话构建和命令AI代理团队。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-04"
   }
 }
