@@ -3733,5 +3733,25 @@
     "summary": "一个开源的多智能体AI桌面客户端，通过对话构建和命令AI代理团队。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-08-04"
+  },
+  "amap-cvlab/ABot-World": {
+    "summary": "该项目实现了在单个桌面GPU上展开无限交互式世界。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-05"
+  },
+  "sercanarga/PCILeechGen": {
+    "summary": "PCILeech固件生成工具，用于生成固件以进行PCI设备的内存访问和数据提取。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-05"
+  },
+  "aipoch/open-science": {
+    "summary": "一个开源的AI工作台，用于科学发现，支持多种模型。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-05"
+  },
+  "spencermarx/open-code-review": {
+    "summary": "该项目是一个人工智能驱动的多智能体代码审查工具，模拟一支可定制的工程师团队进行代码审查。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-05"
   }
 }
