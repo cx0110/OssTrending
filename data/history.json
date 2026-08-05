@@ -3753,5 +3753,20 @@
     "summary": "该项目是一个人工智能驱动的多智能体代码审查工具，模拟一支可定制的工程师团队进行代码审查。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-08-05"
+  },
+  "crazyykhllc-bit/CyberPPT": {
+    "summary": "该项目是一个Codex Skill，用于生成高密度、可编辑的咨询风格PowerPoint。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-06"
+  },
+  "guohuiyuan/music-lib": {
+    "summary": "该项目是一个音乐聚合搜索与下载核心库，支持网易云、QQ、酷狗、Bilibili等音乐平台。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-06"
+  },
+  "productdevbook/hucre": {
+    "summary": "零依赖的电子表格引擎，支持读写XLSX、CSV、ODS格式，使用纯TypeScript编写。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-06"
   }
 }
