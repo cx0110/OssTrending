@@ -3768,5 +3768,30 @@
     "summary": "零依赖的电子表格引擎，支持读写XLSX、CSV、ODS格式，使用纯TypeScript编写。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-08-06"
+  },
+  "trycompai/crm": {
+    "summary": "这是一个开源的、面向代理商的客户关系管理系统。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-07"
+  },
+  "Jia-Ethan/codex-keysmith": {
+    "summary": "该项目实现了版本无关的Codex指令部署，具有试运行、备份、钩子隔离和恢复功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-07"
+  },
+  "goposta/posta": {
+    "summary": "一个自托管的电子邮件投递平台，通过HTTP API发送邮件，处理SMTP投递、模板、存储、安全和分析。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-07"
+  },
+  "perplexityai/numbat": {
+    "summary": "该项目提供AI代理活动的可视化、设备内检测、预阻断和法医重建功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-07"
+  },
+  "ymichael/bb": {
+    "summary": "bb是一个智能集成开发环境（IDE），能够自主控制自身。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-07"
   }
 }
