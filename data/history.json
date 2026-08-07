@@ -3793,5 +3793,40 @@
     "summary": "bb是一个智能集成开发环境（IDE），能够自主控制自身。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-08-07"
+  },
+  "herdrdev/herdr": {
+    "summary": "Herdr 是一个运行时环境，用于托管编码代理。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-08"
+  },
+  "brightdata/cli": {
+    "summary": "Bright Data CLI：从终端直接抓取、搜索和提取结构化网页数据。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-08"
+  },
+  "openJiuwen-ai/jiuwenswarm": {
+    "summary": "JiuwenSwarm是一个智能AI代理，通过日常使用的通信应用，将大型语言模型的能力直接带到用户手中。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-08"
+  },
+  "ArcadeAI/blueprint-mcp": {
+    "summary": "该项目使用Nano Banana Pro生成图表，以帮助理解代码库和系统架构。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-08"
+  },
+  "magicrew/doc7": {
+    "summary": "该项目将文档转换为AI可读的Markdown格式，具有视觉理解能力。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-08"
+  },
+  "Hypostasis-Cat/HypoMux": {
+    "summary": "一键聚合多网卡，实现物理级多线下载与叠加网速。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-08"
+  },
+  "AtomicBot-ai/atomic-agent": {
+    "summary": "本项目是一个本地优先的AI代理，优化本地AI模型，支持长上下文窗口，私密运行于本地设备。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-08"
   }
 }
