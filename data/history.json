@@ -3848,5 +3848,15 @@
     "summary": "开源、自托管的收入分析平台，提供网页分析、会话回放、收入归因和客户收入集成等功能。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-08-09"
+  },
+  "GVCLab/PersonaLive": {
+    "summary": "PersonaLive项目实现了实时流媒体中的人像图像动画化，赋予其表情和动态。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-10"
+  },
+  "streamcoreai/streamcore-server": {
+    "summary": "基于Go语言的开源实时语音代理服务器，支持WebRTC、语音识别、语言模型和语音合成等功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-10"
   }
 }
