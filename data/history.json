@@ -3858,5 +3858,20 @@
     "summary": "基于Go语言的开源实时语音代理服务器，支持WebRTC、语音识别、语言模型和语音合成等功能。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-08-10"
+  },
+  "corsairdev/corsair": {
+    "summary": "该项目是一个集成层，用于连接和管理不同设备和系统的代理。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-11"
+  },
+  "valqore/valqore": {
+    "summary": "Valqore项目为AI驱动的云和Kubernetes操作提供安全防护。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-11"
+  },
+  "solod-dev/solod": {
+    "summary": "Solod 是一个 Go 语言子集，能够将 Go 代码转换为 C 语言代码。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-11"
   }
 }
