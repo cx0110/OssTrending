@@ -3873,5 +3873,25 @@
     "summary": "Solod 是一个 Go 语言子集，能够将 Go 代码转换为 C 语言代码。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-08-11"
+  },
+  "cathrynlavery/diagram-design": {
+    "summary": "该项目提供13种编辑图表类型，使用HTML和SVG实现，具有简洁的设计风格。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-12"
+  },
+  "danielmiessler/LifeOS": {
+    "summary": "该项目是一个通用的人工智能框架，帮助用户通过爬山算法从当前状态迈向理想状态。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-12"
+  },
+  "elementalsouls/Claude-BugHunter": {
+    "summary": "该项目是一个针对漏洞挖掘和外部红队工作的代码技能包，包含82个技能和681个已披露的报告模式。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-12"
+  },
+  "Conway-Research/automaton": {
+    "summary": "该项目创建了一个可以自我复制、进化和维持自身存在的AI系统，无需人类干预。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-12"
   }
 }
