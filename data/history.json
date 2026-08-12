@@ -3893,5 +3893,30 @@
     "summary": "该项目创建了一个可以自我复制、进化和维持自身存在的AI系统，无需人类干预。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-08-12"
+  },
+  "spinabot/brigade": {
+    "summary": "Brigade是一个企业级的个人智能助手，提供高级别的智能服务。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-13"
+  },
+  "firecrawl/anydoc": {
+    "summary": "该项目可以将多种文档格式（如Word、PDF等）转换为Markdown格式。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-13"
+  },
+  "Nasiko-Labs/nasiko": {
+    "summary": "Nasiko是一个开发者控制平面，用于管理和控制AI代理。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-13"
+  },
+  "linzixuanzz/daidai-panel": {
+    "summary": "轻量级定时任务管理面板，用于管理和调度任务。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-13"
+  },
+  "paxlabs-inc/matrix-core": {
+    "summary": "Matrix是一个用于构建自主AI代理的框架，支持自然语言交互、工具使用、代码执行和智能合约等功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-13"
   }
 }
