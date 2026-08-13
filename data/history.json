@@ -3918,5 +3918,40 @@
     "summary": "Matrix是一个用于构建自主AI代理的框架，支持自然语言交互、工具使用、代码执行和智能合约等功能。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-08-13"
+  },
+  "guillaumemeyer/watermarks-remover": {
+    "summary": "该项目旨在去除多种AI生成图像和文档中的水印和元数据。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-14"
+  },
+  "bojieli/ai-agent-book": {
+    "summary": "开源《深入理解AI Agent》书籍的主仓库，包含全书正文、PDF和配套代码。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-14"
+  },
+  "repowise-dev/repowise": {
+    "summary": "该项目提供代码健康评分、自动文档生成、Git 分析、死代码检测和架构决策等功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-14"
+  },
+  "cactus-compute/needle": {
+    "summary": "针对小型设备的14MB基础模型，适用于手机、可穿戴设备、智能家居和机器人。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-14"
+  },
+  "Christ9038/Ydisks-Xianyu-Helper": {
+    "summary": "闲鱼多账号管理、消息回复与自动发货系统。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-14"
+  },
+  "Infisical/agent-vault": {
+    "summary": "Infisical/agent-vault是一个HTTP凭证代理和密钥库，用于AI代理的身份验证和密钥管理。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-14"
+  },
+  "tanishqkancharla/calldiff": {
+    "summary": "该项目通过Tree-sitter的AST技术，支持22种语言，比较Git提交之间的函数调用栈差异。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-14"
   }
 }
