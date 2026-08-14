@@ -3953,5 +3953,30 @@
     "summary": "该项目通过Tree-sitter的AST技术，支持22种语言，比较Git提交之间的函数调用栈差异。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-08-14"
+  },
+  "titanwings/colleague-skill": {
+    "summary": "该项目将离别转化为技能，赋予其新生，打造数字化生活体验。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-15"
+  },
+  "whiteguo233/OpenBiliClaw": {
+    "summary": "本地AI代理，深度理解用户偏好，主动寻找B站、抖音、YouTube等平台上的内容。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-15"
+  },
+  "agent-substrate/substrate": {
+    "summary": "Agent Substrate是一个核心系统，提供基础功能和框架。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-15"
+  },
+  "vercel-labs/deepsec": {
+    "summary": "Deepsec是一个安全工具，利用编码代理来发现代码库中的漏洞。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-15"
+  },
+  "lightningpixel/modly": {
+    "summary": "该项目是一个桌面应用，利用本地AI和GPU生成3D模型。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-15"
   }
 }
