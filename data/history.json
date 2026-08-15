@@ -3978,5 +3978,20 @@
     "summary": "该项目是一个桌面应用，利用本地AI和GPU生成3D模型。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-08-15"
+  },
+  "anywhere-labs/deepseek-harness-desktop": {
+    "summary": "基于DeepSeek Harness打造的Electron桌面端，适配macOS和Windows，提供最佳体验。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-16"
+  },
+  "opensandbox-group/OpenSandbox": {
+    "summary": "OpenSandbox是一个安全、快速、可扩展的沙盒运行时环境，用于AI代理。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-16"
+  },
+  "ardanlabs/kronk": {
+    "summary": "Kronk是一个使用Go语言的本地模型运行引擎，支持硬件加速的推理。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-16"
   }
 }
