@@ -3993,5 +3993,30 @@
     "summary": "Kronk是一个使用Go语言的本地模型运行引擎，支持硬件加速的推理。",
     "model": "llama-3.3-70b-versatile",
     "updated_at": "2026-08-16"
+  },
+  "12britz/awesome-free-models": {
+    "summary": "该项目提供免费的AI模型、API和工具列表，供用户免费使用。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-17"
+  },
+  "docling-project/docling-graph": {
+    "summary": "该项目将非结构化文档转化为验证、丰富且可查询的知识图谱。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-17"
+  },
+  "pathwaycom/arc-task-gen": {
+    "summary": "生成与公开评估集分布匹配的原创ARC-AGI-1风格任务。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-17"
+  },
+  "kenn-io/msgvault": {
+    "summary": "该项目实现了离线搜索、分析和AI查询整个消息历史的功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-17"
+  },
+  "ssnangua/ColorTxt": {
+    "summary": "一款本地TXT小说阅读器，支持上色、章节识别、标注、朗读等功能。",
+    "model": "llama-3.3-70b-versatile",
+    "updated_at": "2026-08-17"
   }
 }
