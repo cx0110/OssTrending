@@ -1,74 +1,74 @@
 # 📈 OSSInsight 每日精选
 
 每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
-> 更新时间: 2026-10-12 05:13 UTC
+> 更新时间: 2026-10-13 07:56 UTC
 
 ## 🧠 Coding Agents (28d)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 6565 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
-| 2 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 7387 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 1 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 6660 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
+| 2 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 7353 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
 
 ## 🔥 全球热榜 (24h)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [morluto/rea](https://github.com/morluto/rea) | 🔥 25692 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 2 | [storytold/photocraft](https://github.com/storytold/photocraft) | 🔥 6215 | An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust |
-| 3 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 🔥 4269 | Tool for automatic PS5 executables porting to Linux and Windows |
-| 4 | [storytold/artcraft](https://github.com/storytold/artcraft) | 🔥 3089 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
-| 5 | [storytold/filmcraft](https://github.com/storytold/filmcraft) | 🔥 1475 | An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust. |
-| 6 | [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | 🔥 1512 | An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust |
-| 7 | [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | 🔥 1665 | 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign... |
-| 8 | [storytold/wordcraft](https://github.com/storytold/wordcraft) | 🔥 1342 | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
-| 9 | [storytold/lightcraft](https://github.com/storytold/lightcraft) | 🔥 1236 | An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust. |
-| 10 | [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) | 🔥 1354 | 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | 🔥 41893 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 2 | [storytold/photocraft](https://github.com/storytold/photocraft) | 🔥 6073 | An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust |
+| 3 | [storytold/artcraft](https://github.com/storytold/artcraft) | 🔥 4101 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
+| 4 | [storytold/wordcraft](https://github.com/storytold/wordcraft) | 🔥 3523 | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
+| 5 | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 🔥 3654 | An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with ... |
+| 6 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 🔥 3485 | Tool for automatic PS5 executables porting to Linux and Windows |
+| 7 | [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | 🔥 3000 | 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign... |
+| 8 | [storytold/pdfcraft](https://github.com/storytold/pdfcraft) | 🔥 1764 | PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust |
+| 9 | [storytold/filmcraft](https://github.com/storytold/filmcraft) | 🔥 1574 | FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust |
+| 10 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 🔥 1884 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No sha... |
 
 ## 🐍 Python (24h)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 1120 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
-| 2 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 982 | 🤖 [llama-3.3-70b-versatile] 该项目使用AI生成可编辑的PPTX文件，使用真正的PowerPoint形状，而不是图片。 |
-| 3 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 699 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
-| 4 | [billion-token-one-task/Deepgraph](https://github.com/billion-token-one-task/Deepgraph) | 🔥 600 | Token-scale scientific discovery engine — autonomous hypothesis generation, experiment execution, and knowledge graph synthesis |
-| 5 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 509 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
-| 6 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 569 | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doin... |
-| 7 | [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) | 🔥 515 | 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。 |
-| 8 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 🔥 481 | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
-| 9 | [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) | 🔥 541 | Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer. |
-| 10 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | 🔥 351 | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-genera... |
+| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 1664 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 2 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 835 | 🤖 [llama-3.3-70b-versatile] 该项目使用AI生成可编辑的PPTX文件，使用真正的PowerPoint形状，而不是图片。 |
+| 3 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 🔥 769 | 🤖 [llama-3.3-70b-versatile] 该项目旨在从零开始学习、构建和部署人工智能工程。 |
+| 4 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 🔥 757 | 🤖 [llama-3.3-70b-versatile] 该项目是一个开源的智能视频制作系统，拥有多个管道、工具和代理技能，能够将AI编码助手转变为全功能的视频制作工作室。 |
+| 5 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 🔥 660 | 🤖 [llama-3.3-70b-versatile] 该项目允许用户在终端、VSCode扩展和Discord中免费使用Claude代码和Codex，支持语音输入。 |
+| 6 | [feder-cr/invisible_selenium](https://github.com/feder-cr/invisible_selenium) | 🔥 560 | Selenium that anti-bots cannot see, so no captchas: same API, anti-detect stealth headless Firefox, undetected fingerprint, bypass bot detection, P... |
+| 7 | [academa-labs/manimgx](https://github.com/academa-labs/manimgx) | 🔥 579 | The animation engine for agents: blazingly fast math and 3D videos with Manim's Python API, on a Rust GPU core. |
+| 8 | [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) | 🔥 501 | 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。 |
+| 9 | [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) | 🔥 390 | Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer. |
+| 10 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 423 | Hindsight: Agent Memory That Learns |
 
 ## 🐹 Go (24h)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | 🔥 709 | AI 自主渗透测试系统 \| 百度“agent+”攻防挑战赛冠军项目 |
-| 2 | [yetone/magpie](https://github.com/yetone/magpie) | 🔥 1131 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
-| 3 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 661 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
-| 4 | [Hinln/ARTEX](https://github.com/Hinln/ARTEX) | 🔥 290 | ARTEX 源码备份：基于 Autumn-27/ARTEX v0.3.15，保留原始提交历史与 AGPL-3.0 许可证。 |
-| 5 | [jiwoochris/artex-ko](https://github.com/jiwoochris/artex-ko) | 🔥 133 | ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0) |
-| 6 | [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI) | 🔥 185 | The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation ... |
-| 7 | [linguo2625469/workbuddy2api-panel](https://github.com/linguo2625469/workbuddy2api-panel) | 🔥 184 | 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支 |
-| 8 | [devaccuracy/ledgerforge](https://github.com/devaccuracy/ledgerforge) | 🔥 150 | LedgerForge is an open-source double-entry ledger and financial core for building wallets, billing systems,   reconciliation pipelines, and money-m... |
-| 9 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 195 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
-| 10 | [cskwork/scopeweaver](https://github.com/cskwork/scopeweaver) | 🔥 99 | ScopeWeaver: English and Korean localization of ARTEX, with preserved AGPL-3.0 attribution. |
+| 1 | [yetone/magpie](https://github.com/yetone/magpie) | 🔥 690 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
+| 2 | [jiwoochris/artex-ko](https://github.com/jiwoochris/artex-ko) | 🔥 271 | ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0) |
+| 3 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 347 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 4 | [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | 🔥 242 | AI 自主渗透测试系统 \| 百度“agent+”攻防挑战赛冠军项目 |
+| 5 | [egoist/mygo](https://github.com/egoist/mygo) | 🔥 222 | Develop desktop apps with a web frontend or native UI in Go |
+| 6 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 205 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
+| 7 | [bdg9412/artex-ko-plus](https://github.com/bdg9412/artex-ko-plus) | 🔥 140 | ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0) |
+| 8 | [linguo2625469/workbuddy2api-panel](https://github.com/linguo2625469/workbuddy2api-panel) | 🔥 152 | 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支 |
+| 9 | [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI) | 🔥 122 | The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation ... |
+| 10 | [hivepaas/hivepaas](https://github.com/hivepaas/hivepaas) | 🔥 137 | Self hosted PaaS solution |
 
 ## 📜 TypeScript (24h)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [morluto/rea](https://github.com/morluto/rea) | 🔥 26886 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 2 | [Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo) | 🔥 914 | Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ \| Paid services: AI testing by real people and GEO ... |
-| 3 | [CopilotKit/OpenIntelligentUI](https://github.com/CopilotKit/OpenIntelligentUI) | 🔥 533 | Open-Source Generative UI Framework |
-| 4 | [HelixDB/helix-foundry](https://github.com/HelixDB/helix-foundry) | 🔥 430 | Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB. |
-| 5 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 427 | 🤖 [llama-3.3-70b-versatile] 该项目是一个聚合了14个AI提供商免费版密钥的OpenAI兼容代理，具有自动故障转移功能。 |
-| 6 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 🔥 361 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 ... |
-| 7 | [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) | 🔥 351 | 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器 |
-| 8 | [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders) | 🔥 311 | WebGPU components for React, Vue, Svelte, Solid, JS & Framer |
-| 9 | [tester-army/e2e](https://github.com/tester-army/e2e) | 🔥 304 | Next generation e2e testing framework for web and mobile apps. |
-| 10 | [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) | 🔥 350 | DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版 |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | 🔥 32870 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 2 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 631 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于渲染视频的HTML框架，专门为代理商设计。 |
+| 3 | [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) | 🔥 595 | 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器 |
+| 4 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 416 | 🤖 [llama-3.3-70b-versatile] 该项目是一个聚合了14个AI提供商免费版密钥的OpenAI兼容代理，具有自动故障转移功能。 |
+| 5 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 🔥 407 | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command... |
+| 6 | [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders) | 🔥 405 | WebGPU components for React, Vue, Svelte, Solid, JS & Framer |
+| 7 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 🔥 384 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 ... |
+| 8 | [rociiu/talorys](https://github.com/rociiu/talorys) | 🔥 374 | Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-ta... |
+| 9 | [tester-army/e2e](https://github.com/tester-army/e2e) | 🔥 323 | Next generation e2e testing framework for web and mobile apps. |
+| 10 | [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | 🔥 269 | Create polished demo videos without editing skills. Mac/Windows/Linux |
 
 
 
@@ -76,6 +76,7 @@
 
 | 日期 | 报告 |
 | :--- | :--- |
+| 2026-10-13 | [查看报告](./archives/2026-10-13.md) |
 | 2026-10-12 | [查看报告](./archives/2026-10-12.md) |
 | 2026-10-11 | [查看报告](./archives/2026-10-11.md) |
 | 2026-10-10 | [查看报告](./archives/2026-10-10.md) |
@@ -89,5 +90,4 @@
 | 2026-10-02 | [查看报告](./archives/2026-10-02.md) |
 | 2026-10-01 | [查看报告](./archives/2026-10-01.md) |
 | 2026-09-30 | [查看报告](./archives/2026-09-30.md) |
-| 2026-09-29 | [查看报告](./archives/2026-09-29.md) |
 | ... | [更多历史](./archives) |
