@@ -1,59 +1,59 @@
 # 📈 OSSInsight 每日精选
 
 每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
-> 更新时间: 2026-10-15 05:05 UTC
+> 更新时间: 2026-10-16 04:41 UTC
 
 ## 🧠 Coding Agents (28d)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 6942 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
-| 2 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 7498 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 1 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 7019 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
+| 2 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 7516 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
 
 ## 🔥 全球热榜 (24h)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [morluto/rea](https://github.com/morluto/rea) | 🔥 44119 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 2 | [storytold/photocraft](https://github.com/storytold/photocraft) | 🔥 4197 | PhotoCraft: An open-source, photo editor written by scratch in pure Rust |
-| 3 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 3426 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
-| 4 | [storytold/artcraft](https://github.com/storytold/artcraft) | 🔥 3423 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
-| 5 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 🔥 2435 | Tool for automatic PS5 executables porting to Linux and Windows |
-| 6 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 2457 | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doin... |
-| 7 | [storytold/wordcraft](https://github.com/storytold/wordcraft) | 🔥 1881 | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
-| 8 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 🔥 1714 | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
-| 9 | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 🔥 1788 | An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with ... |
-| 10 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 🔥 1621 | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No sha... |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | 🔥 33602 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 3099 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 3 | [storytold/photocraft](https://github.com/storytold/photocraft) | 🔥 2898 | PhotoCraft: An open-source, photo editor written by scratch in pure Rust |
+| 4 | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 🔥 2713 | An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with ... |
+| 5 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 1918 | 🤖 [llama-3.3-70b-versatile] iFixAi 是一个检测人工智能错误和盲点的工具，通过 45 项检查，快速评估 AI 模型的性能和安全性。 |
+| 6 | [storytold/artcraft](https://github.com/storytold/artcraft) | 🔥 1864 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
+| 7 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 🔥 1722 | Tool for automatic PS5 executables porting to Linux and Windows |
+| 8 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🔥 1570 | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| 9 | [xtool-org/xtool](https://github.com/xtool-org/xtool) | 🔥 1401 | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. |
+| 10 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 🔥 1345 | Ghidra is a software reverse engineering (SRE) framework |
 
 ## 🐍 Python (24h)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 3459 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
-| 2 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 2391 | 🤖 [llama-3.3-70b-versatile] iFixAi 是一个检测人工智能错误和盲点的工具，通过 45 项检查，快速评估 AI 模型的性能和安全性。 |
-| 3 | [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | 🔥 818 | Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw |
-| 4 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 🔥 768 | 🤖 [llama-3.3-70b-versatile] 该项目允许用户在终端、VSCode扩展和Discord中免费使用Claude代码和Codex，支持语音输入。 |
-| 5 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 470 | Hindsight: Agent Memory That Learns |
-| 6 | [newliver666/apk-reverse](https://github.com/newliver666/apk-reverse) | 🔥 445 | Suitable for Android APK reverse engineering analysis |
-| 7 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 🔥 360 | Give your agent CAD superpowers. |
-| 8 | [MaxLiu22/Motion2MixamoRig](https://github.com/MaxLiu22/Motion2MixamoRig) | 🔥 354 | Retarget human motion from video to an Adobe Mixamo-rigged 3D character. |
-| 9 | [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) | 🔥 329 | Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer. |
-| 10 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 256 | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, pr... |
+| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 3120 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 2 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 1927 | 🤖 [llama-3.3-70b-versatile] iFixAi 是一个检测人工智能错误和盲点的工具，通过 45 项检查，快速评估 AI 模型的性能和安全性。 |
+| 3 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 🔥 984 | 🤖 [llama-3.3-70b-versatile] 该项目提供一套可用的智能代理技能，用于研究、科学、工程、分析、金融和写作等领域。 |
+| 4 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 🔥 686 | 🤖 [llama-3.3-70b-versatile] CLI-Anything是一个开源项目，旨在将所有软件转化为命令行界面（CLI）形式，实现无缝集成和控制。 |
+| 5 | [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | 🔥 544 | Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw |
+| 6 | [yakuikai/tokentab](https://github.com/yakuikai/tokentab) | 🔥 616 | Local-first CLI and web dashboard that reads Claude Code, Codex and Gemini CLI session logs and shows token usage and cost by model, project, day a... |
+| 7 | [AlphaGBM/skills](https://github.com/AlphaGBM/skills) | 🔥 582 | Bring realtime market data and research workflows into Claude Code, Cursor & beyond — 29 open-source Skills for stocks, options and commodities. |
+| 8 | [angel291592/Intent-Router](https://github.com/angel291592/Intent-Router) | 🔥 454 | Intent compiler for AI agents — converges vague requests into typed IntentSpec contracts (probe, ask, or halt before routing), the input layer for ... |
+| 9 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 445 | Hindsight: Agent Memory That Learns |
+| 10 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 🔥 391 | Give your agent CAD superpowers. |
 
 ## 🐹 Go (24h)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🔥 1257 | 🤖 [Legacy] vxcontrol/pentagi 是一个全自动的 AI 渗透测试系统。 |
-| 2 | [yetone/magpie](https://github.com/yetone/magpie) | 🔥 1165 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
-| 3 | [trhhubsd/ARTEXX](https://github.com/trhhubsd/ARTEXX) | 🔥 600 | AI 自主渗透测试系统 \| 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX |
-| 4 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 379 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
-| 5 | [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | 🔥 279 | AI 自主渗透测试系统 \| 百度“agent+”攻防挑战赛冠军项目 |
-| 6 | [DingTalk-Real-AI/dingtalk-workspace-cli](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli) | 🔥 382 | DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities in... |
-| 7 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 241 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
-| 8 | [linguo2625469/workbuddy2api-panel](https://github.com/linguo2625469/workbuddy2api-panel) | 🔥 158 | 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支 |
-| 9 | [cskwork/scopeweaver](https://github.com/cskwork/scopeweaver) | 🔥 97 | ScopeWeaver: English and Korean localization of ARTEX, with preserved AGPL-3.0 attribution. |
-| 10 | [egoist/mygo](https://github.com/egoist/mygo) | 🔥 115 | Develop desktop apps with a web frontend or native UI in Go |
+| 1 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🔥 1333 | 🤖 [Legacy] vxcontrol/pentagi 是一个全自动的 AI 渗透测试系统。 |
+| 2 | [yetone/magpie](https://github.com/yetone/magpie) | 🔥 1184 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
+| 3 | [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | 🔥 215 | AI 自主渗透测试系统 \| 百度“agent+”攻防挑战赛冠军项目 |
+| 4 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 291 | 🤖 [llama-3.3-70b-versatile] 阿里巴巴开源的代码审查工具，结合确定性流水线和LLM代理，提供精确的行级评论和内置规则集。 |
+| 5 | [linguo2625469/workbuddy2api-panel](https://github.com/linguo2625469/workbuddy2api-panel) | 🔥 214 | 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支 |
+| 6 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 241 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
+| 7 | [google/ax](https://github.com/google/ax) | 🔥 110 | Google's open agentic orchestration runtime |
+| 8 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 🔥 110 | Agent Substrate: the core system |
+| 9 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 108 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| 10 | [GoogleCloudPlatform/scion](https://github.com/GoogleCloudPlatform/scion) | 🔥 93 | ⛔ [无描述]  |
 
 ## 📜 TypeScript (24h)
 
@@ -76,6 +76,7 @@
 
 | 日期 | 报告 |
 | :--- | :--- |
+| 2026-10-16 | [查看报告](./archives/2026-10-16.md) |
 | 2026-10-15 | [查看报告](./archives/2026-10-15.md) |
 | 2026-10-14 | [查看报告](./archives/2026-10-14.md) |
 | 2026-10-13 | [查看报告](./archives/2026-10-13.md) |
@@ -89,5 +90,4 @@
 | 2026-10-05 | [查看报告](./archives/2026-10-05.md) |
 | 2026-10-04 | [查看报告](./archives/2026-10-04.md) |
 | 2026-10-03 | [查看报告](./archives/2026-10-03.md) |
-| 2026-10-02 | [查看报告](./archives/2026-10-02.md) |
 | ... | [更多历史](./archives) |
