@@ -1,74 +1,74 @@
 # 📈 OSSInsight 每日精选
 
 每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
-> 更新时间: 2026-10-18 03:50 UTC
+> 更新时间: 2026-10-19 03:51 UTC
 
 ## 🧠 Coding Agents (28d)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 7843 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
-| 2 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 6748 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 8889 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+| 2 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 7170 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
 
 ## 🔥 全球热榜 (24h)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [morluto/rea](https://github.com/morluto/rea) | 🔥 17299 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 2111 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
-| 3 | [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) | 🔥 1981 | 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign... |
-| 4 | [storytold/photocraft](https://github.com/storytold/photocraft) | 🔥 1487 | PhotoCraft: An open-source, photo editor written by scratch in pure Rust |
-| 5 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 🔥 1573 | 🤖 [Legacy] Anthropic 官方的 Claude 代码插件目录，提供高质量的插件。 |
-| 6 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 1302 | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, pr... |
-| 7 | [storytold/artcraft](https://github.com/storytold/artcraft) | 🔥 1304 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
-| 8 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 🔥 1132 | Tool for automatic PS5 executables porting to Linux and Windows |
-| 9 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 🔥 1167 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One... |
-| 10 | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 🔥 998 | An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with ... |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | 🔥 16925 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 2 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 2198 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 3 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 2129 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 4 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 🔥 2055 | Tool for automatic PS5 executables porting to Linux and Windows |
+| 5 | [google-research/harness2](https://github.com/google-research/harness2) | 🔥 1455 | ⛔ [无描述]  |
+| 6 | [KnifeLemon/Filee](https://github.com/KnifeLemon/Filee) | 🔥 1613 | Free, open-source file converter. Convert 180+ formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-boo... |
+| 7 | [storytold/photocraft](https://github.com/storytold/photocraft) | 🔥 1398 | PhotoCraft: An open-source, photo editor written by scratch in pure Rust |
+| 8 | [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft) | 🔥 1372 | SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. |
+| 9 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 🔥 1316 | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| 10 | [storytold/artcraft](https://github.com/storytold/artcraft) | 🔥 1157 | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
 
 ## 🐍 Python (24h)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 2104 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
-| 2 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 🔥 1563 | 🤖 [Legacy] Anthropic 官方的 Claude 代码插件目录，提供高质量的插件。 |
-| 3 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 1317 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
-| 4 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 🔥 921 | 🤖 [llama-3.3-70b-versatile] 该项目提供一套可用的智能代理技能，用于研究、科学、工程、分析、金融和写作等领域。 |
-| 5 | [google-research/harness2](https://github.com/google-research/harness2) | 🔥 605 | ⛔ [无描述]  |
-| 6 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 🔥 541 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
-| 7 | [jddevtime/open-lakehouse-compute-fabric](https://github.com/jddevtime/open-lakehouse-compute-fabric) | 🔥 198 | Open Lakehouse Compute Fabric: an open-source lakehouse platform with Microsoft Fabric Compute Extension. |
-| 8 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 🔥 425 | Hindsight: Agent Memory That Learns |
-| 9 | [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | 🔥 371 | 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. \| 用 AI 构建你专属的新闻雷达 |
-| 10 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 🔥 285 | Give your agent CAD superpowers. |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 2212 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
+| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 2136 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 3 | [google-research/harness2](https://github.com/google-research/harness2) | 🔥 1504 | ⛔ [无描述]  |
+| 4 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 🔥 1326 | 🤖 [Legacy] Anthropic 官方的 Claude 代码插件目录，提供高质量的插件。 |
+| 5 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 🔥 694 | 🤖 [llama-3.3-70b-versatile] 该项目提供一套可用的智能代理技能，用于研究、科学、工程、分析、金融和写作等领域。 |
+| 6 | [anujasid/blender-ai-mcp-addon](https://github.com/anujasid/blender-ai-mcp-addon) | 🔥 462 | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenC... |
+| 7 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 🔥 580 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| 8 | [aicodeking/leanrea](https://github.com/aicodeking/leanrea) | 🔥 475 | One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper. |
+| 9 | [SubmitGame/awesome-decomp-games](https://github.com/SubmitGame/awesome-decomp-games) | 🔥 472 | Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports. |
+| 10 | [vibheksoni/stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp) | 🔥 405 | Stealth browser automation for AI agents over MCP and the Chrome DevTools Protocol: navigation, network hooks, DOM extraction, and pixel-accurate U... |
 
 ## 🐹 Go (24h)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [yetone/magpie](https://github.com/yetone/magpie) | 🔥 718 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
-| 2 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🔥 264 | 🤖 [Legacy] vxcontrol/pentagi 是一个全自动的 AI 渗透测试系统。 |
-| 3 | [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | 🔥 162 | AI 自主渗透测试系统 \| 百度“agent+”攻防挑战赛冠军项目 |
-| 4 | [linguo2625469/workbuddy2api-panel](https://github.com/linguo2625469/workbuddy2api-panel) | 🔥 160 | 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支 |
-| 5 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 194 | 🤖 [Legacy] 腾讯的WeKnora项目是一个使用LLM的框架，实现深度文档理解和语义检索。 |
-| 6 | [jasonxu114514/opencode2api](https://github.com/jasonxu114514/opencode2api) | 🔥 160 | A Go-based OpenCode Zen / Zen Go API proxy with OpenAI & Anthropic API compatibility, key/proxy pooling, automatic routing, and WebUI. |
-| 7 | [heartleo/zlib](https://github.com/heartleo/zlib) | 🔥 124 | A command-line tool for Z-Library. Search, download, send to Kindle, and integrate with AI agents. |
-| 8 | [egoist/mygo](https://github.com/egoist/mygo) | 🔥 119 | Develop desktop apps with native UI or web frontend in Go |
-| 9 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 113 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
-| 10 | [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) | 🔥 102 | Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI. |
+| 1 | [yetone/magpie](https://github.com/yetone/magpie) | 🔥 899 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
+| 2 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🔥 167 | 🤖 [Legacy] vxcontrol/pentagi 是一个全自动的 AI 渗透测试系统。 |
+| 3 | [heartleo/zlib](https://github.com/heartleo/zlib) | 🔥 185 | A command-line tool for Z-Library. Search, download, send to Kindle, and integrate with AI agents. |
+| 4 | [linguo2625469/workbuddy2api-panel](https://github.com/linguo2625469/workbuddy2api-panel) | 🔥 125 | 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支 |
+| 5 | [google/ax](https://github.com/google/ax) | 🔥 142 | 🤖 [llama-3.3-70b-versatile] Google/ax 是一个开源的分布式智能体运行时环境。 |
+| 6 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 🔥 105 | Agent Substrate: the core system |
+| 7 | [jasonxu114514/opencode2api](https://github.com/jasonxu114514/opencode2api) | 🔥 108 | A Go-based OpenCode Zen / Zen Go API proxy with OpenAI & Anthropic API compatibility, key/proxy pooling, automatic routing, and WebUI. |
+| 8 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 127 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
+| 9 | [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global) | 🔥 53 | ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0) |
+| 10 | [KnifeLemon/Droidline](https://github.com/KnifeLemon/Droidline) | 🔥 54 | Android automation from code. Test your apps on real phones, script the tasks you repeat, run a shelf of phones, or let an AI agent use one, from P... |
 
 ## 📜 TypeScript (24h)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [morluto/rea](https://github.com/morluto/rea) | 🔥 28950 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 1019 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
-| 3 | [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) | 🔥 952 | 一分钟搭建影视站，支持Docker等部署方式 |
-| 4 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 881 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于渲染视频的HTML框架，专门为代理商设计。 |
-| 5 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 🔥 701 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 ... |
-| 6 | [corsairdev/corsair](https://github.com/corsairdev/corsair) | 🔥 677 | Connect your users to their apps |
-| 7 | [Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui) | 🔥 555 | 基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。纯手写 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。 |
-| 8 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 487 | 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpo... |
-| 9 | [wangmiaozero/pi-harness](https://github.com/wangmiaozero/pi-harness) | 🔥 418 | The operational superset of Pi Coding Agent — everything Pi, plus observability, governance, recovery, evaluation and multi-agent orchestration. Pi... |
-| 10 | [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) | 🔥 329 | 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器 |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | 🔥 17022 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 2 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 710 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于渲染视频的HTML框架，专门为代理商设计。 |
+| 3 | [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) | 🔥 471 | Harness engineering beginner tutorial, from 0 to 1 |
+| 4 | [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major) | 🔥 564 | 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器 |
+| 5 | [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) | 🔥 438 | 一分钟搭建影视站，支持Docker等部署方式 |
+| 6 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 439 | 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpo... |
+| 7 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | 🔥 381 | A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API |
+| 8 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 🔥 352 | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
+| 9 | [cursor/plugins](https://github.com/cursor/plugins) | 🔥 354 | Cursor plugin specification and official plugins |
+| 10 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 🔥 309 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 ... |
 
 
 
@@ -76,6 +76,7 @@
 
 | 日期 | 报告 |
 | :--- | :--- |
+| 2026-10-19 | [查看报告](./archives/2026-10-19.md) |
 | 2026-10-18 | [查看报告](./archives/2026-10-18.md) |
 | 2026-10-17 | [查看报告](./archives/2026-10-17.md) |
 | 2026-10-16 | [查看报告](./archives/2026-10-16.md) |
@@ -89,5 +90,4 @@
 | 2026-10-08 | [查看报告](./archives/2026-10-08.md) |
 | 2026-10-07 | [查看报告](./archives/2026-10-07.md) |
 | 2026-10-06 | [查看报告](./archives/2026-10-06.md) |
-| 2026-10-05 | [查看报告](./archives/2026-10-05.md) |
 | ... | [更多历史](./archives) |
