@@ -1,29 +1,22 @@
 # 📈 OSSInsight 每日精选
 
 每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
-> 更新时间: 2026-10-24 04:47 UTC
-
-## 🧠 Coding Agents (28d)
-
-| 排名 | 项目 | Stars | 简介 (AI/Raw) |
-| :--- | :--- | :--- | :--- |
-| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 12273 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
-| 2 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 6555 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
+> 更新时间: 2026-10-25 03:58 UTC
 
 ## 🐍 Python (24h)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [peach-mitao/peach](https://github.com/peach-mitao/peach) | 🔥 4307 | Peach 蜜桃：单用户、本地优先的个人媒体系统 · Single-user, local-first personal media system |
-| 2 | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | 🔥 1508 | DeepInfer: High-performance, large-scale inference framework for DeepSeek models |
-| 3 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 🔥 1371 | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Code... |
-| 4 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 1290 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
-| 5 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 1453 | 🤖 [llama-3.3-70b-versatile] iFixAi 是一个检测人工智能错误和盲点的工具，通过 45 项检查，快速评估 AI 模型的性能和安全性。 |
-| 6 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 🔥 1117 | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
-| 7 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 796 | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on de... |
-| 8 | [google-research/harness2](https://github.com/google-research/harness2) | 🔥 702 | ⛔ [无描述]  |
-| 9 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 🔥 602 | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
-| 10 | [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) | 🔥 598 | Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT. |
+| 1 | [peach-mitao/peach](https://github.com/peach-mitao/peach) | 🔥 4199 | Peach 蜜桃：单用户、本地优先的个人媒体系统 · Single-user, local-first personal media system |
+| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 1731 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 3 | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | 🔥 1004 | DeepInfer: High-performance, large-scale inference framework for DeepSeek models |
+| 4 | [openJiuwen-ai/jiuwenswarm](https://github.com/openJiuwen-ai/jiuwenswarm) | 🔥 743 | 🤖 [llama-3.3-70b-versatile] JiuwenSwarm是一个智能AI代理，通过日常使用的通信应用，将大型语言模型的能力直接带到用户手中。 |
+| 5 | [experientiallabs/experiential](https://github.com/experientiallabs/experiential) | 🔥 725 | Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, ... |
+| 6 | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | 🔥 726 | claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that p... |
+| 7 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 722 | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on de... |
+| 8 | [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) | 🔥 677 | 74 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skill... |
+| 9 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 647 | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doin... |
+| 10 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 🔥 586 | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
 
 ## 🐹 Go (24h)
 
@@ -44,16 +37,16 @@
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [morluto/rea](https://github.com/morluto/rea) | 🔥 8692 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 1542 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
-| 3 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 🔥 913 | 🤖 [llama-3.3-70b-versatile] 紫微斗数开源排盘引擎，基于倪海夏《天纪》体系，实现排盘算法、四化系统等功能。 |
-| 4 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 817 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于渲染视频的HTML框架，专门为代理商设计。 |
-| 5 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 665 | 🤖 [llama-3.3-70b-versatile] 该项目是一个聚合了14个AI提供商免费版密钥的OpenAI兼容代理，具有自动故障转移功能。 |
-| 6 | [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) | 🔥 417 | 一分钟搭建影视站，支持Docker等部署方式 |
-| 7 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 🔥 293 | ⛔ [无描述]  |
-| 8 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 🔥 292 | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command... |
-| 9 | [openfilm/openfilm](https://github.com/openfilm/openfilm) | 🔥 279 | The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes. |
-| 10 | [monid-ai/monid](https://github.com/monid-ai/monid) | 🔥 303 | Monid - OpenRouter for agent tools. Join our community at https://discord.gg/rQzztcgJV8 |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | 🔥 6988 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 1123 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
+| 3 | [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas) | 🔥 817 | 面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、new... |
+| 4 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 802 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于渲染视频的HTML框架，专门为代理商设计。 |
+| 5 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 679 | 🤖 [llama-3.3-70b-versatile] 该项目是一个聚合了14个AI提供商免费版密钥的OpenAI兼容代理，具有自动故障转移功能。 |
+| 6 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 🔥 536 | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
+| 7 | [mantrakp04/ardia](https://github.com/mantrakp04/ardia) | 🔥 431 | A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discord: discord.gg/TdhuXrbcA6 |
+| 8 | [makecindy/cindy](https://github.com/makecindy/cindy) | 🔥 279 | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 |
+| 9 | [thesysdev/openui](https://github.com/thesysdev/openui) | 🔥 361 | The Open Standard for Generative UI |
+| 10 | [anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime) | 🔥 282 | A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container. |
 
 
 
@@ -61,6 +54,7 @@
 
 | 日期 | 报告 |
 | :--- | :--- |
+| 2026-10-25 | [查看报告](./archives/2026-10-25.md) |
 | 2026-10-24 | [查看报告](./archives/2026-10-24.md) |
 | 2026-10-23 | [查看报告](./archives/2026-10-23.md) |
 | 2026-10-22 | [查看报告](./archives/2026-10-22.md) |
@@ -74,5 +68,4 @@
 | 2026-10-14 | [查看报告](./archives/2026-10-14.md) |
 | 2026-10-13 | [查看报告](./archives/2026-10-13.md) |
 | 2026-10-12 | [查看报告](./archives/2026-10-12.md) |
-| 2026-10-11 | [查看报告](./archives/2026-10-11.md) |
 | ... | [更多历史](./archives) |
