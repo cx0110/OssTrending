@@ -1,74 +1,52 @@
 # 📈 OSSInsight 每日精选
 
 每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
-> 更新时间: 2026-10-26 04:08 UTC
-
-## 🧠 Coding Agents (28d)
-
-| 排名 | 项目 | Stars | 简介 (AI/Raw) |
-| :--- | :--- | :--- | :--- |
-| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 12833 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
-| 2 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔥 6630 | 🤖 [Legacy] Claude Code 是一个终端工具，通过自然语言命令帮助开发者自动化编码任务和管理代码库。 |
+> 更新时间: 2026-10-27 06:05 UTC
 
 ## 🔥 全球热榜 (24h)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [morluto/rea](https://github.com/morluto/rea) | 🔥 5899 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 2 | [Gathin23/tv-vibehack](https://github.com/Gathin23/tv-vibehack) | 🔥 3867 | Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code. |
-| 3 | [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) | 🔥 3194 | ⛔ [无描述]  |
-| 4 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 🔥 2845 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
-| 5 | [peach-mitao/peach](https://github.com/peach-mitao/peach) | 🔥 1834 | Peach 蜜桃：单用户、本地优先的个人媒体系统 · Single-user, local-first personal media system |
-| 6 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 1670 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
-| 7 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 978 | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, pr... |
-| 8 | [experientiallabs/experiential](https://github.com/experientiallabs/experiential) | 🔥 1374 | Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, ... |
-| 9 | [ludovic111/horizon](https://github.com/ludovic111/horizon) | 🔥 1016 | Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launc... |
-| 10 | [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) | 🔥 894 | DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分 |
-
-## 🐍 Python (24h)
-
-| 排名 | 项目 | Stars | 简介 (AI/Raw) |
-| :--- | :--- | :--- | :--- |
-| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 1660 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
-| 2 | [peach-mitao/peach](https://github.com/peach-mitao/peach) | 🔥 1771 | Peach 蜜桃：单用户、本地优先的个人媒体系统 · Single-user, local-first personal media system |
-| 3 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 🔥 992 | 🤖 [llama-3.3-70b-versatile] 该项目是一个AI驱动的求职框架，帮助用户定制简历、撰写求职信和准备面试。 |
-| 4 | [experientiallabs/experiential](https://github.com/experientiallabs/experiential) | 🔥 1377 | Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, ... |
-| 5 | [deepopen-com/deepopen](https://github.com/deepopen-com/deepopen) | 🔥 766 | 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine.  |
-| 6 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 🔥 727 | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on de... |
-| 7 | [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | 🔥 665 | DeepInfer: High-performance, large-scale inference framework for DeepSeek models |
-| 8 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 🔥 694 | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
-| 9 | [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) | 🔥 510 | 中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中），课标对齐、人教版，1244 知识点、5123 题、自适应诊断 |
-| 10 | [google-research/harness2](https://github.com/google-research/harness2) | 🔥 531 | ⛔ [无描述]  |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | 🔥 6746 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 2 | [Gathin23/tv-vibehack](https://github.com/Gathin23/tv-vibehack) | 🔥 4039 | Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code. |
+| 3 | [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) | 🔥 3985 | ⛔ [无描述]  |
+| 4 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | 🔥 2941 | ⛔ [无描述]  |
+| 5 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 2227 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 6 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 🔥 2232 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| 7 | [seedds/nxnative](https://github.com/seedds/nxnative) | 🔥 1419 | Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal) |
+| 8 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 🔥 1550 | The design language that makes your AI harness better at design. |
+| 9 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | 🔥 1325 | Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Ag... |
+| 10 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 🔥 1283 | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 
 ## 🐹 Go (24h)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [yetone/magpie](https://github.com/yetone/magpie) | 🔥 603 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
-| 2 | [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) | 🔥 155 | A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every ... |
-| 3 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🔥 141 | 🤖 [Legacy] vxcontrol/pentagi 是一个全自动的 AI 渗透测试系统。 |
-| 4 | [rohit267/net-merge](https://github.com/rohit267/net-merge) | 🔥 124 | Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun) |
-| 5 | [egoist/mygo](https://github.com/egoist/mygo) | 🔥 132 | Develop desktop apps with native UI or web frontend in Go |
-| 6 | [wangwanjie/gately](https://github.com/wangwanjie/gately) | 🔥 108 | Open-source, auditable network gateway toolkit: DDNS, STUN traversal, port forwarding, reverse proxy, ACME certificates, WAF, Tailscale, frp in a s... |
-| 7 | [strelov1/freehire](https://github.com/strelov1/freehire) | 🔥 84 | freehire — the open-source search engine for job seekers |
-| 8 | [Hinln/ARTEX](https://github.com/Hinln/ARTEX) | 🔥 42 | ARTEX 源码备份：基于 Autumn-27/ARTEX v0.3.15，保留原始提交历史与 AGPL-3.0 许可证。 |
-| 9 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 🔥 70 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
-| 10 | [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global) | 🔥 57 | ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0) |
+| 1 | [yetone/magpie](https://github.com/yetone/magpie) | 🔥 714 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
+| 2 | [MobAI-App/simslim](https://github.com/MobAI-App/simslim) | 🔥 241 | Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need |
+| 3 | [nudgebee/nudgebee](https://github.com/nudgebee/nudgebee) | 🔥 126 | 🤖 [llama-3.3-70b-versatile] Nudgebee是一个统一的云运营平台，集成了AI-SRE、AI-FinOps、AI-K8sOps等功能。 |
+| 4 | [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) | 🔥 181 | A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every ... |
+| 5 | [egoist/mygo](https://github.com/egoist/mygo) | 🔥 143 | Develop desktop apps with native UI or web frontend in Go |
+| 6 | [rohit267/net-merge](https://github.com/rohit267/net-merge) | 🔥 128 | Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun) |
+| 7 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🔥 118 | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| 8 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🔥 95 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
+| 9 | [strelov1/freehire](https://github.com/strelov1/freehire) | 🔥 66 | freehire — the open-source search engine for job seekers |
+| 10 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 74 | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-... |
 
 ## 📜 TypeScript (24h)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [morluto/rea](https://github.com/morluto/rea) | 🔥 5820 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 1123 | 🤖 [llama-3.3-70b-versatile] Orca是一个下一代集成开发环境（IDE），用于构建与编码代理相关的项目。 |
-| 3 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 741 | 🤖 [llama-3.3-70b-versatile] 该项目是一个聚合了14个AI提供商免费版密钥的OpenAI兼容代理，具有自动故障转移功能。 |
-| 4 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 710 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于渲染视频的HTML框架，专门为代理商设计。 |
-| 5 | [makecindy/cindy](https://github.com/makecindy/cindy) | 🔥 594 | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 |
-| 6 | [microsoft/skill-recorder](https://github.com/microsoft/skill-recorder) | 🔥 423 | Desktop app that records your on-screen work session and uses the GitHub Copilot SDK to reconstruct it as an intent + ordered steps, then builds a ... |
-| 7 | [anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime) | 🔥 548 | A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container. |
-| 8 | [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | 🔥 521 | The best way to get AI coding agents to solve hard problems in complex codebases. |
-| 9 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 🔥 420 | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
-| 10 | [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | 🔥 283 | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command... |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | 🔥 6195 | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| 2 | [makecindy/cindy](https://github.com/makecindy/cindy) | 🔥 815 | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 |
+| 3 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | 🔥 655 | Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need |
+| 4 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔥 728 | 🤖 [llama-3.3-70b-versatile] 该项目是一个用于渲染视频的HTML框架，专门为代理商设计。 |
+| 5 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 654 | 🤖 [llama-3.3-70b-versatile] 该项目是一个聚合了14个AI提供商免费版密钥的OpenAI兼容代理，具有自动故障转移功能。 |
+| 6 | [FailproofAI/failproofai](https://github.com/FailproofAI/failproofai) | 🔥 436 | Observability and enforcement for AI agent harnesses. Capture every run and runtime reliability with policy enforcement.   |
+| 7 | [microsoft/skill-recorder](https://github.com/microsoft/skill-recorder) | 🔥 390 | Desktop app that records your on-screen work session and uses the GitHub Copilot SDK to reconstruct it as an intent + ordered steps, then builds a ... |
+| 8 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 🔥 315 | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
+| 9 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 🔥 285 | ⛔ [无描述]  |
+| 10 | [thesysdev/openui](https://github.com/thesysdev/openui) | 🔥 335 | The Open Standard for Generative UI |
 
 
 
@@ -76,6 +54,7 @@
 
 | 日期 | 报告 |
 | :--- | :--- |
+| 2026-10-27 | [查看报告](./archives/2026-10-27.md) |
 | 2026-10-26 | [查看报告](./archives/2026-10-26.md) |
 | 2026-10-25 | [查看报告](./archives/2026-10-25.md) |
 | 2026-10-24 | [查看报告](./archives/2026-10-24.md) |
@@ -89,5 +68,4 @@
 | 2026-10-16 | [查看报告](./archives/2026-10-16.md) |
 | 2026-10-15 | [查看报告](./archives/2026-10-15.md) |
 | 2026-10-14 | [查看报告](./archives/2026-10-14.md) |
-| 2026-10-13 | [查看报告](./archives/2026-10-13.md) |
 | ... | [更多历史](./archives) |
