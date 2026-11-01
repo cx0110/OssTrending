@@ -1,37 +1,58 @@
 # 📈 OSSInsight 每日精选
 
 每日自动更新 GitHub 热门项目精选，由 AI (Groq) 辅助分析。
-> 更新时间: 2026-11-01 04:47 UTC
+> 更新时间: 2026-11-02 05:28 UTC
+
+## 🧠 Coding Agents (28d)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | 🔥 14126 | 🤖 [Legacy] 开源编码智能代理，帮助开发者提高编码效率。 |
+
+## 🔥 全球热榜 (24h)
+
+| 排名 | 项目 | Stars | 简介 (AI/Raw) |
+| :--- | :--- | :--- | :--- |
+| 1 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 🔥 3049 | ⛔ [无描述]  |
+| 2 | [lahfir/agent-desktop](https://github.com/lahfir/agent-desktop) | 🔥 2331 | Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility t... |
+| 3 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 2214 | 🤖 [llama-3.3-70b-versatile] iFixAi 是一个检测人工智能错误和盲点的工具，通过 45 项检查，快速评估 AI 模型的性能和安全性。 |
+| 4 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 🔥 1695 | 🤖 [Legacy] Claude Mem 插件自动记录和压缩代码编辑过程，并在未来会话中提供相关上下文。 |
+| 5 | [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) | 🔥 1450 | 🤖 [llama-3.3-70b-versatile] 一个开源的多智能体AI桌面客户端，通过对话构建和命令AI代理团队。 |
+| 6 | [Gathin23/tv-vibehack](https://github.com/Gathin23/tv-vibehack) | 🔥 1165 | Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code. |
+| 7 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 🔥 1224 | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| 8 | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 🔥 1060 | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
+| 9 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 🔥 1198 | The design language that makes your AI harness better at design. |
+| 10 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 1109 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
 
 ## 🐍 Python (24h)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 2530 | 🤖 [llama-3.3-70b-versatile] iFixAi 是一个检测人工智能错误和盲点的工具，通过 45 项检查，快速评估 AI 模型的性能和安全性。 |
-| 2 | [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) | 🔥 1506 | Experience-Driven Black-Box Cost Control for Coding Agents |
-| 3 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 1354 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
-| 4 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 1134 | 🤖 [Legacy] DeepTutor是一个人工智能驱动的个性化学习助手。 |
-| 5 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | 🔥 535 | Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Ag... |
-| 6 | [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) | 🔥 480 | 74 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skill... |
-| 7 | [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) | 🔥 391 | 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you ris... |
-| 8 | [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) | 🔥 349 | learn LLM inference system on Apple Silicon for systems engineers: build a tiny vLLM + Qwen |
-| 9 | [Jakeschincariol/instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill) | 🔥 248 | Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer.... |
-| 10 | [superdesigndev/treg](https://github.com/superdesigndev/treg) | 🔥 266 | OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn |
+| 1 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 🔥 2169 | 🤖 [llama-3.3-70b-versatile] iFixAi 是一个检测人工智能错误和盲点的工具，通过 45 项检查，快速评估 AI 模型的性能和安全性。 |
+| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🔥 1106 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobo... |
+| 3 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 🔥 1093 | 🤖 [Legacy] DeepTutor是一个人工智能驱动的个性化学习助手。 |
+| 4 | [microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer) | 🔥 1005 | Experience-Driven Black-Box Cost Control for Coding Agents |
+| 5 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | 🔥 509 | Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Ag... |
+| 6 | [peach-mitao/peach](https://github.com/peach-mitao/peach) | 🔥 419 | Peach 蜜桃：单用户、本地优先的个人媒体系统 · Single-user, local-first personal media system |
+| 7 | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | 🔥 414 | Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every a... |
+| 8 | [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) | 🔥 350 | 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you ris... |
+| 9 | [Oldcircle/geo-sleuth](https://github.com/Oldcircle/geo-sleuth) | 🔥 380 | An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its w... |
+| 10 | [QuantJourneyOrg/quantjourney-bt](https://github.com/QuantJourneyOrg/quantjourney-bt) | 🔥 328 | QuantJourney Backtester |
 
-## 📜 TypeScript (24h)
+## 🐹 Go (24h)
 
 | 排名 | 项目 | Stars | 简介 (AI/Raw) |
 | :--- | :--- | :--- | :--- |
-| 1 | [morluto/rea](https://github.com/morluto/rea) | 🔥 4564 | Reverse engineer anything with agents, from app behavior down to native binaries. |
-| 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 🔥 1618 | 🤖 [Legacy] Claude Mem 插件自动记录和压缩代码编辑过程，并在未来会话中提供相关上下文。 |
-| 3 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | 🔥 1206 | Open-source Grok Bot alternative with a virtual machine that bots can use |
-| 4 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 🔥 1088 | 🤖 [llama-3.3-70b-versatile] 紫微斗数开源排盘引擎，基于倪海夏《天纪》体系，实现排盘算法、四化系统等功能。 |
-| 5 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 🔥 873 | ⛔ [无描述]  |
-| 6 | [stablyai/orca](https://github.com/stablyai/orca) | 🔥 960 | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on de... |
-| 7 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | 🔥 677 | 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpo... |
-| 8 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | 🔥 660 | Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorde... |
-| 9 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | 🔥 588 | Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need |
-| 10 | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 🔥 454 | AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready tem... |
+| 1 | [yetone/magpie](https://github.com/yetone/magpie) | 🔥 703 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
+| 2 | [CarterPerez-dev/Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) | 🔥 102 | Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified ... |
+| 3 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | 🔥 116 | Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into d... |
+| 4 | [egoist/mygo](https://github.com/egoist/mygo) | 🔥 62 | Develop desktop apps with native UI or web frontend in Go |
+| 5 | [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global) | 🔥 50 | ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0) |
+| 6 | [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) | 🔥 91 | Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)  |
+| 7 | [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX) | 🔥 41 | ARTEX - AI autonomous penetration testing system (English translation) |
+| 8 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🔥 54 | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-... |
+| 9 | [rohit267/net-merge](https://github.com/rohit267/net-merge) | 🔥 53 | Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun) |
+| 10 | [agenvoy/Agenvoy](https://github.com/agenvoy/Agenvoy) | 🔥 55 | A local AI agent harness in Go that runs 24/7 with auto-built tools, MCP, and Ollama |
 
 
 
@@ -39,6 +60,7 @@
 
 | 日期 | 报告 |
 | :--- | :--- |
+| 2026-11-02 | [查看报告](./archives/2026-11-02.md) |
 | 2026-11-01 | [查看报告](./archives/2026-11-01.md) |
 | 2026-10-31 | [查看报告](./archives/2026-10-31.md) |
 | 2026-10-30 | [查看报告](./archives/2026-10-30.md) |
@@ -52,5 +74,4 @@
 | 2026-10-22 | [查看报告](./archives/2026-10-22.md) |
 | 2026-10-21 | [查看报告](./archives/2026-10-21.md) |
 | 2026-10-20 | [查看报告](./archives/2026-10-20.md) |
-| 2026-10-19 | [查看报告](./archives/2026-10-19.md) |
 | ... | [更多历史](./archives) |
